@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<section class="team-member-page">
+    <div class="container">
+        <a href="{{ '/team' | relative_url }}" class="back-link">← Back to Team</a>
+        
+        <div class="member-header">
+            {% if page.image %}
+            <div class="member-photo">
+                <img src="{{ page.image | relative_url }}" alt="{{ page.name }}">
+            </div>
+            {% endif %}
+            
+            <div class="member-details">
+                <h1>{{ page.name }}</h1>
+                {% if page.title %}
+                <p class="position">{{ page.title }}</p>
+                {% endif %}
+                {% if page.email %}
+                <p class="email"><a href="mailto:{{ page.email }}">{{ page.email }}</a></p>
+                {% endif %}
+                {% if page.website %}
+                <p class="website"><a href="{{ page.website }}" target="_blank" rel="noopener noreferrer">Personal Website</a></p>
+                {% endif %}
+            </div>
+        </div>
+        
+        <div class="member-bio-full">
+            {{ page.bio | markdownify }}
+        </div>
+        
+        {% if page.research_interests %}
+        <div class="research-interests">
+            <h2>Research Interests</h2>
+            <p>{{ page.research_interests }}</p>
+        </div>
+        {% endif %}
+    </div>
+</section>

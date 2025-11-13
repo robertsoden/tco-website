@@ -1,0 +1,62 @@
+# Site settings
+title: Toronto Climate Observatory
+email: torontoclimateobservatory@gmail.com
+description: >-
+  The Toronto Climate Observatory is a research and knowledge hub dedicated to supporting
+  just, place-based climate action across the Greater Toronto Area.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://yourusername.github.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Collections
+collections:
+  team:
+    output: true
+    permalink: /team/:name/
+  projects:
+    output: true
+    permalink: /projects/:name/
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "team"
+    values:
+      layout: "team-member"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
+  - CLAUDE.md
+  - START-HERE.md
+  - PROJECT-SUMMARY.md
+  - QUICK-START.md
+  - DEPLOYMENT.md
+  - DELIVERY-SUMMARY.md
+  - CLAUDE-CODE-INSTRUCTIONS.md
+  - extract_content.py
+  - climate-observatory-jekyll.tar.gz

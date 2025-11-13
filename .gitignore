@@ -1,0 +1,22 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+.bundle
+Gemfile.lock
+.DS_Store
+*.swp
+*.swo
+*~
+node_modules/
+
+# Archive and temporary files
+climate-observatory-jekyll.tar.gz
+mnt/
+extract_content.py
+START-HERE.md
+PROJECT-SUMMARY.md
+QUICK-START.md
+DELIVERY-SUMMARY.md
+CLAUDE-CODE-INSTRUCTIONS.md
