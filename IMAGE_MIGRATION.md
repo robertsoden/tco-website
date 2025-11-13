@@ -1,62 +1,64 @@
 # Image Migration Guide
 
-## Issue
+## Status: ✅ COMPLETE
 
-The WordPress site (climateobservatory.ca) has security plugins that block direct downloads of images with 403 Forbidden errors. This means the 296 images from the WordPress export cannot be automatically downloaded.
+All 121 images from WordPress have been successfully migrated and pushed to GitHub.
 
-## Image URLs
+## What Was Completed
 
-All 296 image URLs have been saved to: `images_to_download.txt`
+- ✅ Extracted all 121 images from WordPress export zip file
+- ✅ All images committed to repository at `assets/images/uploads/`
+- ✅ All images pushed to GitHub
+- ✅ Content references properly configured with Jekyll paths
 
-## Manual Migration Options
+## Image Inventory
 
-### Option 1: Download from WordPress Admin (Recommended)
-
-1. Log into WordPress admin at `https://climateobservatory.ca/wp-admin`
-2. Go to **Media Library**
-3. Select all images and use a plugin like "Export Media Library" to download them as a zip
-4. Extract to `assets/images/uploads/`
-
-### Option 2: Access Server Files Directly
-
-If you have FTP/SSH access to the WordPress server:
-
-```bash
-# Connect to server and copy wp-content/uploads directory
-scp -r user@server:/path/to/wp-content/uploads/* ./assets/images/uploads/
-```
-
-### Option 3: Use WordPress Export Plugin
-
-Install a plugin like "All-in-One WP Migration" or "Duplicator" which includes media files in the export.
-
-### Option 4: Download via WordPress Media Library Manager
-
-Use a plugin like "Media Library Assistant" to export media files systematically.
+- **Total images:** 121 files (59 MB)
+- **Location:** `assets/images/uploads/`
+- **Includes:**
+  - Team member photos
+  - Blog post images (2021-2024)
+  - Project images
+  - Partner/funder logos
+  - PDF documents (Bay Street Climate Report)
+  - WordPress theme images
 
 ## Image References in Content
 
-The migration script has already updated all content files to reference images at:
+All content files reference images using Jekyll's relative_url filter:
 
 ```markdown
 ![alt text]({{ "/assets/images/uploads/filename.jpg" | relative_url }})
 ```
 
-Once you place the images in `assets/images/uploads/`, all image links should work automatically.
+This ensures images work correctly whether deployed to GitHub Pages, custom domain, or localhost.
 
-## Team Member Photos
+## Optional: Image Organization
 
-Team member profile photos need special attention. Current references point to:
-- `/assets/images/uploads/` (from WordPress migration)
+If you want to reorganize images into subdirectories for better organization:
 
-You may want to reorganize these to:
-- `/assets/images/team/` (following Jekyll convention)
+```bash
+# Create organized structure
+mkdir -p assets/images/{team,news,projects,logos}
 
-If you move them, update the `image:` field in each `_team/*.md` file.
+# Example: Move team photos
+mv assets/images/uploads/*-soden*.{jpg,png} assets/images/team/
+mv assets/images/uploads/AL.png assets/images/team/
+# etc.
+
+# Example: Move logos
+mv assets/images/uploads/*logo*.{png,svg} assets/images/logos/
+mv assets/images/uploads/*Logo*.{png,svg} assets/images/logos/
+```
+
+**Important:** If you reorganize images, you must update the image paths in:
+- Blog posts (`_posts/*.md`)
+- Team member profiles (`_team/*.md`)
+- Page files (`*.md`)
 
 ## Image Optimization (Optional)
 
-After migrating images, consider optimizing them for web:
+To improve site performance, consider optimizing images:
 
 ```bash
 # Install optimization tools
@@ -69,21 +71,19 @@ find assets/images -name "*.png" -exec optipng -o7 {} \;
 find assets/images -name "*.jpg" -exec jpegoptim --max=85 --strip-all {} \;
 ```
 
-## Status
+## Testing
 
-- ✅ Image URLs extracted (296 images)
-- ✅ Content updated to reference new paths
-- ❌ Images not yet downloaded (blocked by security plugin)
-- ⏳ Awaiting manual transfer
+Test images locally:
 
-## Next Steps
+```bash
+bundle exec jekyll serve
+```
 
-1. Choose one of the migration options above
-2. Download/transfer all images to `assets/images/uploads/`
-3. Test the site locally: `bundle exec jekyll serve`
-4. Verify all images display correctly
-5. (Optional) Reorganize images into subdirectories:
-   - `/assets/images/team/` - Team photos
-   - `/assets/images/news/` - Blog post images
-   - `/assets/images/projects/` - Project images
-   - `/assets/images/logos/` - Logos and branding
+Open http://localhost:4000 and verify all images display correctly on:
+- Blog posts
+- Team member pages
+- Home page and other content pages
+
+## Deployment
+
+Images are now in the repository and will automatically deploy with GitHub Pages. No additional configuration needed.
