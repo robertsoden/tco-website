@@ -75,19 +75,29 @@ Additional WordPress pages migrated to root directory:
 
 ## ⚠️ Known Issues & Manual Tasks Required
 
-### 1. Images (296 files) - REQUIRES MANUAL TRANSFER
+### 1. Images - PARTIALLY COMPLETE ⚠️
 
-**Problem:** WordPress site blocks direct image downloads (403 Forbidden)
+**Status:**
+- ✅ 121 images migrated successfully (older posts work)
+- ❌ 43 images missing (3 recent posts have broken images)
 
-**Solution:** See `IMAGE_MIGRATION.md` for detailed instructions
+**Problem:** WordPress export zip was incomplete - missing images from Nov-Dec 2024
+
+**Affected posts:**
+- 2024-11-04: Conference - 6 TCO Research Projects
+- 2024-12-17: The Himalayan Climate Data Field Lab
+- 2024-12-18: TCO Newsletter December 2024
+
+**Solution:** See `MISSING_IMAGES_REPORT.md` for:
+- Complete list of 43 missing images
+- 4 different ways to obtain them
+- Which posts are affected
 
 **Quick fix:**
 1. Log into WordPress admin
-2. Go to Media Library
-3. Use export plugin or FTP to download all files from `wp-content/uploads/`
+2. Go to Media Library → Filter by Nov-Dec 2024
+3. Export those specific images
 4. Place in `assets/images/uploads/`
-
-**Image references updated:** All content already references new paths
 
 ### 2. Team Member Information - NEEDS COMPLETION
 
