@@ -13,31 +13,31 @@ A great first day at the 2024 Beatrice and Arthur Minden Symposium on the Enviro
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":2366} -->
-<figure class="wp-block-image">![Image preview]({{ "/assets/images/uploads/image-1.jpeg" | relative_url }})<figcaption class="wp-element-caption">[Ingrid Waldron, Ph.D.](https://www.linkedin.com/in/ingrid-waldron-ph-d-2908a725/), McMaster University</figcaption></figure>
+<figure class="wp-block-image">![Image preview]({{ "/assets/images/image-1.jpeg" | relative_url }})<figcaption class="wp-element-caption">[Ingrid Waldron, Ph.D.](https://www.linkedin.com/in/ingrid-waldron-ph-d-2908a725/), McMaster University</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":2372} -->
-<figure class="wp-block-image">![Image preview]({{ "/assets/images/uploads/image-7.jpeg" | relative_url }})<figcaption class="wp-element-caption">- [](https://www.linkedin.com/in/ACoAACQnILABKIFY0Gj232BT9nuJp5f3kfZyCsw)[Kerry-Ann Charles](https://www.linkedin.com/in/kerry-ann-charles-35416914b/), Cambium Indigenous Professional Services</figcaption></figure>
+<figure class="wp-block-image">![Image preview]({{ "/assets/images/image-7.jpeg" | relative_url }})<figcaption class="wp-element-caption">- [](https://www.linkedin.com/in/ACoAACQnILABKIFY0Gj232BT9nuJp5f3kfZyCsw)[Kerry-Ann Charles](https://www.linkedin.com/in/kerry-ann-charles-35416914b/), Cambium Indigenous Professional Services</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":2371} -->
-<figure class="wp-block-image">![No alt text provided for this image]({{ "/assets/images/uploads/image-6.jpeg" | relative_url }})<figcaption class="wp-element-caption"> Connected Communities: The advancing whole of society approaches to addressing climate risk- by [](https://www.linkedin.com/in/ACoAAAP1xcsBqjkLVwiAAXh-UFtqtoRZSuY1HWE)[Anne Gloger](https://www.linkedin.com/in/anne-gloger-3233001a/)</figcaption></figure>
+<figure class="wp-block-image">![No alt text provided for this image]({{ "/assets/images/image-6.jpeg" | relative_url }})<figcaption class="wp-element-caption"> Connected Communities: The advancing whole of society approaches to addressing climate risk- by [](https://www.linkedin.com/in/ACoAAAP1xcsBqjkLVwiAAXh-UFtqtoRZSuY1HWE)[Anne Gloger](https://www.linkedin.com/in/anne-gloger-3233001a/)</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":2369} -->
-<figure class="wp-block-image">![No alt text provided for this image]({{ "/assets/images/uploads/image-4.jpeg" | relative_url }})<figcaption class="wp-element-caption">Climate Risk and Agriculture and Food Systems - Michael Classens, University of Toronto</figcaption></figure>
+<figure class="wp-block-image">![No alt text provided for this image]({{ "/assets/images/image-4.jpeg" | relative_url }})<figcaption class="wp-element-caption">Climate Risk and Agriculture and Food Systems - Michael Classens, University of Toronto</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":2367} -->
-<figure class="wp-block-image">![No alt text provided for this image]({{ "/assets/images/uploads/image-2.jpeg" | relative_url }})<figcaption class="wp-element-caption">Climate Risk and Flooding - [](https://www.linkedin.com/in/ACoAAAubbegBhT-LQ5j963ptVWOzfiIXSmIIKQo)[Mohammad Reza Najafi](https://www.linkedin.com/in/mohammad-reza-najafi-26027255/), Western University</figcaption></figure>
+<figure class="wp-block-image">![No alt text provided for this image]({{ "/assets/images/image-2.jpeg" | relative_url }})<figcaption class="wp-element-caption">Climate Risk and Flooding - [](https://www.linkedin.com/in/ACoAAAubbegBhT-LQ5j963ptVWOzfiIXSmIIKQo)[Mohammad Reza Najafi](https://www.linkedin.com/in/mohammad-reza-najafi-26027255/), Western University</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":2370} -->
-<figure class="wp-block-image">![No alt text provided for this image]({{ "/assets/images/uploads/image-5.jpeg" | relative_url }})</figure>
+<figure class="wp-block-image">![No alt text provided for this image]({{ "/assets/images/image-5.jpeg" | relative_url }})</figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":2368} -->
-<figure class="wp-block-image">![No alt text provided for this image]({{ "/assets/images/uploads/image-3.jpeg" | relative_url }})<figcaption class="wp-element-caption">Postering Session! </figcaption></figure>
+<figure class="wp-block-image">![No alt text provided for this image]({{ "/assets/images/image-3.jpeg" | relative_url }})<figcaption class="wp-element-caption">Postering Session! </figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

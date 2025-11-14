@@ -23,19 +23,19 @@ The Himalayan Climate Data Field Lab&nbsp;brought 112 people from 19 different c
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"width":"33.34%"} -->
 <div class="wp-block-column" style="flex-basis:33.34%"><!-- wp:image {"id":2431,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large">![]({{ "/assets/images/uploads/IMG_2977-1-1024x768.jpg" | relative_url }})</figure>
+<figure class="wp-block-image size-large">![](({{ "/assets/images/IMG_2977-1-scaled.jpg" | relative_url }}))</figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"width":"33.33%"} -->
 <div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:image {"id":2437,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large">![]({{ "/assets/images/uploads/IMG_6920-1024x768.jpg" | relative_url }})</figure>
+<figure class="wp-block-image size-large">![](({{ "/assets/images/IMG_6920-scaled.jpg" | relative_url }}))</figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"width":"33.33%"} -->
 <div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:image {"id":2432,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large">![]({{ "/assets/images/uploads/IMG_2077-1-1024x768.jpg" | relative_url }})</figure>
+<figure class="wp-block-image size-large">![](({{ "/assets/images/IMG_2077-1-scaled.jpg" | relative_url }}))</figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -47,19 +47,19 @@ The Himalayan Climate Data Field Lab&nbsp;brought 112 people from 19 different c
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2444,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large">![]({{ "/assets/images/uploads/IMG_6410-768x1024.jpg" | relative_url }})</figure>
+<figure class="wp-block-image size-large">![](({{ "/assets/images/IMG_6410-scaled.jpg" | relative_url }}))</figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2441,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large">![]({{ "/assets/images/uploads/IMG_2490-1-768x1024.jpg" | relative_url }})</figure>
+<figure class="wp-block-image size-large">![](({{ "/assets/images/IMG_2490-1-scaled.jpg" | relative_url }}))</figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2440,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large">![]({{ "/assets/images/uploads/IMG_5249-1-768x1024.jpg" | relative_url }})</figure>
+<figure class="wp-block-image size-large">![](({{ "/assets/images/IMG_5249-1-scaled.jpg" | relative_url }}))</figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -69,5 +69,5 @@ The Himalayan Climate Data Field Lab&nbsp;brought 112 people from 19 different c
 <!-- /wp:paragraph -->
 
 <!-- wp:jetpack/tiled-gallery {"columns":3,"columnWidths":[["37.02678","62.97322"],["50.00000","50.00000"],["66.77402","33.22598"],["33.33333","33.33333","33.33333"],["30.74081","34.56018","17.34950","17.34950"]],"ids":[2453,2446,2445,2443,2440,2439,2438,2437,2436,2435,2431,2432,2433,2434,2421,2426]} -->
-<div class="wp-block-jetpack-tiled-gallery aligncenter is-style-rectangular"><div class=""><div class="tiled-gallery__gallery"><div class="tiled-gallery__row"><div class="tiled-gallery__col" style="flex-basis:37.02678%"><figure class="tiled-gallery__item">![]({{ "/assets/images/uploads/IMG_3516-2-1024x768.jpg" | relative_url }})</figure><figure class="tiled-gallery__item">![]({{ "/assets/images/uploads/IMG_5534-1-1024x768.jpg" | relative_url }})</figure><figure class="tiled-gallery__item">![]({{ "/assets/images/uploads/IMG_5295-1024x768.jpg" | relative_url }})</figure></div><div class="tiled-gallery__col" style="flex-basis:62.97322%"><figure class="tiled-gallery__item">![]({{ "/assets/images/uploads/IMG_6484-768x1024.jpg" | relative_url }})</figure></div></div><div class="tiled-gallery__row"><div class="tiled-gallery__col" style="flex-basis:50.00000%"><figure class="tiled-gallery__item">![]({{ "/assets/images/uploads/IMG_5249-1-768x1024.jpg" | relative_url }})</figure></div><div class="tiled-gallery__col" style="flex-basis:50.00000%"><figure class="tiled-gallery__item">![]({{ "/assets/images/uploads/IMG_6906-768x1024.jpg" | relative_url }})</figure></div></div><div class="tiled-gallery__row"><div class="tiled-gallery__col" style="flex-basis:66.77402%"><figure class="tiled-gallery__item">![]({{ "/assets/images/uploads/IMG_5131-1-1024x768.jpg" | relative_url }})</figure></div><div class="tiled-gallery__col" style="flex-basis:33.22598%"><figure class="tiled-gallery__item">![]({{ "/assets/images/uploads/IMG_6920-1024x768.jpg" | relative_url }})</figure><figure class="tiled-gallery__item">![]({{ "/assets/images/uploads/IMG_3995-1-1024x768.jpg" | relative_url }})</figure></div></div><div class="tiled-gallery__row"><div class="tiled-gallery__col" style="flex-basis:33.33333%"><figure class="tiled-gallery__item">![]({{ "/assets/images/uploads/IMG_6216-1024x768.jpg" | relative_url }})</figure></div><div class="tiled-gallery__col" style="flex-basis:33.33333%"><figure class="tiled-gallery__item">![]({{ "/assets/images/uploads/IMG_2977-1-1024x768.jpg" | relative_url }})</figure></div><div class="tiled-gallery__col" style="flex-basis:33.33333%"><figure class="tiled-gallery__item">![]({{ "/assets/images/uploads/IMG_2077-1-1024x768.jpg" | relative_url }})</figure></div></div><div class="tiled-gallery__row"><div class="tiled-gallery__col" style="flex-basis:30.74081%"><figure class="tiled-gallery__item">![]({{ "/assets/images/uploads/IMG_1992-1-1024x768.jpg" | relative_url }})</figure></div><div class="tiled-gallery__col" style="flex-basis:34.56018%"><figure class="tiled-gallery__item">![]({{ "/assets/images/uploads/Field-Lab-partial-group-photo_Week-1-1-1024x683.jpg" | relative_url }})</figure></div><div class="tiled-gallery__col" style="flex-basis:17.34950%"><figure class="tiled-gallery__item">![]({{ "/assets/images/uploads/IMG_2454-768x1024.jpg" | relative_url }})</figure></div><div class="tiled-gallery__col" style="flex-basis:17.34950%"><figure class="tiled-gallery__item">![]({{ "/assets/images/uploads/IMG_5249-768x1024.jpg" | relative_url }})</figure></div></div></div></div></div>
+<div class="wp-block-jetpack-tiled-gallery aligncenter is-style-rectangular"><div class=""><div class="tiled-gallery__gallery"><div class="tiled-gallery__row"><div class="tiled-gallery__col" style="flex-basis:37.02678%"><figure class="tiled-gallery__item">![](({{ "/assets/images/IMG_3516-2-scaled.jpg" | relative_url }}))</figure><figure class="tiled-gallery__item">![](({{ "/assets/images/IMG_5534-1-scaled.jpg" | relative_url }}))</figure><figure class="tiled-gallery__item">![](({{ "/assets/images/IMG_5295-scaled.jpg" | relative_url }}))</figure></div><div class="tiled-gallery__col" style="flex-basis:62.97322%"><figure class="tiled-gallery__item">![](({{ "/assets/images/IMG_6484-scaled.jpg" | relative_url }}))</figure></div></div><div class="tiled-gallery__row"><div class="tiled-gallery__col" style="flex-basis:50.00000%"><figure class="tiled-gallery__item">![](({{ "/assets/images/IMG_5249-1-scaled.jpg" | relative_url }}))</figure></div><div class="tiled-gallery__col" style="flex-basis:50.00000%"><figure class="tiled-gallery__item">![](({{ "/assets/images/IMG_6906-scaled.jpg" | relative_url }}))</figure></div></div><div class="tiled-gallery__row"><div class="tiled-gallery__col" style="flex-basis:66.77402%"><figure class="tiled-gallery__item">![](({{ "/assets/images/IMG_5131-1-scaled.jpg" | relative_url }}))</figure></div><div class="tiled-gallery__col" style="flex-basis:33.22598%"><figure class="tiled-gallery__item">![](({{ "/assets/images/IMG_6920-scaled.jpg" | relative_url }}))</figure><figure class="tiled-gallery__item">![](({{ "/assets/images/IMG_3995-1-scaled.jpg" | relative_url }}))</figure></div></div><div class="tiled-gallery__row"><div class="tiled-gallery__col" style="flex-basis:33.33333%"><figure class="tiled-gallery__item">![](({{ "/assets/images/IMG_6216-scaled.jpg" | relative_url }}))</figure></div><div class="tiled-gallery__col" style="flex-basis:33.33333%"><figure class="tiled-gallery__item">![](({{ "/assets/images/IMG_2977-1-scaled.jpg" | relative_url }}))</figure></div><div class="tiled-gallery__col" style="flex-basis:33.33333%"><figure class="tiled-gallery__item">![](({{ "/assets/images/IMG_2077-1-scaled.jpg" | relative_url }}))</figure></div></div><div class="tiled-gallery__row"><div class="tiled-gallery__col" style="flex-basis:30.74081%"><figure class="tiled-gallery__item">![](({{ "/assets/images/IMG_1992-1-scaled.jpg" | relative_url }}))</figure></div><div class="tiled-gallery__col" style="flex-basis:34.56018%"><figure class="tiled-gallery__item">![](({{ "/assets/images/Field-Lab-partial-group-photo_Week-1-1-scaled.jpg" | relative_url }}))</figure></div><div class="tiled-gallery__col" style="flex-basis:17.34950%"><figure class="tiled-gallery__item">![](({{ "/assets/images/IMG_2454-scaled.jpg" | relative_url }}))</figure></div><div class="tiled-gallery__col" style="flex-basis:17.34950%"><figure class="tiled-gallery__item">![](({{ "/assets/images/IMG_5249-1-scaled.jpg" | relative_url }}))</figure></div></div></div></div></div>
 <!-- /wp:jetpack/tiled-gallery -->
