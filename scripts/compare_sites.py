@@ -33,24 +33,27 @@ class SiteComparator:
 
         soup = BeautifulSoup(response.text, 'html.parser')
 
-        # Remove non-content elements
-        for tag in soup.find_all(['script', 'style', 'nav', 'footer', 'header', 'meta', 'link']):
-            tag.decompose()
-
-        # Remove WordPress-specific elements
-        for tag in soup.find_all(class_=['wp-block-navigation', 'wp-site-blocks']):
-            tag.decompose()
-
-        # Get main content
+        # Get main content BEFORE removing elements
         main = (
             soup.find('main') or
-            soup.find(class_='content') or
             soup.find(class_='main-content') or
+            soup.find(class_='content') or
+            soup.find(id='content') or
+            soup.find('article') or
             soup.find('body')
         )
 
         if not main:
-            raise Exception(f"Could not find main content in {url}")
+            # Debug: show what we got
+            raise Exception(f"Could not find main content in {url}. Page title: {soup.title.string if soup.title else 'None'}")
+
+        # Now remove non-content elements within main
+        for tag in main.find_all(['script', 'style', 'nav', 'footer', 'header', 'meta', 'link']):
+            tag.decompose()
+
+        # Remove WordPress-specific elements
+        for tag in main.find_all(class_=['wp-block-navigation', 'wp-site-blocks']):
+            tag.decompose()
 
         # Extract text
         text = main.get_text(separator='\n', strip=True)
