@@ -3,7 +3,7 @@ name: Tolulope Oshinowo
 title: Fulbright Canada Research Fellow, Princeton University
 category: research-assistant
 order: 202
-image: /assets/images/team/placeholder.jpg
+image: /assets/images/team/tolulope-oshinowo.png
 email: ""
 website: ""
 research_interests: Climate finance, carbon accounting, technology and sustainability

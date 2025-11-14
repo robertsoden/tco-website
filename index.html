@@ -19,22 +19,27 @@ title: Home
         <h2>WHAT'S NEW @ TCO</h2>
 
         <div class="news-grid">
-            {% assign recent_news = site.posts | where_exp: "post", "post.categories contains 'publication' == false" | sort: "date" | reverse | limit: 3 %}
-            {% for post in recent_news %}
-            <div class="news-item">
-                <div class="news-image">
-                    {% if post.image %}
-                    <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
-                    {% else %}
-                    <img src="{{ '/assets/images/hero/toronto-cityscape.jpg' | relative_url }}" alt="{{ post.title }}">
+            {% assign count = 0 %}
+            {% for post in site.posts %}
+                {% unless post.categories contains 'publication' %}
+                    {% if count < 3 %}
+                    <div class="news-item">
+                        <div class="news-image">
+                            {% if post.image %}
+                            <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
+                            {% else %}
+                            <img src="{{ '/assets/images/hero/toronto-cityscape.jpg' | relative_url }}" alt="{{ post.title }}">
+                            {% endif %}
+                        </div>
+                        <div class="news-content">
+                            <h3>{{ post.title }}</h3>
+                            <p>{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+                            <a href="{{ post.url | relative_url }}" class="read-more">Read More →</a>
+                        </div>
+                    </div>
+                    {% assign count = count | plus: 1 %}
                     {% endif %}
-                </div>
-                <div class="news-content">
-                    <h3>{{ post.title }}</h3>
-                    <p>{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
-                    <a href="{{ post.url | relative_url }}" class="read-more">Read More →</a>
-                </div>
-            </div>
+                {% endunless %}
             {% endfor %}
         </div>
     </div>

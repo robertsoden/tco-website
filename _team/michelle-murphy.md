@@ -3,7 +3,7 @@ name: Michelle Murphy
 title: ""
 category: faculty
 order: 10
-image: /assets/images/team/placeholder.jpg
+image: /assets/images/team/michelle-murphy.png
 email: ""
 website: ""
 research_interests: ""
