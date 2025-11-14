@@ -8,23 +8,48 @@ layout: default
     </div>
 </section>
 
-<article class="post">
+<section class="page-content">
     <div class="container">
-        <div class="post-meta">
-            <time datetime="{{ page.date | date_to_xmlschema }}">
-                {{ page.date | date: "%B %d, %Y" }}
-            </time>
-            {% if page.author %}
-            <span class="post-author">by {{ page.author }}</span>
-            {% endif %}
-        </div>
+        <div class="content-with-sidebar">
+            <main class="main-column">
+                <article class="post">
+                    <div class="post-meta">
+                        <time datetime="{{ page.date | date_to_xmlschema }}">
+                            {{ page.date | date: "%B %d, %Y" }}
+                        </time>
+                        {% if page.author %}
+                        <span class="post-author">by {{ page.author }}</span>
+                        {% endif %}
+                    </div>
 
-        <div class="post-content">
-            {{ content }}
-        </div>
+                    <div class="post-content">
+                        {{ content }}
+                    </div>
 
-        <footer class="post-footer">
-            <a href="{{ '/news' | relative_url }}" class="back-link">← Back to News</a>
-        </footer>
+                    <footer class="post-footer">
+                        <a href="{{ '/news' | relative_url }}" class="back-link">← Back to News</a>
+                    </footer>
+                </article>
+            </main>
+
+            <aside class="sidebar">
+                <h2>Publications</h2>
+                <div class="publications-list">
+                    {% assign publications = site.posts | where_exp: "post", "post.categories contains 'publication'" | sort: "date" | reverse | limit: 10 %}
+                    {% if publications.size > 0 %}
+                        {% for pub in publications %}
+                        <article class="publication-item">
+                            <h4><a href="{{ pub.url | relative_url }}">{{ pub.title }}</a></h4>
+                            {% if pub.excerpt %}
+                            <p class="pub-excerpt">{{ pub.excerpt | strip_html | truncatewords: 30 }}</p>
+                            {% endif %}
+                        </article>
+                        {% endfor %}
+                    {% else %}
+                        <p>No publications yet.</p>
+                    {% endif %}
+                </div>
+            </aside>
+        </div>
     </div>
-</article>
+</section>
