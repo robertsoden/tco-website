@@ -7,18 +7,9 @@ categories: [Publication]
 excerpt: "Dashiel Carrera, Gitanjali Bhattacharjee, Robert Soden. DIS '23: Proceedings of the 2023 ACM Designing Interactive Systems Conference"
 ---
 
-<!-- wp:paragraph -->
-<p>Dashiel Carrera, Gitanjali Bhattacharjee, Robert Soden</p>
-<!-- /wp:paragraph -->
+Dashiel Carrera, Gitanjali Bhattacharjee, Robert Soden
 
-<!-- wp:paragraph -->
-<p>[DIS '23: Proceedings of the 2023 ACM Designing Interactive Systems Conference](https://dl.acm.org/doi/proceedings/10.1145/3563657)</p>
-<!-- /wp:paragraph -->
+[DIS '23: Proceedings of the 2023 ACM Designing Interactive Systems Conference](https://dl.acm.org/doi/proceedings/10.1145/3563657)
 
-<!-- wp:paragraph -->
-<p>[https://doi.org/10.1145/3563657.3595973](https://doi.org/10.1145/3563657.3595973)</p>
-<!-- /wp:paragraph -->
+[https://doi.org/10.1145/3563657.3595973](https://doi.org/10.1145/3563657.3595973)
 
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->

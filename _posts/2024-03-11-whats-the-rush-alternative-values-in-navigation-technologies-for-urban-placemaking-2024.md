@@ -14,14 +14,8 @@ CHI '24: Proceedings of the CHI Conference on Human Factors in Computing Systems
 ..."
 ---
 
-<!-- wp:paragraph -->
-<p>Taneea S Agrawaal, Aarjav Chauhan, Carolina Nobre, Robert Soden</p>
-<!-- /wp:paragraph -->
+Taneea S Agrawaal, Aarjav Chauhan, Carolina Nobre, Robert Soden
 
-<!-- wp:paragraph -->
-<p>[CHI '24: Proceedings of the CHI Conference on Human Factors in Computing Systems](https://dl.acm.org/doi/proceedings/10.1145/3613904)</p>
-<!-- /wp:paragraph -->
+[CHI '24: Proceedings of the CHI Conference on Human Factors in Computing Systems](https://dl.acm.org/doi/proceedings/10.1145/3613904)
 
-<!-- wp:paragraph -->
-<p>[https://doi.org/10.1145/3613904.3642470](https://doi.org/10.1145/3613904.3642470)</p>
-<!-- /wp:paragraph -->
+[https://doi.org/10.1145/3613904.3642470](https://doi.org/10.1145/3613904.3642470)

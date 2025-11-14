@@ -16,18 +16,9 @@ Proceedings of the ACM on Human-Computer Interaction,&nbsp;Volume&nbsp;8,&nbsp;I
 ht..."
 ---
 
-<!-- wp:paragraph -->
-<p>Taneea S Agrawaal, Samar Sabie, Robert Soden</p>
-<!-- /wp:paragraph -->
+Taneea S Agrawaal, Samar Sabie, Robert Soden
 
-<!-- wp:paragraph -->
-<p>[Proceedings of the ACM on Human-Computer Interaction, Volume 8, Issue CSCW1](https://dl.acm.org/toc/pacmhci/2024/8/CSCW1)</p>
-<!-- /wp:paragraph -->
+[Proceedings of the ACM on Human-Computer Interaction, Volume 8, Issue CSCW1](https://dl.acm.org/toc/pacmhci/2024/8/CSCW1)
 
-<!-- wp:paragraph -->
-<p>[https://doi.org/10.1145/3637373](https://doi.org/10.1145/3637373)</p>
-<!-- /wp:paragraph -->
+[https://doi.org/10.1145/3637373](https://doi.org/10.1145/3637373)
 
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->

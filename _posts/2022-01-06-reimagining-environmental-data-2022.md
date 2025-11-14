@@ -17,14 +17,8 @@ https://doi.org/10.1145/3501302
 "
 ---
 
-<!-- wp:paragraph -->
-<p>Robert Soden</p>
-<!-- /wp:paragraph -->
+Robert Soden
 
-<!-- wp:paragraph -->
-<p>[Interactions, Volume 29, Issue 1](https://dl.acm.org/toc/interactions/2022/29/1)</p>
-<!-- /wp:paragraph -->
+[Interactions, Volume 29, Issue 1](https://dl.acm.org/toc/interactions/2022/29/1)
 
-<!-- wp:paragraph -->
-<p>[https://doi.org/10.1145/3501302](https://doi.org/10.1145/3501302)</p>
-<!-- /wp:paragraph -->
+[https://doi.org/10.1145/3501302](https://doi.org/10.1145/3501302)

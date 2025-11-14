@@ -12,18 +12,9 @@ Robert Soden, David Lallemant, Manveer Kalirai, Celine Liu, Dennis Wagenaar &amp
 Communications Earth &amp; Environment volume 4, Arti..."
 ---
 
-<!-- wp:paragraph -->
-<p>Robert Soden, David Lallemant, Manveer Kalirai, Celine Liu, Dennis Wagenaar & Sophia Jit</p>
-<!-- /wp:paragraph -->
+Robert Soden, David Lallemant, Manveer Kalirai, Celine Liu, Dennis Wagenaar & Sophia Jit
 
-<!-- wp:paragraph -->
-<p>[*Communications Earth & Environment*](https://www.nature.com/commsenv) **volume 4**, Article number: 386 </p>
-<!-- /wp:paragraph -->
+[*Communications Earth & Environment*](https://www.nature.com/commsenv) **volume 4**, Article number: 386 
 
-<!-- wp:paragraph -->
-<p>[https://doi.org/10.1038/s43247-023-01039-2](https://doi.org/10.1038/s43247-023-01039-2)</p>
-<!-- /wp:paragraph -->
+[https://doi.org/10.1038/s43247-023-01039-2](https://doi.org/10.1038/s43247-023-01039-2)
 
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->

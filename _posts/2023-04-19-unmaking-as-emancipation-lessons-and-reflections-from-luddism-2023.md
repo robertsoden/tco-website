@@ -16,14 +16,8 @@ CHI '23: Proceedings of the 2023 CHI Conference on Human Factors in Computing Sy
 h..."
 ---
 
-<!-- wp:paragraph -->
-<p>Samar Sabie, Robert Soden, Steven Jackson, Tapan Parikh</p>
-<!-- /wp:paragraph -->
+Samar Sabie, Robert Soden, Steven Jackson, Tapan Parikh
 
-<!-- wp:paragraph -->
-<p>[CHI '23: Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems](https://dl.acm.org/doi/proceedings/10.1145/3544548)</p>
-<!-- /wp:paragraph -->
+[CHI '23: Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems](https://dl.acm.org/doi/proceedings/10.1145/3544548)
 
-<!-- wp:paragraph -->
-<p>[https://doi.org/10.1145/3544548.3581412](https://doi.org/10.1145/3544548.3581412)</p>
-<!-- /wp:paragraph -->
+[https://doi.org/10.1145/3544548.3581412](https://doi.org/10.1145/3544548.3581412)
