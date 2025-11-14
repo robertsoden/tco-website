@@ -21,7 +21,7 @@ The first-ever Toronto Climate Summer School (TCSS) has been featured on the Uni
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":2319,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large">![]({{ "/assets/images/uploads/Inaugural-Toronto-Climate-Summer-School-shows-students-that-climate-edited.png" | relative_url }})</figure>
+<figure class="wp-block-image size-large">![]({{ "/assets/images/Inaugural-Toronto-Climate-Summer-School-shows-students-that-climate.png" | relative_url }})</figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

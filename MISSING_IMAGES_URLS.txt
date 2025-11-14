@@ -1,0 +1,48 @@
+# Missing Images - Direct Download URLs
+# Extracted from WordPress XML export
+#
+# WordPress site blocks automated downloads (403 Forbidden)
+# You'll need to download these manually or via WordPress admin/FTP
+#
+# Found 39 out of 43 images
+# 4 timestamp images (1731160879684, etc.) not found in XML
+
+https://www.climateobservatory.ca/wp-content/uploads/2024/11/26-1024x1024.png
+https://www.climateobservatory.ca/wp-content/uploads/2024/12/Field-Lab-partial-group-photo_Week-1-1-1024x683.jpg
+https://www.climateobservatory.ca/wp-content/uploads/2024/12/IMG_1992-1-1024x768.jpg
+https://www.climateobservatory.ca/wp-content/uploads/2024/12/IMG_2077-1-1024x768.jpg
+https://www.climateobservatory.ca/wp-content/uploads/2024/12/IMG_2454-768x1024.jpg
+https://www.climateobservatory.ca/wp-content/uploads/2024/12/IMG_2490-1-768x1024.jpg
+https://www.climateobservatory.ca/wp-content/uploads/2024/12/IMG_2977-1-1024x768.jpg
+https://www.climateobservatory.ca/wp-content/uploads/2024/12/IMG_3516-2-1024x768.jpg
+https://www.climateobservatory.ca/wp-content/uploads/2024/12/IMG_3995-1-1024x768.jpg
+https://www.climateobservatory.ca/wp-content/uploads/2024/12/IMG_5131-1-1024x768.jpg
+https://www.climateobservatory.ca/wp-content/uploads/2024/12/IMG_5249-1-768x1024.jpg
+https://www.climateobservatory.ca/wp-content/uploads/2024/12/IMG_5249-768x1024.jpg
+https://www.climateobservatory.ca/wp-content/uploads/2024/12/IMG_5295-1024x768.jpg
+https://www.climateobservatory.ca/wp-content/uploads/2024/12/IMG_5534-1-1024x768.jpg
+https://www.climateobservatory.ca/wp-content/uploads/2024/12/IMG_6216-1024x768.jpg
+https://www.climateobservatory.ca/wp-content/uploads/2024/12/IMG_6410-768x1024.jpg
+https://www.climateobservatory.ca/wp-content/uploads/2024/12/IMG_6484-768x1024.jpg
+https://www.climateobservatory.ca/wp-content/uploads/2024/12/IMG_6906-768x1024.jpg
+https://www.climateobservatory.ca/wp-content/uploads/2024/12/IMG_6920-1024x768.jpg
+https://www.climateobservatory.ca/wp-content/uploads/2024/09/Inaugural-Toronto-Climate-Summer-School-shows-students-that-climate-edited.png
+https://www.climateobservatory.ca/wp-content/uploads/2023/03/Logo_BL_2-1024x470.png
+https://www.climateobservatory.ca/wp-content/uploads/2024/11/OUR-VALUES-1-1-1024x1024.png
+https://www.climateobservatory.ca/wp-content/uploads/2024/11/image-1.jpeg
+https://www.climateobservatory.ca/wp-content/uploads/2024/12/image-10.png
+https://www.climateobservatory.ca/wp-content/uploads/2024/12/image-2-1024x683.png
+https://www.climateobservatory.ca/wp-content/uploads/2024/11/image-2.jpeg
+https://www.climateobservatory.ca/wp-content/uploads/2024/12/image-3-1024x293.png
+https://www.climateobservatory.ca/wp-content/uploads/2024/11/image-3.jpeg
+https://www.climateobservatory.ca/wp-content/uploads/2024/12/image-4-1024x576.png
+https://www.climateobservatory.ca/wp-content/uploads/2024/11/image-4.jpeg
+https://www.climateobservatory.ca/wp-content/uploads/2024/12/image-5-1024x681.png
+https://www.climateobservatory.ca/wp-content/uploads/2024/11/image-5.jpeg
+https://www.climateobservatory.ca/wp-content/uploads/2024/12/image-6-791x1024.png
+https://www.climateobservatory.ca/wp-content/uploads/2024/11/image-6.jpeg
+https://www.climateobservatory.ca/wp-content/uploads/2024/12/image-7-1024x964.png
+https://www.climateobservatory.ca/wp-content/uploads/2024/11/image-7.jpeg
+https://www.climateobservatory.ca/wp-content/uploads/2024/12/image-8-1024x964.png
+https://www.climateobservatory.ca/wp-content/uploads/2024/12/image-9.png
+https://www.climateobservatory.ca/wp-content/uploads/2024/12/image-991x1024.png

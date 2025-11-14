@@ -90,16 +90,29 @@ body {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+    min-height: 100vh;
+    background-color: #03a9f4;
+    background-image: url('/assets/images/uploads/toronto-3112508.jpg');
+    background-position: 49% 51%;
+    background-size: cover;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
     color: white;
-    padding: 4rem 0;
+    padding: 12.5rem 0;
     text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+.hero .container {
+    width: 100%;
 }
 
 .hero-title {
-    font-size: 3rem;
-    font-weight: 700;
+    font-size: 4.1rem;
+    font-weight: 400;
     letter-spacing: 2px;
+    text-align: right;
 }
 
 /* News Section */
@@ -170,6 +183,129 @@ body {
 
 .read-more:hover {
     color: var(--primary-color);
+}
+
+/* Mission Section */
+.mission-section {
+    padding: 4rem 0;
+    background-color: white;
+    text-align: center;
+}
+
+.mission-section h2 {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+    color: var(--primary-color);
+}
+
+.mission-section p {
+    font-size: 1.2rem;
+    line-height: 1.8;
+    max-width: 900px;
+    margin: 0 auto 2rem;
+    color: #555;
+}
+
+.cta-button {
+    display: inline-block;
+    padding: 1rem 2rem;
+    background-color: var(--accent-color);
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: 600;
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+.cta-button:hover {
+    background-color: #e65a2d;
+    transform: translateY(-2px);
+}
+
+/* Partners Section */
+.partners-section {
+    padding: 4rem 0;
+    background-color: var(--light-bg);
+}
+
+.partners-section h2 {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: var(--primary-color);
+}
+
+.partners-section p {
+    text-align: center;
+    margin-bottom: 2rem;
+    color: #555;
+}
+
+.partners-logos {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 2rem;
+    align-items: center;
+    justify-items: center;
+}
+
+.partners-logos img {
+    max-width: 180px;
+    max-height: 100px;
+    width: auto;
+    height: auto;
+    object-fit: contain;
+    filter: grayscale(100%);
+    opacity: 0.7;
+    transition: filter 0.3s, opacity 0.3s;
+}
+
+.partners-logos img:hover {
+    filter: grayscale(0%);
+    opacity: 1;
+}
+
+/* Funders Section */
+.funders-section {
+    padding: 4rem 0;
+    background-color: white;
+}
+
+.funders-section h2 {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: var(--primary-color);
+}
+
+.funders-section p {
+    text-align: center;
+    margin-bottom: 2rem;
+    color: #555;
+}
+
+.funders-logos {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 2rem;
+    align-items: center;
+    justify-items: center;
+}
+
+.funders-logos img {
+    max-width: 180px;
+    max-height: 100px;
+    width: auto;
+    height: auto;
+    object-fit: contain;
+    filter: grayscale(100%);
+    opacity: 0.7;
+    transition: filter 0.3s, opacity 0.3s;
+}
+
+.funders-logos img:hover {
+    filter: grayscale(0%);
+    opacity: 1;
 }
 
 /* Page Header */
@@ -620,11 +756,17 @@ body {
     .nav-menu.active {
         display: flex;
     }
-    
-    .hero-title {
-        font-size: 2rem;
+
+    .hero {
+        min-height: 60vh;
+        padding: 6rem 0;
     }
-    
+
+    .hero-title {
+        font-size: 2.5rem;
+        text-align: center;
+    }
+
     .page-header h1 {
         font-size: 2rem;
     }
@@ -645,10 +787,16 @@ body {
 }
 
 @media (max-width: 480px) {
-    .hero-title {
-        font-size: 1.5rem;
+    .hero {
+        min-height: 50vh;
+        padding: 4rem 0;
     }
-    
+
+    .hero-title {
+        font-size: 1.8rem;
+        text-align: center;
+    }
+
     .container {
         padding: 0 15px;
     }

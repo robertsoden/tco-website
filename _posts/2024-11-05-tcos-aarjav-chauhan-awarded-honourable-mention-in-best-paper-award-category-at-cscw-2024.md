@@ -13,7 +13,7 @@ Congratulations to Aarjav Chauhan  on winning an Honourable Mention in the Best 
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":2351,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large">![]({{ "/assets/images/uploads/OUR-VALUES-1-1-1024x1024.png" | relative_url }})</figure>
+<figure class="wp-block-image size-large">![]({{ "/assets/images/OUR-VALUES-1-1.png" | relative_url }})</figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
