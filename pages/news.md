@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-with-sidebar
 title: News & Updates
 permalink: /news/
 ---
