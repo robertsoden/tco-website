@@ -4,6 +4,7 @@ title: "The Himalayan Climate Data Field Lab"
 date: 2024-12-17 10:27:03
 author: rayan
 categories: [Events]
+image: /assets/images/posts/IMG_2977-1-scaled.jpg
 excerpt: "
 Austin Lord, Robert Soden 
 
