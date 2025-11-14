@@ -1,6 +1,11 @@
 <header class="site-header">
     <div class="container">
         <nav class="navbar">
+            <div class="navbar-logo">
+                <a href="{{ '/' | relative_url }}">
+                    <img src="{{ '/assets/images/TCO_logo_w.webp' | relative_url }}" alt="{{ site.title }}" class="site-logo">
+                </a>
+            </div>
             <button class="mobile-menu-toggle" aria-label="Toggle menu">
                 <span></span>
                 <span></span>
@@ -14,11 +19,6 @@
                 <li><a href="{{ '/news' | relative_url }}">News</a></li>
                 <li><a href="{{ '/contact' | relative_url }}">Contact</a></li>
             </ul>
-            <div class="navbar-logo">
-                <a href="{{ '/' | relative_url }}">
-                    <img src="{{ '/assets/images/TCO_logo_w.webp' | relative_url }}" alt="{{ site.title }}" class="site-logo">
-                </a>
-            </div>
         </nav>
     </div>
 </header>
