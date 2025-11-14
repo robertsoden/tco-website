@@ -17,69 +17,25 @@ title: Home
 <section class="news-section">
     <div class="container">
         <h2>WHAT'S NEW @ TCO</h2>
-        
+
         <div class="news-grid">
+            {% assign recent_news = site.posts | where_exp: "post", "post.categories contains 'publication' == false" | sort: "date" | reverse | limit: 3 %}
+            {% for post in recent_news %}
             <div class="news-item">
                 <div class="news-image">
-                    <img src="{{ '/assets/images/bay-street-report.png' | relative_url }}" alt="Bay Street Climate Report">
+                    {% if post.image %}
+                    <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
+                    {% else %}
+                    <img src="{{ '/assets/images/uploads/toronto-3112508.jpg' | relative_url }}" alt="{{ post.title }}">
+                    {% endif %}
                 </div>
                 <div class="news-content">
-                    <h3>Bay Street Climate Report</h3>
-                    <p>The TCO's 2024 found that eighteen Toronto banks, pensions and asset managers are responsible for financing emissions that are almost 2x Canada's total emissions, nearly 100x City of Toronto's emissions, contributing to at least 1.44 billion tonnes of CO2 emissions in 2022.</p>
-                    <a href="{{ '/bay-street-climate-report' | relative_url }}" class="read-more">Learn More →</a>
+                    <h3>{{ post.title }}</h3>
+                    <p>{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+                    <a href="{{ post.url | relative_url }}" class="read-more">Read More →</a>
                 </div>
             </div>
-            
-            <div class="news-item">
-                <div class="news-image">
-                    <img src="{{ '/assets/images/soc-grant.jpg' | relative_url }}" alt="SoC Urban Challenge Grant">
-                </div>
-                <div class="news-content">
-                    <h3>SoC Urban Challenge Grant</h3>
-                    <p>TCO has been awarded an Urban Challenge Grant by the School of Cities in its 4th iteration, focusing on inequality, data, and democracy. With this grant, TCO will advance new research on building a framework for equitable flood information for Southern Ontario.</p>
-                </div>
-            </div>
-            
-            <div class="news-item">
-                <div class="news-image">
-                    <img src="{{ '/assets/images/xseed-grant.jpg' | relative_url }}" alt="XSeed Program Grant">
-                </div>
-                <div class="news-content">
-                    <h3>XSeed Program Grant</h3>
-                    <p>TCO is one of the winners of the Faculty of Applied Science and Engineering's 2025-2027 competition of the Joint Seed Program, to be able to develop an interdisciplinary reconnaissance team to measure the acute and lasting impacts of floods on underserved communities.</p>
-                </div>
-            </div>
-            
-            <div class="news-item">
-                <div class="news-image">
-                    <img src="{{ '/assets/images/city-council-motion.jpg' | relative_url }}" alt="New City Council Motion">
-                </div>
-                <div class="news-content">
-                    <h3>New City Council Motion</h3>
-                    <p>Spurred by the findings of the TCO's Bay Street Climate Report, the Toronto City Council in March 2025 adopted a motion to address the financial industry's carbon footprint, including discussing the development of a Sustainable Finance Hub in Toronto and support for climate-aligned regulation.</p>
-                </div>
-            </div>
-            
-            <div class="news-item">
-                <div class="news-image">
-                    <img src="{{ '/assets/images/summer-school-2025.jpg' | relative_url }}" alt="Summer School 2025">
-                </div>
-                <div class="news-content">
-                    <h3>Summer School 2025</h3>
-                    <p>The Toronto Climate Summer School 2025 concluded after an immersive 6-week journey. Participants, comprised of undergraduate students from across faculties at UofT, organized a poster presentation session to showcase the research they undertook during the summer school.</p>
-                    <a href="{{ '/summer-school' | relative_url }}" class="read-more">Learn More →</a>
-                </div>
-            </div>
-            
-            <div class="news-item">
-                <div class="news-image">
-                    <img src="{{ '/assets/images/toronto-water-atlas.jpeg' | relative_url }}" alt="Toronto Water Atlas">
-                </div>
-                <div class="news-content">
-                    <h3>Toronto Water Atlas</h3>
-                    <p>Over the last eight months, the Toronto Water Atlas (TWA) team, supported by the TCO, has been working to re-examine and understand our relationship with water – not simply as a natural resource or a problem to be managed, but as a life-giving source, and a connector of people and of communities.</p>
-                </div>
-            </div>
+            {% endfor %}
         </div>
     </div>
 </section>
