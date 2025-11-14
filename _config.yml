@@ -44,11 +44,5 @@ exclude:
   - vendor/ruby/
   - README.md
   - CLAUDE.md
-  - START-HERE.md
-  - PROJECT-SUMMARY.md
-  - QUICK-START.md
-  - DEPLOYMENT.md
-  - DELIVERY-SUMMARY.md
-  - CLAUDE-CODE-INSTRUCTIONS.md
-  - extract_content.py
-  - climate-observatory-jekyll.tar.gz
+  - docs/
+  - scripts/
