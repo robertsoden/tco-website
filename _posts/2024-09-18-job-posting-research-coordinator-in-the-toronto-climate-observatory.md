@@ -16,31 +16,29 @@ As a Research Coordinator, the successful candidate will have the unique opportu
 
 Specifically, they will be asked to:
 
-<ul class="wp-block-list"><li>Assist with drafting communication and background materials describing the initiative for various audiences;</li>
+- Assist with drafting communication and background materials describing the initiative for various audiences;
 
-<li>Identify and engage potential partners at the University of Toronto and other organizations within Ontario and the Greater Toronto Area;</li>
+- Identify and engage potential partners at the University of Toronto and other organizations within Ontario and the Greater Toronto Area;
 
-<li>Support with tasks related to day-to-day organizational and financial management of research activities; </li>
+- Support with tasks related to day-to-day organizational and financial management of research activities; 
 
-<li>Conduct literature reviews of key research areas;</li>
+- Conduct literature reviews of key research areas;
 
-<li>Contribute to funding proposals aimed at growing the staff and impact of the TCO.</li>
-</ul>
+- Contribute to funding proposals aimed at growing the staff and impact of the TCO.
 
 The position will begin on or before October 15, 2024 and is initially funded for 6 months.
 
 ***Qualifications:***
 
-<ul class="wp-block-list"><li>Master’s degree in a related field;</li>
+- Master’s degree in a related field;
 
-<li>Experience developing and executing successful interdisciplinary research;</li>
+- Experience developing and executing successful interdisciplinary research;
 
-<li>Demonstrated understanding of climate change research;</li>
+- Demonstrated understanding of climate change research;
 
-<li>Familiarity with participatory or publicly engaged research methods, broadly understood to include topics such action research, citizen science, oral history, or participatory design;</li>
+- Familiarity with participatory or publicly engaged research methods, broadly understood to include topics such action research, citizen science, oral history, or participatory design;
 
-<li>Candidates with other areas of expertise such as data visualization, indigenous knowledge, climate and environmental justice, or smart cities/urban dashboards that would contribute to the development of the TCO are also encouraged to apply.</li>
-</ul>
+- Candidates with other areas of expertise such as data visualization, indigenous knowledge, climate and environmental justice, or smart cities/urban dashboards that would contribute to the development of the TCO are also encouraged to apply.
 
 ***Application Instructions:***
 
