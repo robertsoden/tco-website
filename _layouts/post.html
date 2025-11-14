@@ -35,27 +35,7 @@ layout: default
             </main>
 
             <aside class="sidebar">
-                <h2>Recent News</h2>
-                <div class="recent-news-list">
-                    {% assign sorted_posts = site.posts | sort: "date" | reverse %}
-                    {% assign posts_shown = 0 %}
-                    {% for post in sorted_posts %}
-                        {% unless post.categories contains 'publication' %}
-                            {% if posts_shown < 5 %}
-                                <article class="recent-news-item">
-                                    <h4><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h4>
-                                    <time datetime="{{ post.date | date_to_xmlschema }}" class="news-date">
-                                        {{ post.date | date: "%B %d, %Y" }}
-                                    </time>
-                                </article>
-                                {% assign posts_shown = posts_shown | plus: 1 %}
-                            {% endif %}
-                        {% endunless %}
-                    {% endfor %}
-                    {% if posts_shown == 0 %}
-                        <p>No recent news.</p>
-                    {% endif %}
-                </div>
+                {% include news-sidebar.html %}
             </aside>
         </div>
     </div>
