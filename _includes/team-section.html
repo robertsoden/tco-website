@@ -4,9 +4,9 @@
 
 {% if team_members.size > 0 %}
 <h2>{{ team_title }}</h2>
-<div class="team-grid">
+<div class="team-list">
     {% for member in team_members %}
-    <div class="team-member-card">
+    <div class="team-member-item">
         {% if member.image %}
         <div class="member-image">
             <img src="{{ member.image | relative_url }}" alt="{{ member.name }}">
