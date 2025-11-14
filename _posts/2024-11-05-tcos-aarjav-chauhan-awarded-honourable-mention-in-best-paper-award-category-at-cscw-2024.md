@@ -4,6 +4,7 @@ title: "TCO's Aarjav Chauhan Awarded Honourable Mention in Best Paper Award Cate
 date: 2024-11-05 18:20:00
 author: rayan
 categories: [Events, Project]
+image: /assets/images/posts/OUR-VALUES-1-1.png
 excerpt: "
 Congratulations to Aarjav Chauhan  on winning an Honourable Mention in the Best Paper award category at CSCW this year"
 ---

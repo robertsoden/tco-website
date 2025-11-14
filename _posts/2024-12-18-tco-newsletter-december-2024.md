@@ -4,6 +4,7 @@ title: "TCO Newsletter: December 2024"
 date: 2024-12-18 17:57:09
 author: rayan
 categories: [Events]
+image: /assets/images/posts/image-10.png
 excerpt: "
 In the spotlight🔎
 
