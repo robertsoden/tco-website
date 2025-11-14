@@ -3,7 +3,7 @@ name: Hanna Morris
 title: ""
 category: faculty
 order: 10
-image: /assets/images/team/hanna-morris.jpg
+image: /assets/images/team/hanna-morris.png
 email: ""
 website: ""
 research_interests: ""
