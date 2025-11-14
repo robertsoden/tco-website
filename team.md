@@ -52,7 +52,7 @@ permalink: /team/
                     <div class="h-image__frame-container">
                       <!---->
                       <!---->
-                      ![]({{ "/assets/images/uploads/cropped-Robert-Soden.jpg" | relative_url }})
+                      <img src="{{ '/assets/images/team/robert-soden.jpg' | relative_url }}" alt="Robert Soden">
                       <div class="h-image__frame h-hide-lg h-hide-md h-hide-sm style-1256-frameImage style-local-9-c8-frameImage"></div>
                     </div>
                   </div>
@@ -111,7 +111,7 @@ permalink: /team/
                     <div class="h-image__frame-container">
                       <!---->
                       <!---->
-                      ![]({{ "/assets/images/uploads/cropped-Steve-Easterbrook.jpg" | relative_url }})
+                      <img src="{{ '/assets/images/team/steve-easterbrook.jpg' | relative_url }}" alt="Steve Easterbrook">
                       <div class="h-image__frame h-hide-lg h-hide-md h-hide-sm style-1216-frameImage style-local-9-c16-frameImage"></div>
                     </div>
                   </div>
@@ -168,7 +168,7 @@ permalink: /team/
                     <div class="h-image__frame-container">
                       <!---->
                       <!---->
-                      ![]({{ "/assets/images/uploads/SS2.png" | relative_url }})
+                      <img src="{{ '/assets/images/team/samar-sabie.jpg' | relative_url }}" alt="Samar Sabie">
                       <div class="h-image__frame h-hide-lg h-hide-md h-hide-sm style-1216-frameImage style-local-9-c24-frameImage"></div>
                     </div>
                   </div>
@@ -226,7 +226,7 @@ permalink: /team/
                     <div class="h-image__frame-container">
                       <!---->
                       <!---->
-                      ![]({{ "/assets/images/uploads/IA.png" | relative_url }})
+                      <img src="{{ '/assets/images/team/ishtiaque-ahmed.jpg' | relative_url }}" alt="Ishtiaque Ahmed">
                       <div class="h-image__frame h-hide-lg h-hide-md h-hide-sm style-1216-frameImage style-local-9-c32-frameImage"></div>
                     </div>
                   </div>
@@ -286,7 +286,7 @@ permalink: /team/
                     <div class="h-image__frame-container">
                       <!---->
                       <!---->
-                      ![]({{ "/assets/images/uploads/KC.png" | relative_url }})
+                      <img src="{{ '/assets/images/team/karen-chapple.jpg' | relative_url }}" alt="Karen Chapple">
                       <div class="h-image__frame h-hide-lg h-hide-md h-hide-sm style-1216-frameImage style-local-9-c40-frameImage"></div>
                     </div>
                   </div>
@@ -346,7 +346,7 @@ permalink: /team/
                     <div class="h-image__frame-container">
                       <!---->
                       <!---->
-                      ![]({{ "/assets/images/uploads/MC.png" | relative_url }})
+                      <img src="{{ '/assets/images/team/michael-classens.jpg' | relative_url }}" alt="Michael Classens">
                       <div class="h-image__frame h-hide-lg h-hide-md h-hide-sm style-1216-frameImage style-local-9-c48-frameImage"></div>
                     </div>
                   </div>
@@ -404,7 +404,7 @@ permalink: /team/
                     <div class="h-image__frame-container">
                       <!---->
                       <!---->
-                      ![]({{ "/assets/images/uploads/FC.png" | relative_url }})
+                      <img src="{{ '/assets/images/team/fanny-chevalier.jpg' | relative_url }}" alt="Fanny Chevalier">
                       <div class="h-image__frame h-hide-lg h-hide-md h-hide-sm style-1216-frameImage style-local-9-c56-frameImage"></div>
                     </div>
                   </div>
@@ -462,7 +462,7 @@ permalink: /team/
                     <div class="h-image__frame-container">
                       <!---->
                       <!---->
-                      ![]({{ "/assets/images/uploads/TM.png" | relative_url }})
+                      <img src="{{ '/assets/images/team/tegan-maharaj.jpg' | relative_url }}" alt="Tegan Maharaj">
                       <div class="h-image__frame h-hide-lg h-hide-md h-hide-sm style-1216-frameImage style-local-9-c64-frameImage"></div>
                     </div>
                   </div>
@@ -522,7 +522,7 @@ permalink: /team/
                     <div class="h-image__frame-container">
                       <!---->
                       <!---->
-                      ![]({{ "/assets/images/uploads/cropped-zuSlU2l_400x400.jpg" | relative_url }})
+                      <img src="{{ '/assets/images/team/fadi-masoud.jpg' | relative_url }}" alt="Fadi Masoud">
                       <div class="h-image__frame h-hide-lg h-hide-md h-hide-sm style-1216-frameImage style-local-9-c72-frameImage"></div>
                     </div>
                   </div>
@@ -582,7 +582,7 @@ permalink: /team/
                     <div class="h-image__frame-container">
                       <!---->
                       <!---->
-                      ![]({{ "/assets/images/uploads/Hanna-Morris.jpg" | relative_url }})
+                      <img src="{{ '/assets/images/team/hanna-morris.jpg' | relative_url }}" alt="Hanna Morris">
                       <div class="h-image__frame h-hide-lg h-hide-md h-hide-sm style-1216-frameImage style-local-9-c80-frameImage"></div>
                     </div>
                   </div>
@@ -642,7 +642,7 @@ permalink: /team/
                     <div class="h-image__frame-container">
                       <!---->
                       <!---->
-                      ![]({{ "/assets/images/uploads/JR.png" | relative_url }})
+                      <img src="{{ '/assets/images/team/john-robinson.jpg' | relative_url }}" alt="John Robinson">
                       <div class="h-image__frame h-hide-lg h-hide-md h-hide-sm style-1216-frameImage style-local-9-c88-frameImage"></div>
                     </div>
                   </div>
@@ -701,7 +701,7 @@ permalink: /team/
                     <div class="h-image__frame-container">
                       <!---->
                       <!---->
-                      ![]({{ "/assets/images/uploads/IR.png" | relative_url }})
+                      <img src="{{ '/assets/images/team/imara-rolston.jpg' | relative_url }}" alt="Imara Rolston">
                       <div class="h-image__frame h-hide-lg h-hide-md h-hide-sm style-1216-frameImage style-local-9-c96-frameImage"></div>
                     </div>
                   </div>
@@ -761,7 +761,7 @@ permalink: /team/
                     <div class="h-image__frame-container">
                       <!---->
                       <!---->
-                      ![]({{ "/assets/images/uploads/NSS.png" | relative_url }})
+                      <img src="{{ '/assets/images/team/nicole-spiegelaar.jpg' | relative_url }}" alt="Nicole Spiegelaar">
                       <div class="h-image__frame h-hide-lg h-hide-md h-hide-sm style-1216-frameImage style-local-9-c104-frameImage"></div>
                     </div>
                   </div>
@@ -820,7 +820,7 @@ permalink: /team/
                     <div class="h-image__frame-container">
                       <!---->
                       <!---->
-                      ![]({{ "/assets/images/uploads/NS.png" | relative_url }})
+                      <img src="{{ '/assets/images/team/nidhi-subramanyam.jpg' | relative_url }}" alt="Nidhi Subramanyam">
                       <div class="h-image__frame h-hide-lg h-hide-md h-hide-sm style-1216-frameImage style-local-9-c112-frameImage"></div>
                     </div>
                   </div>
@@ -878,7 +878,7 @@ permalink: /team/
                     <div class="h-image__frame-container">
                       <!---->
                       <!---->
-                      ![]({{ "/assets/images/uploads/LT.png" | relative_url }})
+                      <img src="{{ '/assets/images/team/laura-tozer.jpg' | relative_url }}" alt="Laura Tozer">
                       <div class="h-image__frame h-hide-lg h-hide-md h-hide-sm style-1216-frameImage style-local-9-c120-frameImage"></div>
                     </div>
                   </div>

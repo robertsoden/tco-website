@@ -29,7 +29,7 @@ The 2024 Beatrice and Arthur Minden Symposium on the Environment focused on Clim
 <!-- wp:columns {"verticalAlignment":null} -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2465,"width":"314px","height":"auto","aspectRatio":"1","scale":"cover","sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large is-resized">![]({{ "/assets/images/uploads/image-991x1024.png" | relative_url }})</figure>
+<figure class="wp-block-image aligncenter size-large is-resized">![](({{ "/assets/images/image-10.png" | relative_url }}))</figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center"} -->
@@ -49,7 +49,7 @@ The 2024 Beatrice and Arthur Minden Symposium on the Environment focused on Clim
 
 <!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":2479,"width":"314px","aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-full is-resized">![]({{ "/assets/images/uploads/image-9.png" | relative_url }})</figure>
+<figure class="wp-block-image aligncenter size-full is-resized">![](({{ "/assets/images/bay-street-report.png" | relative_url }}))</figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center"} -->
@@ -69,7 +69,7 @@ The 2024 Beatrice and Arthur Minden Symposium on the Environment focused on Clim
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2478,"width":"314px","aspectRatio":"1","scale":"cover","sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large is-resized">![]({{ "/assets/images/uploads/image-8-1024x964.png" | relative_url }})</figure>
+<figure class="wp-block-image aligncenter size-large is-resized">![](({{ "/assets/images/Inaugural-Toronto-Climate-Summer-School-shows-students-that-climate.png" | relative_url }}))</figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center"} -->
@@ -125,7 +125,7 @@ The 2024 Beatrice and Arthur Minden Symposium on the Environment focused on Clim
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2480,"width":"289px","height":"auto","aspectRatio":"0.75","scale":"cover","sizeSlug":"full","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-full is-resized">![]({{ "/assets/images/uploads/image-10.png" | relative_url }})</figure>
+<figure class="wp-block-image aligncenter size-full is-resized">![](({{ "/assets/images/image-10.png" | relative_url }}))</figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -141,7 +141,7 @@ The 2024 Beatrice and Arthur Minden Symposium on the Environment focused on Clim
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2358,"width":"302px","height":"auto","sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large is-resized">![]({{ "/assets/images/uploads/26-1024x1024.png" | relative_url }})</figure>
+<figure class="wp-block-image aligncenter size-large is-resized">![](({{ "/assets/images/27.png" | relative_url }}))</figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -213,7 +213,7 @@ The 2024 Beatrice and Arthur Minden Symposium on the Environment focused on Clim
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2477,"width":"314px","sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large is-resized">![]({{ "/assets/images/uploads/image-7-1024x964.png" | relative_url }})</figure>
+<figure class="wp-block-image aligncenter size-large is-resized">![](({{ "/assets/images/image-7.png" | relative_url }}))</figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -225,7 +225,7 @@ The 2024 Beatrice and Arthur Minden Symposium on the Environment focused on Clim
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":2476,"width":"323px","height":"auto","aspectRatio":"0.75","scale":"cover","sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large is-resized">![]({{ "/assets/images/uploads/image-6-791x1024.png" | relative_url }})</figure>
+<figure class="wp-block-image aligncenter size-large is-resized">![](({{ "/assets/images/image-6.png" | relative_url }}))</figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -295,7 +295,7 @@ The 2024 Beatrice and Arthur Minden Symposium on the Environment focused on Clim
 <!-- wp:columns {"verticalAlignment":"center"} -->
 <div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":2475,"width":"314px","sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large is-resized">![]({{ "/assets/images/uploads/image-5-1024x681.png" | relative_url }})</figure>
+<figure class="wp-block-image aligncenter size-large is-resized">![](({{ "/assets/images/image-5.png" | relative_url }}))</figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -337,7 +337,7 @@ The 2024 Beatrice and Arthur Minden Symposium on the Environment focused on Clim
 <!-- wp:columns {"verticalAlignment":null} -->
 <div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":2474,"width":"314px","sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large is-resized">![]({{ "/assets/images/uploads/image-4-1024x576.png" | relative_url }})</figure>
+<figure class="wp-block-image aligncenter size-large is-resized">![](({{ "/assets/images/image-4.png" | relative_url }}))</figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center"} -->
@@ -361,7 +361,7 @@ The 2024 Beatrice and Arthur Minden Symposium on the Environment focused on Clim
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":2472,"width":"314px","sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large is-resized">![]({{ "/assets/images/uploads/image-2-1024x683.png" | relative_url }})</figure>
+<figure class="wp-block-image aligncenter size-large is-resized">![](({{ "/assets/images/image-2.png" | relative_url }}))</figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center"} -->
@@ -381,7 +381,7 @@ The 2024 Beatrice and Arthur Minden Symposium on the Environment focused on Clim
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":2473,"width":"314px","sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large is-resized">![]({{ "/assets/images/uploads/image-3-1024x293.png" | relative_url }})</figure>
+<figure class="wp-block-image aligncenter size-large is-resized">![](({{ "/assets/images/image-3.png" | relative_url }}))</figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center"} -->
@@ -411,7 +411,7 @@ The 2024 Beatrice and Arthur Minden Symposium on the Environment focused on Clim
 <!-- /wp:social-links -->
 
 <!-- wp:image {"id":1273,"width":"251px","height":"auto","sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large is-resized">![]({{ "/assets/images/uploads/Logo_BL_2-1024x470.png" | relative_url }})</figure>
+<figure class="wp-block-image aligncenter size-large is-resized">![](({{ "/assets/images/uploads/Logo_BL_2.png" | relative_url }}))</figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

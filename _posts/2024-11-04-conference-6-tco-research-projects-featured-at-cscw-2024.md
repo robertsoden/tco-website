@@ -17,17 +17,17 @@ Impactful research from the Toronto Climate Observatory will be featured at the 
 <!-- /wp:paragraph -->
 
 <!-- wp:image -->
-<figure class="wp-block-image">![No alt text provided for this image]({{ "/assets/images/uploads/1731160880038" | relative_url }})</figure>
+<figure class="wp-block-image">![No alt text provided for this image](({{ "/assets/images/27.png" | relative_url }}))</figure>
 <!-- /wp:image -->
 
 <!-- wp:image -->
-<figure class="wp-block-image">![No alt text provided for this image]({{ "/assets/images/uploads/1731160879927" | relative_url }})</figure>
+<figure class="wp-block-image">![No alt text provided for this image](({{ "/assets/images/28.png" | relative_url }}))</figure>
 <!-- /wp:image -->
 
 <!-- wp:image -->
-<figure class="wp-block-image">![No alt text provided for this image]({{ "/assets/images/uploads/1731160879811" | relative_url }})</figure>
+<figure class="wp-block-image">![No alt text provided for this image](({{ "/assets/images/ocrw.jpeg" | relative_url }}))</figure>
 <!-- /wp:image -->
 
 <!-- wp:image -->
-<figure class="wp-block-image">![No alt text provided for this image]({{ "/assets/images/uploads/1731160879684" | relative_url }})</figure>
+<figure class="wp-block-image">![No alt text provided for this image](({{ "/assets/images/ocrw.jpeg" | relative_url }}))</figure>
 <!-- /wp:image -->
