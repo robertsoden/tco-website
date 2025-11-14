@@ -1,14 +1,8 @@
 ---
-layout: default
-title: News
+layout: page
+title: News & Updates
 permalink: /news/
 ---
-
-<section class="page-header">
-    <div class="container">
-        <h1>News & Updates</h1>
-    </div>
-</section>
 
 <section class="news-list">
     <div class="container">

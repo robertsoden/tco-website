@@ -91,14 +91,7 @@ title: Home
     <div class="container">
         <h2>Partners</h2>
         <p>Some of the organizations across the GTA that we've partnered with:</p>
-        <div class="partners-logos">
-            <img src="{{ '/assets/images/partners/city-of-toronto-logo-vector.png' | relative_url }}" alt="City of Toronto">
-            <img src="{{ '/assets/images/partners/york-university.png' | relative_url }}" alt="York University">
-            <img src="{{ '/assets/images/partners/stand.webp' | relative_url }}" alt="STAND">
-            <img src="{{ '/assets/images/partners/Climate-Positive-Energy-logo.webp' | relative_url }}" alt="Climate Positive Energy">
-            <img src="{{ '/assets/images/partners/climate-action-paths.webp' | relative_url }}" alt="Climate Action Paths">
-            <img src="{{ '/assets/images/partners/tea.png' | relative_url }}" alt="TEA">
-        </div>
+        {% include partners-logos.html %}
     </div>
 </section>
 
@@ -106,12 +99,6 @@ title: Home
     <div class="container">
         <h2>Funders</h2>
         <p>Some of the organizations that have supported our work:</p>
-        <div class="funders-logos">
-            <img src="{{ '/assets/images/funders/school-of-cities.png' | relative_url }}" alt="School of Cities">
-            <img src="{{ '/assets/images/funders/nserc.png' | relative_url }}" alt="NSERC">
-            <img src="{{ '/assets/images/funders/mitacs.png' | relative_url }}" alt="Mitacs">
-            <img src="{{ '/assets/images/funders/Funder-Trottier-V1.png' | relative_url }}" alt="Trottier Family Foundation">
-            <img src="{{ '/assets/images/funders/toronto-foundation.webp' | relative_url }}" alt="Toronto Foundation">
-        </div>
+        {% include funders-logos.html %}
     </div>
 </section>
