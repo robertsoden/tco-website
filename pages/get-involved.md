@@ -27,14 +27,14 @@ permalink: /get-involved/
                   <!---->
                   <!---->
                   <div class="">
-                    <p>The TCO is a collaborative, growing initiative. We welcome partnerships across sectors and disciplines. Here are some of the key groups we work with – and how you can get involved:</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
+                    The TCO is a collaborative, growing initiative. We welcome partnerships across sectors and disciplines. Here are some of the key groups we work with – and how you can get involved:
+
+
+
+
+
+
+
       <div data-colibri-id="2778-c8" class="h-row-container gutters-row-lg-2 gutters-row-md-2 gutters-row-0 gutters-row-v-lg-2 gutters-row-v-md-2 gutters-row-v-2 style-1998 style-local-2778-c8 position-relative">
         <!---->
         <div class="h-row justify-content-lg-center justify-content-md-center justify-content-center align-items-lg-stretch align-items-md-stretch align-items-stretch gutters-col-lg-2 gutters-col-md-2 gutters-col-0 gutters-col-v-lg-2 gutters-col-v-md-2 gutters-col-v-2">
@@ -49,64 +49,63 @@ permalink: /get-involved/
                   <!---->
                   <!---->
                   <div class="">
-                    <h3><span style="font-size: 57%;">![]({{ "/assets/images/uploads/1f3d8.svg" | relative_url }})</span><strong style="font-family: Muli; font-size: 59%; font-weight: 700;">Community Organizations and Advocacy Groups</strong></h3>
-                    <p><strong style="font-family: Muli; font-weight: 700;">Role:</strong><span style="font-family: Muli;"> Co-researchers, knowledge partners, and local change-makers</span></p>
-                    <p><span style="font-family: Muli;">We collaborate with community and advocacy groups to understand place-based climate impacts, gather lived experience data, and co-design solutions. Your work grounds our research in the realities of climate justice, housing, energy, mobility, and health, helping us co-produce knowledge, incorporate diverse ways of knowing, and collaboratively build community-led solutions.</span></p>
-                    <p><em style="font-family: Muli;">Partner with us on citizen science, oral history, community leadership, or policy-oriented projects.</em></p>
-                  </div>
-                </div>
+                    ### <span style="font-size: 57%;">![1f3d8]({{ "/assets/images/uploads/1f3d8.svg" | relative_url }})</span><strong style="font-family: Muli; font-size: 59%; font-weight: 700;">Community Organizations and Advocacy Groups</strong>
+                    <strong style="font-family: Muli; font-weight: 700;">Role:</strong><span style="font-family: Muli;"> Co-researchers, knowledge partners, and local change-makers</span>
+                    <span style="font-family: Muli;">We collaborate with community and advocacy groups to understand place-based climate impacts, gather lived experience data, and co-design solutions. Your work grounds our research in the realities of climate justice, housing, energy, mobility, and health, helping us co-produce knowledge, incorporate diverse ways of knowing, and collaboratively build community-led solutions.</span>
+                    <em style="font-family: Muli;">Partner with us on citizen science, oral history, community leadership, or policy-oriented projects.</em>
+
+
                 <div data-colibri-id="2778-c13" data-aos="fadeInUp" class="h-text h-text-component style-2001 style-local-2778-c13 position-relative h-element">
                   <!---->
                   <!---->
                   <div class="">
-                    <h3><span style="font-size: 59%;">![]({{ "/assets/images/uploads/1f3db.svg" | relative_url }})</span><strong style="font-weight: 700; font-size: 59%; font-family: Muli;">Municipal Governments and Public Agencies</strong></h3>
-                    <p><strong style="font-weight: 700; font-family: Muli;">Role:</strong><span style="font-family: Muli;"> Data users, policy collaborators, and service providers</span></p>
-                    <p><span style="font-family: Muli;">Cities are on the frontlines of climate action. We work with municipal teams to collect information on climate data gaps, and improve how local climate data informs planning, communication, and resilience strategies. We hope to contribute to municipalities’ work on public engagement and equitable service design by strengthening data infrastructures and the practices that support them.</span></p>
-                    <p><em style="font-family: Muli;">Collaborate with us on climate data infrastructure, resilience planning, or public outreach.</em></p>
-                  </div>
-                </div>
+                    ### <span style="font-size: 59%;">![1f3db]({{ "/assets/images/uploads/1f3db.svg" | relative_url }})</span><strong style="font-weight: 700; font-size: 59%; font-family: Muli;">Municipal Governments and Public Agencies</strong>
+                    <strong style="font-weight: 700; font-family: Muli;">Role:</strong><span style="font-family: Muli;"> Data users, policy collaborators, and service providers</span>
+                    <span style="font-family: Muli;">Cities are on the frontlines of climate action. We work with municipal teams to collect information on climate data gaps, and improve how local climate data informs planning, communication, and resilience strategies. We hope to contribute to municipalities’ work on public engagement and equitable service design by strengthening data infrastructures and the practices that support them.</span>
+                    <em style="font-family: Muli;">Collaborate with us on climate data infrastructure, resilience planning, or public outreach.</em>
+
+
                 <div data-colibri-id="2778-c14" data-aos="fadeInUp" class="h-text h-text-component style-2001 style-local-2778-c14 position-relative h-element">
                   <!---->
                   <!---->
                   <div class="">
-                    <h3><span style="font-size: 59%;">![]({{ "/assets/images/uploads/1f393.svg" | relative_url }})</span><strong style="font-family: Muli; font-size: 59%; font-weight: 700;">Academic Researchers and Scholars</strong></h3>
-                    <p><strong style="font-family: Muli; font-weight: 700;">Role:</strong><span style="font-family: Muli;"> Co-investigators, mentors, and interdisciplinary collaborators</span></p>
-                    <p><span style="font-family: Muli;">TCO is grounded in interdisciplinary, community-engaged scholarship. We welcome faculty, postdocs, and graduate researchers interested in climate science, science and technology studies, Indigenous studies, design, planning, data justice, and related fields.</span></p>
-                    <p><em style="font-family: Muli;">Join one of our research projects, co-author publications, or co-supervise student initiatives.</em></p>
-                  </div>
-                </div>
+                    ### <span style="font-size: 59%;">![1f393]({{ "/assets/images/uploads/1f393.svg" | relative_url }})</span><strong style="font-family: Muli; font-size: 59%; font-weight: 700;">Academic Researchers and Scholars</strong>
+                    <strong style="font-family: Muli; font-weight: 700;">Role:</strong><span style="font-family: Muli;"> Co-investigators, mentors, and interdisciplinary collaborators</span>
+                    <span style="font-family: Muli;">TCO is grounded in interdisciplinary, community-engaged scholarship. We welcome faculty, postdocs, and graduate researchers interested in climate science, science and technology studies, Indigenous studies, design, planning, data justice, and related fields.</span>
+                    <em style="font-family: Muli;">Join one of our research projects, co-author publications, or co-supervise student initiatives.</em>
+
+
                 <div data-colibri-id="2778-c15" data-aos="fadeInUp" class="h-text h-text-component style-2001 style-local-2778-c15 position-relative h-element">
                   <!---->
                   <!---->
                   <div class="">
-                    <h3><span style="font-size: 57%;">![]({{ "/assets/images/uploads/1f4ca.svg" | relative_url }})</span><strong style="font-weight: 700; font-size: 59%; font-family: Muli;">Data Practitioners and Climate Modellers</strong></h3>
-                    <p><strong style="font-weight: 700; font-family: Muli;">Role:</strong><span style="font-family: Muli;"> Infrastructure builders and technical collaborators<br></span></p>
-                    <p><span style="font-family: Muli;">We're building open-source platforms and tools to make local climate data more accessible, usable and actionable. Developers, data scientists, and digital tool designers can support our work by helping create usable, just, and community-informed climate technologies and tools, as well as novel data visualizations to effectively communicate this data. They can also help us bridge the gap between complex models and local decision-making.</span></p>
-                    <p><em style="font-family: Muli;">Collaborate with us on platform design, data visualization, or tool development.</em></p>
-                  </div>
-                </div>
+                    ### <span style="font-size: 57%;">![1f4ca]({{ "/assets/images/uploads/1f4ca.svg" | relative_url }})</span><strong style="font-weight: 700; font-size: 59%; font-family: Muli;">Data Practitioners and Climate Modellers</strong>
+                    <strong style="font-weight: 700; font-family: Muli;">Role:</strong><span style="font-family: Muli;"> Infrastructure builders and technical collaborators<br></span>
+                    <span style="font-family: Muli;">We're building open-source platforms and tools to make local climate data more accessible, usable and actionable. Developers, data scientists, and digital tool designers can support our work by helping create usable, just, and community-informed climate technologies and tools, as well as novel data visualizations to effectively communicate this data. They can also help us bridge the gap between complex models and local decision-making.</span>
+                    <em style="font-family: Muli;">Collaborate with us on platform design, data visualization, or tool development.</em>
+
+
                 <div data-colibri-id="2778-c16" data-aos="fadeInUp" class="h-text h-text-component style-2001 style-local-2778-c16 position-relative h-element">
                   <!---->
                   <!---->
                   <div class="">
-                    <h3><span style="font-size: 57%;">![]({{ "/assets/images/uploads/1f331.svg" | relative_url }})</span><strong style="font-family: Muli; font-size: 59%; font-weight: 700;">Youth and Student Leaders</strong></h3>
-                    <p><strong style="font-family: Muli; font-weight: 700;">Role:</strong><span style="font-family: Muli;"> Activators, communicators, and future climate leaders<br></span></p>
-                    <p><span style="font-family: Muli;">Youth perspectives are critical to our work. We support student-led research, participatory climate projects, and platforms for youth voices in workshops and public forums. We also offer mentorship and skill-building opportunities, such as through our Toronto Climate Summer School.</span></p>
-                    <p><em style="font-family: Muli;">Contribute to research, join events, or propose a student partnership project.</em></p>
-                  </div>
-                </div>
+                    ### <span style="font-size: 57%;">![1f331]({{ "/assets/images/uploads/1f331.svg" | relative_url }})</span><strong style="font-family: Muli; font-size: 59%; font-weight: 700;">Youth and Student Leaders</strong>
+                    <strong style="font-family: Muli; font-weight: 700;">Role:</strong><span style="font-family: Muli;"> Activators, communicators, and future climate leaders<br></span>
+                    <span style="font-family: Muli;">Youth perspectives are critical to our work. We support student-led research, participatory climate projects, and platforms for youth voices in workshops and public forums. We also offer mentorship and skill-building opportunities, such as through our Toronto Climate Summer School.</span>
+                    <em style="font-family: Muli;">Contribute to research, join events, or propose a student partnership project.</em>
+
+
                 <div data-colibri-id="2778-c17" data-aos="fadeInUp" class="h-text h-text-component style-2001 style-local-2778-c17 position-relative h-element">
                   <!---->
                   <!---->
                   <div class="">
-                    <p><strong style="font-family: Muli; font-size: 116%; font-weight: 700; color: rgb(0, 0, 0);">Don't see a role for you here? Reach out to us directly at toronto@climateobservatory.ca to explore how we can work together!</strong></p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
+                    <strong style="font-family: Muli; font-size: 116%; font-weight: 700; color: rgb(0, 0, 0);">Don't see a role for you here? Reach out to us directly at toronto@climateobservatory.ca to explore how we can work together!</strong>
+
+
+
+
+
+
+
+
+

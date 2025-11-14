@@ -19,9 +19,6 @@ collections:
   team:
     output: true
     permalink: /team/:name/
-  projects:
-    output: true
-    permalink: /projects/:name/
 
 # Default front matter
 defaults:
@@ -35,11 +32,6 @@ defaults:
       type: "team"
     values:
       layout: "team-member"
-  - scope:
-      path: ""
-      type: "projects"
-    values:
-      layout: "project"
 
 # Exclude from processing
 exclude:

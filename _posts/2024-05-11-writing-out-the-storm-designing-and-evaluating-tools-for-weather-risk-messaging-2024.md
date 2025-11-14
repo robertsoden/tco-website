@@ -12,18 +12,9 @@ Sophia S Jit, Jennifer Spinney, Priyank Chandra, Lydia B Chilton, Robert
 CHI '24: Proceedings of the CHI Conference on Human Factors in Comp..."
 ---
 
-<!-- wp:paragraph -->
-<p>Sophia S Jit, Jennifer Spinney, Priyank Chandra, Lydia B Chilton, Robert Soden</p>
-<!-- /wp:paragraph -->
+Sophia S Jit, Jennifer Spinney, Priyank Chandra, Lydia B Chilton, Robert Soden
 
-<!-- wp:paragraph -->
-<p>[CHI '24: Proceedings of the CHI Conference on Human Factors in Computing Systems](https://dl.acm.org/doi/proceedings/10.1145/3613904)</p>
-<!-- /wp:paragraph -->
+[CHI '24: Proceedings of the CHI Conference on Human Factors in Computing Systems](https://dl.acm.org/doi/proceedings/10.1145/3613904)
 
-<!-- wp:paragraph -->
-<p>[https://doi.org/10.1145/3613904.364192](https://doi.org/10.1145/3613904.364192)</p>
-<!-- /wp:paragraph -->
+[https://doi.org/10.1145/3613904.364192](https://doi.org/10.1145/3613904.364192)
 
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->

@@ -12,18 +12,9 @@ Robert Soden, Laura Devendorf, Richmond Wong, Yoko Akama and Ann Light 
  Foundations and Trends® in Human–Computer Interaction: Vol"
 ---
 
-<!-- wp:paragraph -->
-<p>Robert Soden, Laura Devendorf, Richmond Wong, Yoko Akama and Ann Light </p>
-<!-- /wp:paragraph -->
+Robert Soden, Laura Devendorf, Richmond Wong, Yoko Akama and Ann Light 
 
-<!-- wp:paragraph -->
-<p> Foundations and Trends® in Human–Computer Interaction: Vol. 15: No. 4, pp 317-426.</p>
-<!-- /wp:paragraph -->
+ Foundations and Trends® in Human–Computer Interaction: Vol. 15: No. 4, pp 317-426.
 
-<!-- wp:paragraph -->
-<p>http://dx.doi.org/10.1561/1100000085 </p>
-<!-- /wp:paragraph -->
+http://dx.doi.org/10.1561/1100000085
 
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->

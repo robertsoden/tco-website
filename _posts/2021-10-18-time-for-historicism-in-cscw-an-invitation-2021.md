@@ -12,14 +12,8 @@ Robert Soden, David Ribes, Seyram Avle, Will Sutherland
 Proceedings of the ACM on Human-Computer Interaction,&nbsp;Volume&nbsp;5,&nbsp;Issue&nbsp;..."
 ---
 
-<!-- wp:paragraph -->
-<p>Robert Soden, David Ribes, Seyram Avle, Will Sutherland</p>
-<!-- /wp:paragraph -->
+Robert Soden, David Ribes, Seyram Avle, Will Sutherland
 
-<!-- wp:paragraph -->
-<p>[Proceedings of the ACM on Human-Computer Interaction, Volume 5, Issue CSCW2](https://dl.acm.org/toc/pacmhci/2021/5/CSCW2)</p>
-<!-- /wp:paragraph -->
+[Proceedings of the ACM on Human-Computer Interaction, Volume 5, Issue CSCW2](https://dl.acm.org/toc/pacmhci/2021/5/CSCW2)
 
-<!-- wp:paragraph -->
-<p>[https://doi.org/10.1145/3479603](https://doi.org/10.1145/3479603)</p>
-<!-- /wp:paragraph -->
+[https://doi.org/10.1145/3479603](https://doi.org/10.1145/3479603)

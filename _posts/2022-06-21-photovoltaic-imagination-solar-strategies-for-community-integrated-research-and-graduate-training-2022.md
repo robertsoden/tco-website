@@ -8,14 +8,8 @@ excerpt: "
 Robert Soden, Matt Ratto, G"
 ---
 
-<!-- wp:paragraph -->
-<p>*Robert Soden, Matt Ratto, G. Arno Verhoeven, and Bart Simon*</p>
-<!-- /wp:paragraph -->
+*Robert Soden, Matt Ratto, G. Arno Verhoeven, and Bart Simon*
 
-<!-- wp:paragraph -->
-<p>Eighth Workshop on Computing within Limits 2022</p>
-<!-- /wp:paragraph -->
+Eighth Workshop on Computing within Limits 2022
 
-<!-- wp:paragraph -->
-<p>[https://doi.org/10.21428/bf6fb269.7b608a0d](https://doi.org/10.21428/bf6fb269.7b608a0d)</p>
-<!-- /wp:paragraph -->
+[https://doi.org/10.21428/bf6fb269.7b608a0d](https://doi.org/10.21428/bf6fb269.7b608a0d)
