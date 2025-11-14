@@ -375,6 +375,25 @@ body:not(.home) .site-header .navbar-brand a {
     opacity: 1;
 }
 
+/* Newsletter Section */
+.newsletter-section {
+    padding: 4rem 0;
+    background-color: var(--light-bg);
+    text-align: center;
+}
+
+.newsletter-section h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: var(--primary-color);
+}
+
+.newsletter-section p {
+    margin-bottom: 2rem;
+    color: #555;
+    font-size: 1.1rem;
+}
+
 /* Page Header */
 .page-header {
     position: relative;
