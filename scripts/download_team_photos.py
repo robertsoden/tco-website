@@ -80,7 +80,15 @@ def download_photos(photo_map, output_dir):
 
         try:
             print(f"Downloading {url} to {output_file}")
-            urllib.request.urlretrieve(url, output_file)
+            # Add headers to avoid 403 Forbidden
+            req = urllib.request.Request(
+                url,
+                headers={
+                    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+                }
+            )
+            with urllib.request.urlopen(req) as response, open(output_file, 'wb') as out_file:
+                out_file.write(response.read())
             downloaded[filename] = output_file
             print(f"  ✓ Downloaded successfully")
         except Exception as e:
@@ -90,7 +98,7 @@ def download_photos(photo_map, output_dir):
 
 if __name__ == '__main__':
     # Read the WordPress HTML
-    html_file = '/home/user/tco-website/team.html'
+    html_file = '/home/user/tco-website/wp-html/team.html'
 
     # Extract photo URLs
     print("Extracting photo URLs from WordPress HTML...")
