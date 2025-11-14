@@ -3,7 +3,7 @@ name: RAYAN AWAD ALIM
 title: Computer Science, Bioinformatics and Statistics Student
 category: graduate
 order: 101
-image: /assets/images/team/placeholder.jpg
+image: /assets/images/cropped-cropped-IMG_4471-Rayan-scaled-1.webp
 email: ""
 website: ""
 research_interests: Climate change, migration, datafication and AI systems

@@ -3,7 +3,7 @@ name: Rohini Patel
 title: PhD Student, History
 category: alumni
 order: 301
-image: /assets/images/team/placeholder.jpg
+image: /assets/images/cropped-rohini_patel.webp
 email: ""
 website: ""
 research_interests: History of chemical munitions, industrial capitalism, science and technology studies
