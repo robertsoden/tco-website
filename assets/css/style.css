@@ -172,6 +172,129 @@ body {
     color: var(--primary-color);
 }
 
+/* Mission Section */
+.mission-section {
+    padding: 4rem 0;
+    background-color: white;
+    text-align: center;
+}
+
+.mission-section h2 {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+    color: var(--primary-color);
+}
+
+.mission-section p {
+    font-size: 1.2rem;
+    line-height: 1.8;
+    max-width: 900px;
+    margin: 0 auto 2rem;
+    color: #555;
+}
+
+.cta-button {
+    display: inline-block;
+    padding: 1rem 2rem;
+    background-color: var(--accent-color);
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: 600;
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+.cta-button:hover {
+    background-color: #e65a2d;
+    transform: translateY(-2px);
+}
+
+/* Partners Section */
+.partners-section {
+    padding: 4rem 0;
+    background-color: var(--light-bg);
+}
+
+.partners-section h2 {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: var(--primary-color);
+}
+
+.partners-section p {
+    text-align: center;
+    margin-bottom: 2rem;
+    color: #555;
+}
+
+.partners-logos {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 2rem;
+    align-items: center;
+    justify-items: center;
+}
+
+.partners-logos img {
+    max-width: 180px;
+    max-height: 100px;
+    width: auto;
+    height: auto;
+    object-fit: contain;
+    filter: grayscale(100%);
+    opacity: 0.7;
+    transition: filter 0.3s, opacity 0.3s;
+}
+
+.partners-logos img:hover {
+    filter: grayscale(0%);
+    opacity: 1;
+}
+
+/* Funders Section */
+.funders-section {
+    padding: 4rem 0;
+    background-color: white;
+}
+
+.funders-section h2 {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: var(--primary-color);
+}
+
+.funders-section p {
+    text-align: center;
+    margin-bottom: 2rem;
+    color: #555;
+}
+
+.funders-logos {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 2rem;
+    align-items: center;
+    justify-items: center;
+}
+
+.funders-logos img {
+    max-width: 180px;
+    max-height: 100px;
+    width: auto;
+    height: auto;
+    object-fit: contain;
+    filter: grayscale(100%);
+    opacity: 0.7;
+    transition: filter 0.3s, opacity 0.3s;
+}
+
+.funders-logos img:hover {
+    filter: grayscale(0%);
+    opacity: 1;
+}
+
 /* Page Header */
 .page-header {
     background-color: var(--primary-color);
