@@ -4,7 +4,7 @@ email: torontoclimateobservatory@gmail.com
 description: >-
   The Toronto Climate Observatory is a research and knowledge hub dedicated to supporting
   just, place-based climate action across the Greater Toronto Area.
-baseurl: "/tco-website" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://robertsoden.github.io" # the base hostname & protocol for your site
 
 # Build settings
