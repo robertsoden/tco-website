@@ -3,7 +3,7 @@ name: Samar Sabie
 title: ""
 category: faculty
 order: 10
-image: /assets/images/uploads/cropped-pexels.jpg
+image: /assets/images/posts/cropped-pexels.jpg
 email: ""
 website: ""
 research_interests: ""

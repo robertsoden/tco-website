@@ -3,7 +3,7 @@ name: Fanny Chevalier
 title: ""
 category: faculty
 order: 10
-image: /assets/images/team/placeholder.jpg
+image: /assets/images/team/fanny-chevalier.jpg
 email: ""
 website: ""
 research_interests: ""

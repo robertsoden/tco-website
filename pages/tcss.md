@@ -8,7 +8,7 @@ permalink: /tcss/
 
 The Toronto Climate Observatory invites undergraduate students from any department or unit to apply for the Toronto Climate Summer School (TCSS) in 2025. This intensive, full-credit course, designated as ENV465Y1, spans six weeks from May 5-June 14, 2025. The TCSS addresses a pressing and unmet need for comprehensive pedagogy, emphasizing interdisciplinarity, applied impact, and climate justice.
 
-![Image]({{ "/assets/images/uploads/image.png" | relative_url }})
+![Image]({{ "/assets/images/posts/image.png" | relative_url }})
 
 The course will run from 9am-5pm Monday through Friday. Students will participate in coursework, tutorials, workshops, and site visits in the first three weeks, while focusing on faculty-supervised research for the duration of the second three weeks. Students will therefore dedicate up to approximately 8-10 hours on research projects in the first three weeks, and up to 32 hours per week on research projects in the second three weeks. Final projects will be due by mid-June and presented as part of a symposium being organized by the School of the Environment and the Toronto Climate Observatory in late June. Prospective students and faculty mentors are welcome to coordinate prior to applying about pursuing the research component of the TCSS together, and can indicate this in the application.
 

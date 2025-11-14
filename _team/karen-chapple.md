@@ -3,7 +3,7 @@ name: Karen Chapple
 title: ""
 category: faculty
 order: 10
-image: /assets/images/team/placeholder.jpg
+image: /assets/images/team/karen-chapple.jpg
 email: ""
 website: ""
 research_interests: ""

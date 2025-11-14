@@ -16,7 +16,7 @@ excerpt: "
 The first-ever Toronto Climate Summer School (TCSS) has been featured on the University of Toronto's Arts &amp; Science website"
 ---
 
-![Inaugural Toronto Climate Summer School Shows Students That Climate]({{ "/assets/images/Inaugural-Toronto-Climate-Summer-School-shows-students-that-climate.png" | relative_url }})
+![Inaugural Toronto Climate Summer School Shows Students That Climate]({{ "/assets/images/posts/Inaugural-Toronto-Climate-Summer-School-shows-students-that-climate.png" | relative_url }})
 
 The first-ever Toronto Climate Summer School (TCSS) has been featured on the University of Toronto's Arts & Science website.
 

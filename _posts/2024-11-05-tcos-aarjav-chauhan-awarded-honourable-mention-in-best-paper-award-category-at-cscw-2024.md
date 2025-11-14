@@ -10,7 +10,7 @@ Congratulations to Aarjav Chauhan  on winning an Honourable Mention in the Best 
 
 **Congratulations to Aarjav Chauhan  on winning an Honourable Mention in the Best Paper award category at CSCW this year! Accepted papers are reviewed separately by an awards committee and only a few - the top 5% of all papers submitted to CSCW - are chosen for this recognition. **
 
-![Our Values 1 1]({{ "/assets/images/OUR-VALUES-1-1.png" | relative_url }})
+![Our Values 1 1]({{ "/assets/images/posts/OUR-VALUES-1-1.png" | relative_url }})
 
 **Aarjav's paper, "Value Tensions in OpenStreetMap: Openness, Membership, and Policy in Online Communities",  captures some super important dynamics in the OSM community in a way that is faithful to the research setting but also very broadly relevant to social computing researchers who have no direct interest in the platform.  **
 
