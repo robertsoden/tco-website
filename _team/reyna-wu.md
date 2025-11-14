@@ -3,7 +3,7 @@ name: Reyna Wu
 title: Ph.D. Student, Computer Science
 category: graduate
 order: 108
-image: /assets/images/team/placeholder.jpg
+image: /assets/images/team/reyna-wu.jpg
 email: ""
 website: ""
 research_interests: Climate informatics, human-computer interaction, explainable AI
