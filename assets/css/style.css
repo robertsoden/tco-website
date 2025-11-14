@@ -198,22 +198,23 @@ body:not(.home) .site-header .navbar-brand a {
     border-radius: 8px;
     overflow: visible;
     box-shadow: 0 8px 15px rgba(2, 110, 159, 0.2);
-    transition: transform 0.3s, box-shadow 0.3s;
+    transition: box-shadow 0.3s;
     text-align: center;
     padding: 1.5rem;
 }
 
 .news-item:hover {
-    transform: translateY(-5px);
     box-shadow: 0 12px 25px rgba(2, 110, 159, 0.3);
 }
 
 .news-image {
+    display: block;
     width: 150px;
     height: 150px;
     margin: 0 auto 1.5rem;
     overflow: hidden;
     border-radius: 50%;
+    text-decoration: none;
 }
 
 .news-image img {
@@ -749,6 +750,28 @@ body:not(.home) .site-header .navbar-brand a {
 
 .news-article h2 {
     margin-bottom: 1rem;
+}
+
+.article-image {
+    margin-bottom: 1.5rem;
+    max-width: 100%;
+}
+
+.article-image a {
+    display: block;
+    line-height: 0;
+}
+
+.article-image img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s;
+}
+
+.article-image img:hover {
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.15);
 }
 
 .news-article h2 a {

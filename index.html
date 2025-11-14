@@ -24,13 +24,13 @@ title: Home
                 {% unless post.categories contains 'publication' %}
                     {% if count < 3 %}
                     <div class="news-item">
-                        <div class="news-image">
+                        <a href="{{ post.url | relative_url }}" class="news-image">
                             {% if post.image %}
                             <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
                             {% else %}
                             <img src="{{ '/assets/images/hero/toronto-cityscape.jpg' | relative_url }}" alt="{{ post.title }}">
                             {% endif %}
-                        </div>
+                        </a>
                         <div class="news-content">
                             <h3>{{ post.title }}</h3>
                             <p>{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
