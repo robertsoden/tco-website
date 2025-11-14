@@ -16,6 +16,14 @@ permalink: /news/
 
             <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
 
+            {% if post.image %}
+            <div class="article-image">
+                <a href="{{ post.url | relative_url }}">
+                    <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
+                </a>
+            </div>
+            {% endif %}
+
             <div class="article-excerpt">
                 {{ post.excerpt }}
             </div>
