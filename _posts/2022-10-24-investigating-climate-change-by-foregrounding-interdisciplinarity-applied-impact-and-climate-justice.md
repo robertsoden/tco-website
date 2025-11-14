@@ -14,13 +14,13 @@ Learn more about the TCO
 
 **Values**
 
-<ol><li>**Equity and Justice: **The TCO strives for more equitable responses and decision-making to the climate crisis to ensure basic human needs and rights for all and more just outcomes for those who are most impacted by climate change.<br></li>
+<ol>- **Equity and Justice:**The TCO strives for more equitable responses and decision-making to the climate crisis to ensure basic human needs and rights for all and more just outcomes for those who are most impacted by climate change.
 
-<li>**Local and Contextualized: **The TCO is committed to action and research that are grounded in place and informed by local and Indigenous knowledges, place-based problem solving and adaptation, and cultural relevance.<br></li>
+- **Local and Contextualized:**The TCO is committed to action and research that are grounded in place and informed by local and Indigenous knowledges, place-based problem solving and adaptation, and cultural relevance.
 
-<li>**Accountability:** We strive to be accountable to each other and all those who work with us. We work towards developing purposeful and considerate research practices, and critically evaluate the benefits as well as the potential harms of our activities.<br></li>
+- **Accountability:** We strive to be accountable to each other and all those who work with us. We work towards developing purposeful and considerate research practices, and critically evaluate the benefits as well as the potential harms of our activities.
 
-<li>**Action-Oriented: **Our goal is to help affected communities monitor and respond to the impacts of climate change, and we design our projects and evaluate our progress according to these metrics.</li>
+- **Action-Oriented:**Our goal is to help affected communities monitor and respond to the impacts of climate change, and we design our projects and evaluate our progress according to these metrics.
 </ol>
 
 **Approach**

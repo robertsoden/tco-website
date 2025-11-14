@@ -6,13 +6,12 @@ author: rayan
 categories: [Report]
 excerpt: "
 
-
 Eighteen Toronto banks, pensions and asset managers responsible for financing emissions that are almost 2x Canada’s total emissions, nearly 100x Ci..."
 ---
 
-<blockquote class="wp-block-quote is-style-default has-medium-font-size"><blockquote class="wp-block-quote is-style-plain has-medium-font-size">##### Eighteen Toronto banks, pensions and asset managers responsible for financing emissions that are almost 2x Canada’s total emissions, nearly 100x City of Toronto’s emissions. <br>If Bay Street was a country, it would be the 5th largest climate polluter in the world, behind only China, the United States, Russia, and Japan.
-</blockquote>
-</blockquote>
+> ##### Eighteen Toronto banks, pensions and asset managers responsible for financing emissions that are almost 2x Canada's total emissions, nearly 100x City of Toronto's emissions.
+>
+> If Bay Street was a country, it would be the 5th largest climate polluter in the world, behind only China, the United States, Russia, and Japan.
 
 ---
 
@@ -38,22 +37,25 @@ Regulation of the financial system is imperative to address the climate crisis a
 
 **Key Recommendations:**
 
-<ul class="wp-block-list"><li>**Mandate Uniform Climate Reporting Standards: **The report emphasizes the need for uniform and improved reporting standards. Financial institutions must adopt consistent methodologies for disclosing emissions, especially for indirect (Scope 3) emissions, which make up the bulk of their financed emissions.</li>
+- **Mandate Uniform Climate Reporting Standards:** The report emphasizes the need for uniform and improved reporting standards. Financial institutions must adopt consistent methodologies for disclosing emissions, especially for indirect (Scope 3) emissions, which make up the bulk of their financed emissions.
 
-<li>**Enforce Credible Climate Transition Plans: **These must be mandated by the federal government for all financial institutions in Canada. Climate Transition Plans are a key recommendation from the United Nations’ High-Level Expert Group on Net-Zero Commitments of Non-State Entities, and have been modelled by multiple third-party organisations, such as the Glasgow Financial Alliance for Net-Zero and Investors for Paris Compliance. It is clear that simply reporting emissions is not enough.</li>
+- **Enforce Credible Climate Transition Plans:** These must be mandated by the federal government for all financial institutions in Canada. Climate Transition Plans are a key recommendation from the United Nations' High-Level Expert Group on Net-Zero Commitments of Non-State Entities, and have been modelled by multiple third-party organisations, such as the Glasgow Financial Alliance for Net-Zero and Investors for Paris Compliance. It is clear that simply reporting emissions is not enough.
 
-<li>**Enhance Regulatory Oversight**: The federal government, through bodies such as the Office of the Superintendent of Financial Institutions (OSFI), must take a more active role in overseeing financial institutions’ climate-related activities, ensuring that high-emitting investments are curbed, and capital is redirected toward climate solutions.</li>
+- **Enhance Regulatory Oversight**: The federal government, through bodies such as the Office of the Superintendent of Financial Institutions (OSFI), must take a more active role in overseeing financial institutions' climate-related activities, ensuring that high-emitting investments are curbed, and capital is redirected toward climate solutions.
 
-<li>**Toronto’s Leadership Opportunity:** The City of Toronto should take an active role in advocating for climate aligned policies at the federal and provincial levels, ensuring that financed emissions from Toronto-based financial institutions are transparently reported and that Climate Transition Plans are mandated. The City of Toronto should join initiatives like C40 Divest Invest Accelerator to ensure alignment of its own funds with its net zero goals and use spaces like the G20 and COP29/30 to advocate for greater ambition by financial institutions headquartered in the city.  To lead by example, Toronto should integrate financed emissions into its carbon budget by calculating and disclosing emissions from investments and loans made by local Financial Institutions. </li>
-</ul>
+- **Toronto’s Leadership Opportunity:** The City of Toronto should take an active role in advocating for climate aligned policies at the federal and provincial levels, ensuring that financed emissions from Toronto-based financial institutions are transparently reported and that Climate Transition Plans are mandated. The City of Toronto should join initiatives like C40 Divest Invest Accelerator to ensure alignment of its own funds with its net zero goals and use spaces like the G20 and COP29/30 to advocate for greater ambition by financial institutions headquartered in the city.  To lead by example, Toronto should integrate financed emissions into its carbon budget by calculating and disclosing emissions from investments and loans made by local Financial Institutions. 
 
-As the largest financial hub in Canada and one of the world’s most influential cities, Toronto holds the power to improve climate accountability on a global scale.
+As the largest financial hub in Canada and one of the world's most influential cities, Toronto holds the power to improve climate accountability on a global scale.
 
-<div class="wp-block-button has-custom-width wp-block-button__width-50 has-custom-font-size is-style-fill has-medium-font-size" id="read-bay-street-climate-report">[Read The Bay Street Climate Report ](https://www.climateobservatory.ca/baystreetclimatemonitor/)
+[Read The Bay Street Climate Report](https://www.climateobservatory.ca/baystreetclimatemonitor/)
 
 ---
 
-For More Information:<br><br>[Robert Soden](https://www.environment.utoronto.ca/people/directories/all-faculty/robert-soden), report co-author, professor, University of Toronto[ soden@cs.toronto.edu<br>](mailto:soden@cs.toronto.edu)Josslyn Johnstone, media relations, University of Toronto [josslyn.johnstone@utoronto.ca](mailto:josslyn.johnstone@utoronto.ca)
+For More Information:
+
+[Robert Soden](https://www.environment.utoronto.ca/people/directories/all-faculty/robert-soden), report co-author, professor, University of Toronto[ soden@cs.toronto.edu
+
+](mailto:soden@cs.toronto.edu)Josslyn Johnstone, media relations, University of Toronto [josslyn.johnstone@utoronto.ca](mailto:josslyn.johnstone@utoronto.ca)
 
 The [Toronto Climate Observatory](https://www.climateobservatory.ca/) (TCO) is an interdisciplinary initiative hosted at the University of Toronto. Our mission is to reimagine how communities around the Greater Toronto Area (GTA) understand and adapt to the impacts of climate change, and support place-based, pluralistic, and just climate action. Read more about our work at [http://climateobservatory.ca](http://climateobservatory.ca/). 
 
