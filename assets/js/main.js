@@ -2,11 +2,11 @@
 document.addEventListener('DOMContentLoaded', function() {
     const mobileMenuToggle = document.querySelector('.mobile-menu-toggle');
     const navMenu = document.querySelector('.nav-menu');
-    
+
     if (mobileMenuToggle && navMenu) {
         mobileMenuToggle.addEventListener('click', function() {
             navMenu.classList.toggle('active');
-            
+
             // Animate hamburger icon
             const spans = this.querySelectorAll('span');
             spans.forEach((span, index) => {
@@ -24,12 +24,12 @@ document.addEventListener('DOMContentLoaded', function() {
                 }
             });
         });
-        
+
         // Close mobile menu when clicking outside
         document.addEventListener('click', function(event) {
             const isClickInsideNav = navMenu.contains(event.target);
             const isClickOnToggle = mobileMenuToggle.contains(event.target);
-            
+
             if (!isClickInsideNav && !isClickOnToggle && navMenu.classList.contains('active')) {
                 navMenu.classList.remove('active');
                 const spans = mobileMenuToggle.querySelectorAll('span');
@@ -37,6 +37,18 @@ document.addEventListener('DOMContentLoaded', function() {
                     span.style.transform = '';
                     span.style.opacity = '';
                 });
+            }
+        });
+    }
+
+    // Header scroll behavior
+    const siteHeader = document.querySelector('.site-header');
+    if (siteHeader) {
+        window.addEventListener('scroll', function() {
+            if (window.scrollY > 50) {
+                siteHeader.classList.add('scrolled');
+            } else {
+                siteHeader.classList.remove('scrolled');
             }
         });
     }

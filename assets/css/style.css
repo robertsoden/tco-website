@@ -40,7 +40,7 @@ body {
     background-color: transparent;
     color: white;
     padding: 1.5rem 0;
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
     right: 0;
@@ -48,28 +48,19 @@ body {
     transition: all 0.3s ease;
 }
 
-/* Solid header for non-home pages */
-body:not(.home) .site-header {
-    background-color: var(--primary-color);
-    position: sticky;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-}
-
-body:not(.home) .site-header .nav-menu a,
-body:not(.home) .site-header .navbar-brand a {
-    color: white;
-}
-
 .site-header.scrolled {
-    background-color: rgba(246, 248, 250, 0.95);
+    background-color: white;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-    position: fixed;
     padding: 1rem 0;
 }
 
 .site-header.scrolled .nav-menu a,
 .site-header.scrolled .navbar-brand a {
     color: var(--primary-color);
+}
+
+.site-header.scrolled .mobile-menu-toggle span {
+    background-color: var(--primary-color);
 }
 
 .navbar {
@@ -132,6 +123,7 @@ body:not(.home) .site-header .navbar-brand a {
     background-repeat: no-repeat;
     color: white;
     padding: 12.5rem 0;
+    padding-top: 0;
     text-align: center;
     display: flex;
     align-items: center;
@@ -420,7 +412,8 @@ body:not(.home) .site-header .navbar-brand a {
     background-size: cover;
     background-position: center;
     color: white;
-    padding: 6rem 0;
+    padding: 6rem 0 3rem;
+    margin-top: 5rem;
     margin-bottom: 3rem;
 }
 
@@ -979,21 +972,29 @@ body:not(.home) .site-header .navbar-brand a {
     .mobile-menu-toggle {
         display: flex;
     }
-    
+
     .nav-menu {
         display: none;
         position: absolute;
         top: 100%;
         left: 0;
         right: 0;
-        background-color: var(--primary-color);
+        background-color: rgba(48, 62, 122, 0.95);
         flex-direction: column;
         padding: 1rem;
         box-shadow: 0 5px 10px rgba(0,0,0,0.1);
     }
-    
+
     .nav-menu.active {
         display: flex;
+    }
+
+    .site-header.scrolled .nav-menu {
+        background-color: white;
+    }
+
+    .site-header.scrolled .nav-menu a {
+        color: var(--primary-color);
     }
 
     .hero {
