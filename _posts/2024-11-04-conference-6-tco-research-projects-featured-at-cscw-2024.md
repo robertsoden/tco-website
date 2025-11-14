@@ -32,10 +32,10 @@ If you're attending CSCW, don't miss the chance to connect and dive into these c
 
 [hashtag#CSCW2024](https://www.linkedin.com/feed/hashtag/?keywords=cscw2024&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7261015012142460929) [hashtag#TorontoClimateObservatory](https://www.linkedin.com/feed/hashtag/?keywords=torontoclimateobservatory&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7261015012142460929) [hashtag#UofT](https://www.linkedin.com/feed/hashtag/?keywords=uoft&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7261015012142460929)
 
-![No alt text provided for this image]({{ "/assets/images/27.png" | relative_url }})
+![No alt text provided for this image]({{ "/assets/images/posts/27.png" | relative_url }})
 
-![No alt text provided for this image]({{ "/assets/images/28.png" | relative_url }})
+![No alt text provided for this image]({{ "/assets/images/posts/28.png" | relative_url }})
 
-![No alt text provided for this image]({{ "/assets/images/ocrw.jpeg" | relative_url }})
+![No alt text provided for this image]({{ "/assets/images/posts/ocrw.jpeg" | relative_url }})
 
-![No alt text provided for this image]({{ "/assets/images/ocrw.jpeg" | relative_url }})
+![No alt text provided for this image]({{ "/assets/images/posts/ocrw.jpeg" | relative_url }})

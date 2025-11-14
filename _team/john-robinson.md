@@ -3,7 +3,7 @@ name: John Robinson
 title: ""
 category: faculty
 order: 10
-image: /assets/images/team/placeholder.jpg
+image: /assets/images/team/john-robinson.jpg
 email: ""
 website: ""
 research_interests: ""

@@ -3,7 +3,7 @@ name: Michael Classens
 title: ""
 category: faculty
 order: 10
-image: /assets/images/team/placeholder.jpg
+image: /assets/images/team/michael-classens.jpg
 email: ""
 website: ""
 research_interests: ""

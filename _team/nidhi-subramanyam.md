@@ -3,7 +3,7 @@ name: Nidhi Subramanyam
 title: ""
 category: faculty
 order: 10
-image: /assets/images/team/placeholder.jpg
+image: /assets/images/team/nidhi-subramanyam.jpg
 email: ""
 website: ""
 research_interests: ""

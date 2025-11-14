@@ -125,7 +125,7 @@ body:not(.home) .site-header .navbar-brand a {
 .hero {
     min-height: 100vh;
     background-color: #03a9f4;
-    background-image: url('/assets/images/uploads/toronto-3112508.jpg');
+    background-image: url('/assets/images/hero/toronto-cityscape.jpg');
     background-position: 49% 51%;
     background-size: cover;
     background-attachment: scroll;

@@ -3,7 +3,7 @@ name: Fadi Masoud
 title: ""
 category: faculty
 order: 10
-image: /assets/images/team/placeholder.jpg
+image: /assets/images/team/fadi-masoud.jpg
 email: ""
 website: ""
 research_interests: ""

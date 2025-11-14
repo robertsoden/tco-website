@@ -32,7 +32,7 @@ The 2024 Beatrice and Arthur Minden Symposium on the Environment focused on Clim
 
 [Read More](https://www.linkedin.com/posts/toronto-climate-observatory_climaterisk-climateaction-climatechange-activity-7257579476128051202-ayg3?utm_source=share&utm_medium=member_desktop)
 
-![Bay Street Report Cover]({{ "/assets/images/bay-street-report.png" | relative_url }})
+![Bay Street Report Cover]({{ "/assets/images/posts/bay-street-report.png" | relative_url }})
 
 **Bay Street Climate Report**
 
@@ -40,7 +40,7 @@ A new report by the TCO casts a spotlight on the city’s financial sector and i
 
 [Read More](https://www.climateobservatory.ca/wp-content/uploads/2024/10/BayStreetClimateReport_Oct2024-1.pdf)
 
-![Inaugural Toronto Climate Summer School Shows Students That Climate]({{ "/assets/images/Inaugural-Toronto-Climate-Summer-School-shows-students-that-climate.png" | relative_url }})
+![Inaugural Toronto Climate Summer School Shows Students That Climate]({{ "/assets/images/posts/Inaugural-Toronto-Climate-Summer-School-shows-students-that-climate.png" | relative_url }})
 
 **Toronto Climate SummerSchool**
 
@@ -70,7 +70,7 @@ According to a new report from the Toronto Climate Observatory, eighteen Toronto
 
 ### **27th ACM SIGCHI Conference on Computer-Supported CooperativeWork & Social Computing (CSCW)**
 
-![27]({{ "/assets/images/27.png" | relative_url }})
+![27]({{ "/assets/images/posts/27.png" | relative_url }})
 
 Impactful research from the TCO was featured at the 27th ACM SIGCHIConference on Computer-SupportedCooperative Work & Social Computing(CSCW) - the premier venue for research in the design and use of technologies that affect groups, organizations, communities, and networks. The TCO faculty, students, and collaborators presented 5 papers and a workshop at CSCW on their research.
 
@@ -188,5 +188,5 @@ area, our research spans many geographies, bringing valuable lessons home. We ar
 
 ---
 
-![Logo Bl 2 Logo]({{ "/assets/images/uploads/Logo_BL_2.png" | relative_url }})
+![Logo Bl 2 Logo]({{ "/assets/images/posts/posts/Logo_BL_2.png" | relative_url }})
 

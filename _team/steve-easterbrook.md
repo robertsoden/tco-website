@@ -3,7 +3,7 @@ name: Steve Easterbrook
 title: ""
 category: faculty
 order: 10
-image: /assets/images/team/placeholder.jpg
+image: /assets/images/team/steve-easterbrook.jpg
 email: ""
 website: ""
 research_interests: ""
