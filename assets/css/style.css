@@ -90,16 +90,29 @@ body {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+    min-height: 100vh;
+    background-color: #03a9f4;
+    background-image: url('/assets/images/uploads/toronto-3112508.jpg');
+    background-position: 49% 51%;
+    background-size: cover;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
     color: white;
-    padding: 4rem 0;
+    padding: 12.5rem 0;
     text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+.hero .container {
+    width: 100%;
 }
 
 .hero-title {
-    font-size: 3rem;
-    font-weight: 700;
+    font-size: 4.1rem;
+    font-weight: 400;
     letter-spacing: 2px;
+    text-align: right;
 }
 
 /* News Section */
@@ -743,11 +756,17 @@ body {
     .nav-menu.active {
         display: flex;
     }
-    
-    .hero-title {
-        font-size: 2rem;
+
+    .hero {
+        min-height: 60vh;
+        padding: 6rem 0;
     }
-    
+
+    .hero-title {
+        font-size: 2.5rem;
+        text-align: center;
+    }
+
     .page-header h1 {
         font-size: 2rem;
     }
@@ -768,10 +787,16 @@ body {
 }
 
 @media (max-width: 480px) {
-    .hero-title {
-        font-size: 1.5rem;
+    .hero {
+        min-height: 50vh;
+        padding: 4rem 0;
     }
-    
+
+    .hero-title {
+        font-size: 1.8rem;
+        text-align: center;
+    }
+
     .container {
         padding: 0 15px;
     }
