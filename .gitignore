@@ -4,6 +4,7 @@ _site
 .jekyll-metadata
 vendor
 .bundle
+bin/
 Gemfile.lock
 .DS_Store
 *.swp
