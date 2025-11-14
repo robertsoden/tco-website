@@ -2,9 +2,10 @@
 layout: default
 ---
 
-<section class="page-header">
+<section class="page-header" style="background-image: url('{{ '/assets/images/uploads/toronto-3112508.jpg' | relative_url }}');">
+    <div class="page-header-overlay"></div>
     <div class="container">
-        <h1>{{ page.title }}</h1>
+        <h1>News & Updates</h1>
     </div>
 </section>
 
@@ -13,6 +14,7 @@ layout: default
         <div class="content-with-sidebar">
             <main class="main-column">
                 <article class="post">
+                    <h2 class="post-title">{{ page.title }}</h2>
                     <div class="post-meta">
                         <time datetime="{{ page.date | date_to_xmlschema }}">
                             {{ page.date | date: "%B %d, %Y" }}
@@ -33,20 +35,20 @@ layout: default
             </main>
 
             <aside class="sidebar">
-                <h2>Publications</h2>
-                <div class="publications-list">
-                    {% assign publications = site.posts | where_exp: "post", "post.categories contains 'publication'" | sort: "date" | reverse | limit: 10 %}
-                    {% if publications.size > 0 %}
-                        {% for pub in publications %}
-                        <article class="publication-item">
-                            <h4><a href="{{ pub.url | relative_url }}">{{ pub.title }}</a></h4>
-                            {% if pub.excerpt %}
-                            <p class="pub-excerpt">{{ pub.excerpt | strip_html | truncatewords: 30 }}</p>
-                            {% endif %}
+                <h2>Recent News</h2>
+                <div class="recent-news-list">
+                    {% assign recent_posts = site.posts | where_exp: "post", "post.categories contains 'publication' == false" | sort: "date" | reverse | limit: 5 %}
+                    {% if recent_posts.size > 0 %}
+                        {% for post in recent_posts %}
+                        <article class="recent-news-item">
+                            <h4><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h4>
+                            <time datetime="{{ post.date | date_to_xmlschema }}" class="news-date">
+                                {{ post.date | date: "%B %d, %Y" }}
+                            </time>
                         </article>
                         {% endfor %}
                     {% else %}
-                        <p>No publications yet.</p>
+                        <p>No recent news.</p>
                     {% endif %}
                 </div>
             </aside>
