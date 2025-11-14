@@ -76,6 +76,23 @@ body {
 .site-logo {
     height: 65px;
     width: auto;
+    transition: opacity 0.3s ease;
+}
+
+.logo-white {
+    display: block;
+}
+
+.logo-dark {
+    display: none;
+}
+
+.site-header.scrolled .logo-white {
+    display: none;
+}
+
+.site-header.scrolled .logo-dark {
+    display: block;
 }
 
 .nav-menu {
