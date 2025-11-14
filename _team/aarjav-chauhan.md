@@ -3,7 +3,7 @@ name: Aarjav Chauhan
 title: Ph.D. Student, Computer Science
 category: graduate
 order: 103
-image: /assets/images/team/placeholder.jpg
+image: /assets/images/team/aarjav-chauhan.jpeg
 email: ""
 website: ""
 research_interests: Human-computer interaction, information infrastructures, commoning practices

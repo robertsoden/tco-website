@@ -3,7 +3,7 @@ name: Shreyasha Paudel
 title: Ph.D. Student, Computer Science
 category: graduate
 order: 107
-image: /assets/images/team/placeholder.jpg
+image: /assets/images/team/shreyasha-paudel.jpeg
 email: ""
 website: ""
 research_interests: Crisis informatics, disaster risk reduction, climate adaptation

@@ -3,7 +3,7 @@ name: LILLY FLAWN
 title: Master of Environment and Sustainability Graduate
 category: alumni
 order: 300
-image: /assets/images/team/placeholder.jpg
+image: /assets/images/team/lilly-flawn.png
 email: ""
 website: ""
 research_interests: Climate data practices, grassroots climate justice organizing

@@ -3,7 +3,7 @@ name: taneea s agrawaal
 title: Ph.D. Student, Computer Science
 category: graduate
 order: 100
-image: /assets/images/team/placeholder.jpg
+image: /assets/images/team/taneea-agrawaal.png
 email: ""
 website: ""
 research_interests: Climate Change, Human Computer Interaction, Climate Data Practices

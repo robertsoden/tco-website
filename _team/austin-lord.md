@@ -3,7 +3,7 @@ name: AUSTIN LORD
 title: Postdoctoral Research Fellow, School of the Environment
 category: alumni
 order: 304
-image: /assets/images/team/placeholder.jpg
+image: /assets/images/team/austin-lord.png
 email: ""
 website: ""
 research_interests: Disaster recovery, climate change adaptation, environmental data politics

@@ -3,7 +3,7 @@ name: Bowen Zhang
 title: PhD Student, Computer Science
 category: alumni
 order: 303
-image: /assets/images/team/placeholder.jpg
+image: /assets/images/team/bowen-zhang.png
 email: ""
 website: ""
 research_interests: Social computing, peer production platforms

@@ -3,7 +3,7 @@ name: NADiM MOTTU
 title: Undergraduate Student, Computer Science and Mathematics
 category: research-assistant
 order: 203
-image: /assets/images/team/placeholder.jpg
+image: /assets/images/team/nadim-mottu.jpeg
 email: ""
 website: ""
 research_interests: Data analysis, carbon footprint measurement, transparency and accountability

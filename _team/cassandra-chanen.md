@@ -3,7 +3,7 @@ name: CASSANDRA CHANEN
 title: Masters of Environment and Sustainability Student
 category: research-assistant
 order: 200
-image: /assets/images/team/placeholder.jpg
+image: /assets/images/team/cassandra-chanen.jpg
 email: ""
 website: ""
 research_interests: Climate data practices, environmental justice, data justice

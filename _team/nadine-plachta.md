@@ -3,7 +3,7 @@ name: Nadine Plachta
 title: Postdoctoral Fellow, Geography and Planning
 category: alumni
 order: 302
-image: /assets/images/team/placeholder.jpg
+image: /assets/images/team/nadine-plachta.png
 email: ""
 website: ""
 research_interests: Social transformations, citizenship, environmental management, disaster and crisis

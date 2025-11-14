@@ -3,7 +3,7 @@ name: SOPHIA JIT
 title: MSc Student, Computer Science
 category: alumni
 order: 305
-image: /assets/images/team/placeholder.jpg
+image: /assets/images/team/sophia-jit.jpg
 email: ""
 website: ""
 research_interests: Severe weather risk communication, accessibility justice
