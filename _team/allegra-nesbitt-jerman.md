@@ -3,7 +3,7 @@ name: Allegra Nesbitt-Jerman
 title: Research Assistant
 category: research-assistant
 order: 201
-image: /assets/images/team/placeholder.jpg
+image: /assets/images/cropped-86A0CC7A-28D8-47FD-9CD2-4EAEF438C47B-Queers-Hug-Trees-scaled-1.webp
 email: ""
 website: https://www.linkedin.com/in/allegra-nesbitt-jerman
 research_interests: Environmental justice, climate finance, policy analysis

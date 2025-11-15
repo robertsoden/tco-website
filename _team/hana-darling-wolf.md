@@ -3,7 +3,7 @@ name: Hana Darling-Wolf
 title: Master's Student, Computer Science
 category: graduate
 order: 104
-image: /assets/images/team/placeholder.jpg
+image: /assets/images/cropped-hana4-Hana-Darling-Wolf.webp
 email: ""
 website: ""
 research_interests: Computing culture, socially responsible computing, gender, CS education

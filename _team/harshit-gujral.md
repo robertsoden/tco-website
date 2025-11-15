@@ -3,7 +3,7 @@ name: Harshit Gujral
 title: Ph.D. Student, Computer Science
 category: graduate
 order: 105
-image: /assets/images/team/placeholder.jpg
+image: /assets/images/cropped-20230625_002312-EDIT-1-1-Harshit-Gujral.webp
 email: ""
 website: ""
 research_interests: Green technology, environmental health, explainable machine learning

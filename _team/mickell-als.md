@@ -3,7 +3,7 @@ name: MICKELL ALS
 title: Ph.D. Student, Computer Science
 category: graduate
 order: 102
-image: /assets/images/team/placeholder.jpg
+image: /assets/images/cropped-mickell_als-Mickell-Als-scaled-1.webp
 email: ""
 website: https://www.linkedin.com/in/mickell-als
 research_interests: Weather nowcasting, deep learning, remote sensing

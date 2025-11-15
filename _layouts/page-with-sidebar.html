@@ -20,22 +20,7 @@ layout: default
             </main>
 
             <aside class="sidebar">
-                <h2>Publications</h2>
-                <div class="publications-list">
-                    {% assign publications = site.posts | where_exp: "post", "post.categories contains 'publication'" | sort: "date" | reverse | limit: 10 %}
-                    {% if publications.size > 0 %}
-                        {% for pub in publications %}
-                        <article class="publication-item">
-                            <h4><a href="{{ pub.url | relative_url }}">{{ pub.title }}</a></h4>
-                            {% if pub.excerpt %}
-                            <p class="pub-excerpt">{{ pub.excerpt | strip_html | truncatewords: 30 }}</p>
-                            {% endif %}
-                        </article>
-                        {% endfor %}
-                    {% else %}
-                        <p>No publications yet.</p>
-                    {% endif %}
-                </div>
+                {% include news-sidebar.html %}
             </aside>
         </div>
     </div>

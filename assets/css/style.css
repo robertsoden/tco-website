@@ -208,7 +208,7 @@ blockquote p:last-child {
 .site-header {
     background-color: transparent;
     color: white;
-    padding: 1.5rem 0;
+    padding: 2.5rem 0;
     position: fixed;
     top: 0;
     left: 0;
@@ -225,7 +225,7 @@ blockquote p:last-child {
 
 .site-header.scrolled .nav-menu a,
 .site-header.scrolled .navbar-brand a {
-    color: var(--primary-color);
+    color: #000;
 }
 
 .site-header.scrolled .mobile-menu-toggle span {
@@ -235,7 +235,7 @@ blockquote p:last-child {
 .navbar {
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: flex-end;
 }
 
 .navbar-logo {
@@ -243,7 +243,7 @@ blockquote p:last-child {
 }
 
 .site-logo {
-    height: 65px;
+    height: 80px;
     width: auto;
     transition: opacity 0.3s ease;
 }
@@ -304,17 +304,18 @@ blockquote p:last-child {
 .hero {
     min-height: 100vh;
     background-color: #03a9f4;
-    background-image: url('/assets/images/hero/toronto-cityscape.jpg');
-    background-position: 49% 51%;
+    background-image: linear-gradient(rgba(32, 42, 84, 0.65), rgba(32, 42, 84, 0.65)), url('/assets/images/hero/toronto-cityscape.jpg');
+    background-position: 45% 44%;
     background-size: cover;
     background-attachment: scroll;
     background-repeat: no-repeat;
     color: white;
     padding: 12.5rem 0;
     padding-top: 0;
+    padding-bottom: 22.5rem;
     text-align: center;
     display: flex;
-    align-items: center;
+    align-items: flex-end;
 }
 
 .hero .container {
@@ -622,8 +623,8 @@ blockquote p:last-child {
     background-size: cover;
     background-position: center;
     color: white;
-    padding: 6rem 0 3rem;
-    margin-top: 5rem;
+    padding: 10rem 0 4rem;
+    margin-top: 0;
     margin-bottom: 3rem;
 }
 
