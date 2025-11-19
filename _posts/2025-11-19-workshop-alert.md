@@ -5,6 +5,7 @@ date: 2025-11-19
 author: Toronto Climate Observatory
 categories: [news, linkedin]
 excerpt: "📣 Workshop alert! Technologies: Data, tools, and infrastructures will bring to you an examination of the technical foundations that enable effective flood risk management in Southern Ontario."
+image: /assets/images/news/2025-11-19-workshop-alert.jpg
 ---
 
 📣 Workshop alert! Technologies: Data, tools, and infrastructures will bring to you an examination of the technical foundations that enable effective flood risk management in Southern Ontario.

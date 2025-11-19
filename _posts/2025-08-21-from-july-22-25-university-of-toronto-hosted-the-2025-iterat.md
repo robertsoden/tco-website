@@ -5,6 +5,7 @@ date: 2025-08-21
 author: Toronto Climate Observatory
 categories: [news, linkedin]
 excerpt: "🎤 From July 22 - 25, University of Toronto hosted the 2025 iteration of the ACM, Association for Computing Machinery Conference on Computing and Sustainable Societies (COMPASS)! 🌱 "
+image: /assets/images/news/2025-08-21-from-july-22-25-university-of-toronto-hosted-the-2025-iterat.jpg
 ---
 
 🎤 From July 22 - 25, University of Toronto hosted the 2025 iteration of the ACM, Association for Computing Machinery Conference on Computing and Sustainable Societies (COMPASS)! 🌱 

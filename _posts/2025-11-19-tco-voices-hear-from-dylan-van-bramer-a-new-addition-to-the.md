@@ -6,6 +6,7 @@ author: Toronto Climate Observatory
 categories: [news, linkedin]
 excerpt: "🎙️ TCO Voices: Hear from Dylan Van Bramer, a new addition to the TCO! ✨ 
 Dylan joins the Toronto Climate Observatory as both a new PhD student in the University of Toronto's Computer Science departmen..."
+image: /assets/images/news/2025-11-19-tco-voices-hear-from-dylan-van-bramer-a-new-addition-to-the.jpg
 ---
 
 🎙️ TCO Voices: Hear from Dylan Van Bramer, a new addition to the TCO! ✨ 
