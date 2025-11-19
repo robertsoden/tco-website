@@ -7,6 +7,7 @@ date: 2025-11-19
 author: Toronto Climate Observatory
 categories: [news, linkedin]
 excerpt: "🔎 Event Recap: The Looming LNG Glut – Market Assessment & Risks"
+image: /assets/images/news/2025-11-19-event-recap-the-looming-lng-glut-market-assessment-risks-thi.jpg
 ---
 
 🔎 Event Recap: The Looming LNG Glut – Market Assessment & Risks

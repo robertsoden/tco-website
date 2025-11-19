@@ -5,6 +5,7 @@ date: 2025-11-18
 author: Toronto Climate Observatory
 categories: [news, linkedin]
 excerpt: "Two weeks ago, the Climate Aligned Finance Act (CAFA) was reintroduced into the Senate by Senator Rosa Galvez. Through a number of legislative proposals, CAFA seeks to limit both the risks that financ..."
+image: /assets/images/news/2025-11-18-two-weeks-ago-the-climate-aligned-finance-act-cafa-was-reint.jpg
 ---
 
 Two weeks ago, the Climate Aligned Finance Act (CAFA) was reintroduced into the Senate by Senator Rosa Galvez. Through a number of legislative proposals, CAFA seeks to limit both the risks that financial institutions pose to the climate, and the risks climate change poses to Canada's financial system.

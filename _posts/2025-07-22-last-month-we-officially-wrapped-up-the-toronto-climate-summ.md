@@ -5,6 +5,7 @@ date: 2025-07-22
 author: Toronto Climate Observatory
 categories: [news, linkedin]
 excerpt: "🎓 Last month, we officially wrapped up the Toronto Climate Summer School (TCSS) after six transformative weeks of learning! "
+image: /assets/images/news/2025-07-22-last-month-we-officially-wrapped-up-the-toronto-climate-summ.jpg
 ---
 
 🎓 Last month, we officially wrapped up the Toronto Climate Summer School (TCSS) after six transformative weeks of learning! 

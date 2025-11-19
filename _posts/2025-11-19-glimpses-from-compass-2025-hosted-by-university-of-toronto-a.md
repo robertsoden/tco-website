@@ -5,6 +5,7 @@ date: 2025-11-19
 author: Toronto Climate Observatory
 categories: [news, linkedin]
 excerpt: "📸Glimpses from COMPASS 2025 hosted by University of Toronto, as captured by (and featuring some) TCO members!"
+image: /assets/images/news/2025-11-19-glimpses-from-compass-2025-hosted-by-university-of-toronto-a.jpg
 ---
 
 📸Glimpses from COMPASS 2025 hosted by University of Toronto, as captured by (and featuring some) TCO members!
