@@ -7,6 +7,7 @@ permalink: /news/
 <section class="news-list">
     <div class="container">
         {% for post in site.posts %}
+        {% unless post.categories contains 'publication' %}
         <article class="news-article">
             <div class="article-meta">
                 <time datetime="{{ post.date | date_to_xmlschema }}">
@@ -30,6 +31,7 @@ permalink: /news/
 
             <a href="{{ post.url | relative_url }}" class="read-more">Read More →</a>
         </article>
+        {% endunless %}
         {% endfor %}
     </div>
 </section>

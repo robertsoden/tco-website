@@ -3,7 +3,7 @@ layout: post
 title: "Moving Towards Mobility Justice: Challenges and Considerations for Supporting Advocacy (2024)"
 date: 2024-04-26 03:07:47
 author: rayan
-categories: [Publication]
+categories: [publication]
 excerpt: "
 Taneea S Agrawaal, Samar Sabie, Robert Soden
 

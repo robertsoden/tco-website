@@ -2,7 +2,7 @@
 name: Tegan Maharaj
 title: ""
 category: faculty
-order: 10
+order: 8
 image: /assets/images/team/tegan-maharaj.jpg
 email: ""
 website: ""

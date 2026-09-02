@@ -3,7 +3,7 @@ layout: post
 title: "HCI Research on Agriculture: Competing Sociotechnical Imaginaries, Definitions, and Opportunities (2023)"
 date: 2023-04-19 03:12:27
 author: rayan
-categories: [Publication]
+categories: [publication]
 excerpt: "
 Olivia Doggett, Kelly Bronson, Robert Soden
 

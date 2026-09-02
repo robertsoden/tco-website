@@ -3,7 +3,7 @@ layout: post
 title: "The importance of accounting for equity in disaster risk models (2023)"
 date: 2023-10-21 03:09:56
 author: rayan
-categories: [Publication]
+categories: [publication]
 excerpt: "
 Robert Soden, David Lallemant, Manveer Kalirai, Celine Liu, Dennis Wagenaar &amp; Sophia Jit
 

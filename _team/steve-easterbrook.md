@@ -2,7 +2,7 @@
 name: Steve Easterbrook
 title: ""
 category: faculty
-order: 10
+order: 2
 image: /assets/images/team/steve-easterbrook.jpg
 email: ""
 website: ""

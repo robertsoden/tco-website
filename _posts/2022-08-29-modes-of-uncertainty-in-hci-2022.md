@@ -3,7 +3,7 @@ layout: post
 title: "Modes of Uncertainty in HCI (2022)"
 date: 2022-08-29 03:16:08
 author: rayan
-categories: [Publication]
+categories: [publication]
 excerpt: "
 Robert Soden, Laura Devendorf, Richmond Wong, Yoko Akama and Ann Light 
 

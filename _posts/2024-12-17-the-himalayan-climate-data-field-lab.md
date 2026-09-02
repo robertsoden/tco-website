@@ -3,7 +3,7 @@ layout: post
 title: "The Himalayan Climate Data Field Lab"
 date: 2024-12-17 10:27:03
 author: rayan
-categories: [Events]
+categories: [events]
 image: /assets/images/posts/IMG_2977-1-scaled.jpg
 excerpt: "
 Austin Lord, Robert Soden 
@@ -13,7 +13,7 @@ The Himalayan Climate Data Field Lab&nbsp;brought 112 people from 19 different c
 
 ***Austin Lord, Robert Soden ***
 
-[The Himalayan Climate Data Field Lab](https://urfieldlab.com/UR2024/) brought 112 people from 19 different countries together in Kathmandu, Nepal in May and June for a month-long participant-led ‘unconference’ that explored new ways of creating, sharing, and using climate change data. As climate change impacts and risks intensify across the Himalayan region, processes of data production and the design of information management systems shape the ways climate-related problems are understood and prioritized, as well as whose stories get told. This Field Lab, organized by Professor Robert Soden and postdoctoral fellow Austin Lord from [the Toronto Climate Observatory](https://www.climateobservatory.ca/), created a space where participants could collaboratively reevaluate the landscape of climate change data in the Himalayan region and build new tools to help create more just climate futures.
+[The Himalayan Climate Data Field Lab](https://urfieldlab.com/UR2024/) brought 112 people from 19 different countries together in Kathmandu, Nepal in May and June for a month-long participant-led ‘unconference’ that explored new ways of creating, sharing, and using climate change data. As climate change impacts and risks intensify across the Himalayan region, processes of data production and the design of information management systems shape the ways climate-related problems are understood and prioritized, as well as whose stories get told. This Field Lab, organized by Professor Robert Soden and postdoctoral fellow Austin Lord from [the Toronto Climate Observatory](/), created a space where participants could collaboratively reevaluate the landscape of climate change data in the Himalayan region and build new tools to help create more just climate futures.
 
 ![Img 2977 1 Scaled]({{ "/assets/images/posts/IMG_2977-1-scaled.jpg" | relative_url }})
 
@@ -54,8 +54,6 @@ The 2024 Field Lab was led by the University of Toronto team, with support from�
 ![Img 2977 1 Scaled]({{ "/assets/images/posts/IMG_2977-1-scaled.jpg" | relative_url }})
 
 ![Img 2077 1 Scaled]({{ "/assets/images/posts/IMG_2077-1-scaled.jpg" | relative_url }})
-
-![Img 1992 1 Scaled]({{ "/assets/images/posts/IMG_1992-1-scaled.jpg" | relative_url }})
 
 ![Field Lab Partial Group Photo Week 1 1 Scaled]({{ "/assets/images/posts/Field-Lab-partial-group-photo_Week-1-1-scaled.jpg" | relative_url }})
 

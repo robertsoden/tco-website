@@ -3,7 +3,7 @@ layout: post
 title: "What's the Rush?: Alternative Values in Navigation Technologies for Urban Placemaking (2024)"
 date: 2024-03-11 03:06:54
 author: rayan
-categories: [Publication]
+categories: [publication]
 excerpt: "
 Taneea S Agrawaal, Aarjav Chauhan, Carolina Nobre, Robert Soden
 

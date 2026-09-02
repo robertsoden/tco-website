@@ -2,6 +2,8 @@
 layout: page
 title: Contact Us
 permalink: /contact/
+redirect_from:
+  - /contact-us/
 ---
 
 ## Contact us

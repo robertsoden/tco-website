@@ -2,7 +2,7 @@
 name: Imara Rolston
 title: ""
 category: faculty
-order: 10
+order: 12
 image: /assets/images/team/imara-rolston.jpg
 email: ""
 website: ""

@@ -3,7 +3,7 @@ layout: post
 title: "[Job Posting] Research Coordinator in the Toronto Climate Observatory"
 date: 2024-09-18 16:59:02
 author: rayan
-categories: [Job Posting, Report]
+categories: [job posting, report]
 excerpt: "
 The Toronto Climate Observatory (TCO) is hiring a part-time (50%) Research Coordinator to support the growing activities of this campus-wide research..."
 ---

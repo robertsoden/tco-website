@@ -3,7 +3,7 @@ layout: post
 title: "[New Report] Bay Street’s Carbon Footprint Rivals Nations"
 date: 2024-10-08 12:01:00
 author: rayan
-categories: [Report]
+categories: [report]
 excerpt: "
 
 Eighteen Toronto banks, pensions and asset managers responsible for financing emissions that are almost 2x Canada’s total emissions, nearly 100x Ci..."
@@ -15,7 +15,7 @@ Eighteen Toronto banks, pensions and asset managers responsible for financing em
 
 ---
 
-**(Toronto, October 8, 2024) **– Toronto’s top financial institutions financed over $1.43 trillion CAD ($1.1 trillion USD) in fossil fuel companies in 2022, contributing to at least 1.44 billion tonnes of CO2 emissions- nearly twice the total emissions of Canada, and nearly 100 times the total emissions of the City of Toronto, according to a [new report](https://www.climateobservatory.ca/baystreetclimatemonitor) from the [Toronto Climate Observatory](https://www.climateobservatory.ca/), a research hub based at the University of Toronto (U of T).
+**(Toronto, October 8, 2024) **– Toronto’s top financial institutions financed over $1.43 trillion CAD ($1.1 trillion USD) in fossil fuel companies in 2022, contributing to at least 1.44 billion tonnes of CO2 emissions- nearly twice the total emissions of Canada, and nearly 100 times the total emissions of the City of Toronto, according to a [new report](/baystreetclimatemonitor/) from the [Toronto Climate Observatory](/), a research hub based at the University of Toronto (U of T).
 
 As the financial world gathers in Toronto for the [Principles for Responsible Investment](https://www.unpri.org/news-and-events/upcoming-events/pri-in-person-2024) conference, this report casts a spotlight on the city’s financial sector and its outsized role in driving the global climate crisis.
 
@@ -47,7 +47,7 @@ Regulation of the financial system is imperative to address the climate crisis a
 
 As the largest financial hub in Canada and one of the world's most influential cities, Toronto holds the power to improve climate accountability on a global scale.
 
-[Read The Bay Street Climate Report](https://www.climateobservatory.ca/baystreetclimatemonitor/)
+[Read The Bay Street Climate Report](/baystreetclimatemonitor/)
 
 ---
 
@@ -57,5 +57,5 @@ For More Information:
 
 ](mailto:soden@cs.toronto.edu)Josslyn Johnstone, media relations, University of Toronto [josslyn.johnstone@utoronto.ca](mailto:josslyn.johnstone@utoronto.ca)
 
-The [Toronto Climate Observatory](https://www.climateobservatory.ca/) (TCO) is an interdisciplinary initiative hosted at the University of Toronto. Our mission is to reimagine how communities around the Greater Toronto Area (GTA) understand and adapt to the impacts of climate change, and support place-based, pluralistic, and just climate action. Read more about our work at [http://climateobservatory.ca](http://climateobservatory.ca/). 
+The [Toronto Climate Observatory](/) (TCO) is an interdisciplinary initiative hosted at the University of Toronto. Our mission is to reimagine how communities around the Greater Toronto Area (GTA) understand and adapt to the impacts of climate change, and support place-based, pluralistic, and just climate action. Read more about our work at [http://climateobservatory.ca](http://climateobservatory.ca/). 
 

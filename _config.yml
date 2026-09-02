@@ -1,17 +1,23 @@
 # Site settings
 title: Toronto Climate Observatory
-email: torontoclimateobservatory@gmail.com
+email: toronto@climateobservatory.ca
 description: >-
   The Toronto Climate Observatory is a research and knowledge hub dedicated to supporting
   just, place-based climate action across the Greater Toronto Area.
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://robertsoden.github.io" # the base hostname & protocol for your site
+url: "https://climateobservatory.ca" # the base hostname & protocol for your site
+baseurl: "" # custom domain at the root: leave empty
+timezone: America/Toronto
 
 # Build settings
 markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-redirect-from
+
+# Clean post URLs (no category segments)
+permalink: /news/:year/:month/:day/:title/
 
 # Collections
 collections:
@@ -37,11 +43,9 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-  - README.md
-  - CLAUDE.md
+  - vendor/
   - docs/
   - scripts/
+  - README.md
+  - CLAUDE.md
+  - .vm-gems/

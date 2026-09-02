@@ -2,7 +2,7 @@
 name: Ishtiaque Ahmed
 title: ""
 category: faculty
-order: 10
+order: 4
 image: /assets/images/team/ishtiaque-ahmed.jpg
 email: ""
 website: ""

@@ -2,7 +2,7 @@
 name: Karen Chapple
 title: ""
 category: faculty
-order: 10
+order: 5
 image: /assets/images/team/karen-chapple.jpg
 email: ""
 website: ""

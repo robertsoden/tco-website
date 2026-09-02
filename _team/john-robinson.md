@@ -2,7 +2,7 @@
 name: John Robinson
 title: ""
 category: faculty
-order: 10
+order: 11
 image: /assets/images/team/john-robinson.jpg
 email: ""
 website: ""
