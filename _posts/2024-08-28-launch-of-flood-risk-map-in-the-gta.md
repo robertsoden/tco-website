@@ -3,7 +3,7 @@ layout: post
 title: "Launch of Flood Risk Map in the GTA"
 date: 2024-08-28 14:24:00
 author: rayan
-categories: [Uncategorized]
+categories: [uncategorized]
 excerpt: "
 Flood risk data in the GTA is often inaccessible or outdated, leaving most residents, urban planners, municipalities and government agencies without ..."
 ---
@@ -14,5 +14,5 @@ Addressing this critical gap, research by Nicole Gordon, [Emily Majeed](https://
 
 This highlights the urgent need for regularly updated, community-informed information and reveals that most publicly available data is outdated, lacks transparency, and often overlooks the impacts on vulnerable communities. As climate change accelerates, we must ensure our flood data ecosystem is robust and equitable.
 
-Explore the map, search for data in your area, and contribute to building a flood-resilient GTA: [https://lnkd.in/g9eFSxPp](https://lnkd.in/g9eFSxPp)
+Explore the map, search for data in your area, and contribute to building a flood-resilient GTA: [https://schoolofcities.github.io/flood-data-equity](https://schoolofcities.github.io/flood-data-equity)
 

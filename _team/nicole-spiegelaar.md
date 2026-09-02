@@ -2,7 +2,7 @@
 name: Nicole Spiegelaar
 title: ""
 category: faculty
-order: 10
+order: 13
 image: /assets/images/team/nicole-spiegelaar.jpg
 email: ""
 website: ""

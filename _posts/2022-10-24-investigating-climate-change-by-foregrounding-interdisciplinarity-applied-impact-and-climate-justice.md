@@ -3,7 +3,7 @@ layout: post
 title: "Investigating Climate Change by Foregrounding Interdisciplinarity, Applied Impact, and Climate Justice."
 date: 2022-10-24 18:01:00
 author: msafo
-categories: [Uncategorized]
+categories: [uncategorized]
 excerpt: "
 Welcome to the Toronto Climate Observatory (TCO) is an emerging interdisciplinary initiative hosted at the University of Toronto"
 ---

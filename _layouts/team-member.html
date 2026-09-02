@@ -2,6 +2,13 @@
 layout: default
 ---
 
+<section class="page-header" style="background-image: url('{{ '/assets/images/hero/toronto-cityscape.jpg' | relative_url }}');">
+    <div class="page-header-overlay"></div>
+    <div class="container">
+        <h1>Our Team</h1>
+    </div>
+</section>
+
 <section class="team-member-page">
     <div class="container">
         <a href="{{ '/team' | relative_url }}" class="back-link">← Back to Team</a>
@@ -15,13 +22,13 @@ layout: default
             
             <div class="member-details">
                 <h1>{{ page.name }}</h1>
-                {% if page.title %}
+                {% if page.title and page.title != "" %}
                 <p class="position">{{ page.title }}</p>
                 {% endif %}
-                {% if page.email %}
+                {% if page.email and page.email != "" %}
                 <p class="email"><a href="mailto:{{ page.email }}">{{ page.email }}</a></p>
                 {% endif %}
-                {% if page.website %}
+                {% if page.website and page.website != "" %}
                 <p class="website"><a href="{{ page.website }}" target="_blank" rel="noopener noreferrer">Personal Website</a></p>
                 {% endif %}
             </div>
@@ -31,7 +38,7 @@ layout: default
             {{ page.bio | markdownify }}
         </div>
         
-        {% if page.research_interests %}
+        {% if page.research_interests and page.research_interests != "" %}
         <div class="research-interests">
             <h2>Research Interests</h2>
             <p>{{ page.research_interests }}</p>

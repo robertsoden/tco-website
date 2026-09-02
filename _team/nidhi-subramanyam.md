@@ -2,7 +2,7 @@
 name: Nidhi Subramanyam
 title: ""
 category: faculty
-order: 10
+order: 14
 image: /assets/images/team/nidhi-subramanyam.jpg
 email: ""
 website: ""

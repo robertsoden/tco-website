@@ -280,7 +280,7 @@ bundle update
 
 ## 📧 Contact
 
-For questions or support, contact: torontoclimateobservatory@gmail.com
+For questions or support, contact: toronto@climateobservatory.ca
 
 ## 🔗 Resources
 

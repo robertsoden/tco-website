@@ -2,7 +2,7 @@
 name: Fanny Chevalier
 title: ""
 category: faculty
-order: 10
+order: 7
 image: /assets/images/team/fanny-chevalier.jpg
 email: ""
 website: ""

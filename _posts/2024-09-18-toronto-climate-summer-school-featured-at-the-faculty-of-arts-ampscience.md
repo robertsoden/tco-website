@@ -3,7 +3,7 @@ layout: post
 title: "🌍 Toronto Climate Summer School Featured at the Faculty of Arts &amp;Science"
 date: 2024-09-18 13:48:00
 author: rayan
-categories: [Report]
+categories: [report]
 excerpt: "
 
 

@@ -3,7 +3,7 @@ layout: post
 title: "Writing out the Storm: Designing and Evaluating Tools for Weather Risk Messaging (2024)"
 date: 2024-05-11 03:05:40
 author: rayan
-categories: [Publication]
+categories: [publication]
 excerpt: "
 Sophia S Jit, Jennifer Spinney, Priyank Chandra, Lydia B Chilton, Robert Soden
 

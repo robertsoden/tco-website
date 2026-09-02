@@ -3,7 +3,7 @@ layout: post
 title: "Ontario Climate Risk Workshop- Day 1"
 date: 2024-10-30 04:35:24
 author: rayan
-categories: [Uncategorized]
+categories: [uncategorized]
 excerpt: "
 A great first day at the 2024 Beatrice and Arthur Minden Symposium on the Environment: Ontario Climate Risk Workshop.The Symposium brought together e..."
 ---
@@ -40,17 +40,17 @@ Looking forward to keeping the conversations going on day 2!
 
 In collaboration with the [School of the Environment, University of Toronto](https://www.linkedin.com/company/uoftenvironment/) and [Waterloo Climate Institute](https://www.linkedin.com/company/waterloo-climate-institute/).
 
-![Image preview]({{ "/assets/images/image-1.jpeg" | relative_url }})<figcaption class="wp-element-caption">[Ingrid Waldron, Ph.D.](https://www.linkedin.com/in/ingrid-waldron-ph-d-2908a725/), McMaster University</figcaption>
+![Image preview]({{ "/assets/images/posts/image-1.jpeg" | relative_url }})<figcaption class="wp-element-caption">[Ingrid Waldron, Ph.D.](https://www.linkedin.com/in/ingrid-waldron-ph-d-2908a725/), McMaster University</figcaption>
 
-![Image preview]({{ "/assets/images/image-7.jpeg" | relative_url }})<figcaption class="wp-element-caption">- [Kerry-Ann Charles](https://www.linkedin.com/in/kerry-ann-charles-35416914b/), Cambium Indigenous Professional Services</figcaption>
+![Image preview]({{ "/assets/images/posts/image-7.jpeg" | relative_url }})<figcaption class="wp-element-caption">- [Kerry-Ann Charles](https://www.linkedin.com/in/kerry-ann-charles-35416914b/), Cambium Indigenous Professional Services</figcaption>
 
-![No alt text provided for this image]({{ "/assets/images/image-6.jpeg" | relative_url }})<figcaption class="wp-element-caption"> Connected Communities: The advancing whole of society approaches to addressing climate risk- by [Anne Gloger](https://www.linkedin.com/in/anne-gloger-3233001a/)</figcaption>
+![No alt text provided for this image]({{ "/assets/images/posts/image-6.jpeg" | relative_url }})<figcaption class="wp-element-caption"> Connected Communities: The advancing whole of society approaches to addressing climate risk- by [Anne Gloger](https://www.linkedin.com/in/anne-gloger-3233001a/)</figcaption>
 
-![No alt text provided for this image]({{ "/assets/images/image-4.jpeg" | relative_url }})<figcaption class="wp-element-caption">Climate Risk and Agriculture and Food Systems - Michael Classens, University of Toronto</figcaption>
+![No alt text provided for this image]({{ "/assets/images/posts/image-4.jpeg" | relative_url }})<figcaption class="wp-element-caption">Climate Risk and Agriculture and Food Systems - Michael Classens, University of Toronto</figcaption>
 
-![No alt text provided for this image]({{ "/assets/images/image-2.jpeg" | relative_url }})<figcaption class="wp-element-caption">Climate Risk and Flooding - [Mohammad Reza Najafi](https://www.linkedin.com/in/mohammad-reza-najafi-26027255/), Western University</figcaption>
+![No alt text provided for this image]({{ "/assets/images/posts/image-2.jpeg" | relative_url }})<figcaption class="wp-element-caption">Climate Risk and Flooding - [Mohammad Reza Najafi](https://www.linkedin.com/in/mohammad-reza-najafi-26027255/), Western University</figcaption>
 
-![No alt text provided for this image]({{ "/assets/images/image-5.jpeg" | relative_url }})
+![No alt text provided for this image]({{ "/assets/images/posts/image-5.jpeg" | relative_url }})
 
-![No alt text provided for this image]({{ "/assets/images/image-3.jpeg" | relative_url }})<figcaption class="wp-element-caption">Postering Session! </figcaption>
+![No alt text provided for this image]({{ "/assets/images/posts/image-3.jpeg" | relative_url }})<figcaption class="wp-element-caption">Postering Session! </figcaption>
 

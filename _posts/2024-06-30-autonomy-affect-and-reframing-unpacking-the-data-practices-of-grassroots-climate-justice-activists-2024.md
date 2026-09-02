@@ -3,7 +3,7 @@ layout: post
 title: "Autonomy, Affect, and Reframing: Unpacking the Data Practices of Grassroots Climate Justice Activists (2024)"
 date: 2024-06-30 14:51:00
 author: rayan
-categories: [Publication]
+categories: [publication]
 excerpt: "
 Lillian Flawn;&nbsp;Robert Soden
 

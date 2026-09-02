@@ -3,7 +3,7 @@ layout: post
 title: "Reimagining environmental data (2022)"
 date: 2022-01-06 15:17:00
 author: rayan
-categories: [Publication]
+categories: [publication]
 excerpt: "
 Robert Soden
 

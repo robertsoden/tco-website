@@ -2,7 +2,7 @@
 name: Samar Sabie
 title: ""
 category: faculty
-order: 10
+order: 3
 image: /assets/images/team/samar-sabie.jpg
 email: ""
 website: ""

@@ -3,7 +3,7 @@ layout: post
 title: "[Conference] 6 TCO Research Projects Featured at CSCW 2024"
 date: 2024-11-04 08:17:00
 author: rayan
-categories: [Project]
+categories: [project]
 excerpt: "
 Impactful research from the Toronto Climate Observatory will be featured at the 27th ACM SIGCHI Conference on Computer-Supported Cooperative Work &am..."
 ---

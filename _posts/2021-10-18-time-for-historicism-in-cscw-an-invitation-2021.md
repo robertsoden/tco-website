@@ -3,7 +3,7 @@ layout: post
 title: "Time for Historicism in CSCW: An Invitation (2021)"
 date: 2021-10-18 15:18:00
 author: rayan
-categories: [Publication]
+categories: [publication]
 excerpt: "
 Robert Soden, David Ribes, Seyram Avle, Will Sutherland
 

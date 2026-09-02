@@ -3,7 +3,7 @@ layout: post
 title: "Photovoltaic Imagination: Solar Strategies for Community Integrated Research and Graduate Training (2022)"
 date: 2022-06-21 03:14:55
 author: rayan
-categories: [Publication]
+categories: [publication]
 excerpt: "
 Robert Soden, Matt Ratto, G"
 ---

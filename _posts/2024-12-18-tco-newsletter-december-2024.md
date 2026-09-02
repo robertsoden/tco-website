@@ -3,7 +3,7 @@ layout: post
 title: "TCO Newsletter: December 2024"
 date: 2024-12-18 17:57:09
 author: rayan
-categories: [Events]
+categories: [events]
 image: /assets/images/posts/image-10.png
 excerpt: "
 In the spotlight🔎
@@ -25,7 +25,7 @@ The 2024 Beatrice and Arthur Minden Symposium on the Environment focused on Clim
 
 # In the spotlight🔎
 
-![Illustration]({{ "/assets/images/image-10.png" | relative_url }})
+![Illustration]({{ "/assets/images/posts/image-10.png" | relative_url }})
 
 **Ontario Climate RiskWorkshop**
 
@@ -39,7 +39,7 @@ The 2024 Beatrice and Arthur Minden Symposium on the Environment focused on Clim
 
 A new report by the TCO casts a spotlight on the city’s financial sector and its outsized role in driving the global climate crisis.
 
-[Read More](https://www.climateobservatory.ca/wp-content/uploads/2024/10/BayStreetClimateReport_Oct2024-1.pdf)
+[Read More](/assets/files/BayStreetClimateReport_Oct2024.pdf)
 
 ![Inaugural Toronto Climate Summer School Shows Students That Climate]({{ "/assets/images/posts/Inaugural-Toronto-Climate-Summer-School-shows-students-that-climate.png" | relative_url }})
 
@@ -47,9 +47,9 @@ A new report by the TCO casts a spotlight on the city’s financial sector and i
 
 The TCO invites faculty and undergraduate students to apply for an intensive,place-based, six-week full credit course.
 
-[Read More](https://www.climateobservatory.ca/tcss/)
+[Read More](/tcss/)
 
-**[Explore our website →](https://www.climateobservatory.ca/)**
+**[Explore our website →](/)**
 
 ---
 
@@ -61,11 +61,11 @@ The TCO invites faculty and undergraduate students to apply for an intensive,pla
 
 According to a new report from the Toronto Climate Observatory, eighteen Toronto banks, pensions and asset managers are responsible for financing emissions that are almost 2x Canada’s emissions, and nearly 100x City of Toronto’s emissions. Toronto’s top financial institutions financed over$1.43 trillion CAD ($1.1 trillion USD)in fossil fuel companies in 2022, contributing to at least 1.44 billion tonnes of CO2 emissions—nearly twice the total emissions of Canada, and nearly 100 times the total emissions of City of Toronto. 
 
-**[Read the full report →](https://www.climateobservatory.ca/wp-content/uploads/2024/10/BayStreetClimateReport_Oct2024-1.pdf)**
+**[Read the full report →](/assets/files/BayStreetClimateReport_Oct2024.pdf)**
 
 **[Read key highlights →](https://www.linkedin.com/posts/toronto-climate-observatory_bay-street-climate-report-activity-7249388154233712643-VvP3?utm_source=share&utm_medium=member_desktop)**
 
-![Illustration]({{ "/assets/images/image-10.png" | relative_url }})
+![Illustration]({{ "/assets/images/posts/image-10.png" | relative_url }})
 
 ---
 
@@ -101,13 +101,13 @@ In response to climate change and continued urbanization, urban transportation s
 
 The TCO invites faculty and undergraduate students across departments and units to apply for the 2025 Toronto Climate Summer School, an intensive, place-based course(ENV465Y1). The TCSS is a six-week full credit undergraduate course offered at the University of Toronto School of the Environment. We developed this course to fulfill a timely and unmet need for intensive pedagogy that foregrounds interdisciplinarity, applied impact, and climate justice. **Applications close11:59 pm ET on February 14, 2025.**
 
-[**Apply here **→](https://www.climateobservatory.ca/tcss/)
+[**Apply here **→](/tcss/)
 
-![Illustration]({{ "/assets/images/image-7.png" | relative_url }})
+![Illustration]({{ "/assets/images/posts/image-7.png" | relative_url }})
 
 ## **Toronto Water Atlas: Call for Collaborators**
 
-![Illustration]({{ "/assets/images/image-6.png" | relative_url }})
+![Illustration]({{ "/assets/images/posts/image-6.png" | relative_url }})
 
 We’re excited to invite collaborators to the Toronto Water Atlas, an imaginative and collaborative exploration of Toronto’s waterways. This atlas seeks to shift the conversation from managing water to living with water- considering it as a shaper of ecosystems, cultures, and communities. It is an imaginative, interactive, and collaborative project that re-envisions the role of water in shaping the present and future of the Greater Toronto and Hamilton Area(GTHA), and the GTHA’s relationship with its rivers, creeks, and waterways. This project is an invitation to critique, speculate, and create. **Register your interest by December 15, 2024.**
 
@@ -139,7 +139,7 @@ Decades of disaster research have consistently emphasized how natural hazards di
 
 **2024 Beatrice and Arthur Minden Symposium on the Environment |Ontario Climate Risk Workshop**
 
-![Illustration]({{ "/assets/images/image-5.png" | relative_url }})
+![Illustration]({{ "/assets/images/posts/image-5.png" | relative_url }})
 
 The University of Toronto in collaboration with the University of Waterloo hosted the 2024 Beatrice and Arthur Minden Symposium on the Environment on October 30 and 31. This year, the Symposium was delivered as a workshop focusing on Climate Risk in Southern Ontario. We brought together participants from academia, public and private sectors, non-governmental organizations, Indigenous leaders, elected officials, and representatives of the general public to share knowledge, discuss existing initiatives, and co-create a research agenda for addressing climate risk in the province. 
 
@@ -157,7 +157,7 @@ Faculty from TCO and the Department of Computer Science at the University of Tor
 
 **If Bay Street were a country, it’d be the fifth biggest climate polluter in the world | Canada's National Observer**
 
-![Illustration]({{ "/assets/images/image-4.png" | relative_url }})
+![Illustration]({{ "/assets/images/posts/image-4.png" | relative_url }})
 
 *Art by Ata Ojani/Canada's National Observer*
 
@@ -167,7 +167,7 @@ Canada's National Observer covered the Bay Street Climate Report's findings in i
 
 **Review: Computing the Climate offers an accessible avenue to learning about the climate crisis | The Varsity**
 
-![Illustration]({{ "/assets/images/image-2.png" | relative_url }})
+![Illustration]({{ "/assets/images/posts/image-2.png" | relative_url }})
 
 Students from the TCO reviewed Director of the School of the Environment SteveEasterbrook's book, Computing the Climate, published in the student newspaper TheVarsity on October 20, 2024.
 
@@ -177,7 +177,7 @@ Students from the TCO reviewed Director of the School of the Environment SteveEa
 
 # About the TCO
 
-![Illustration]({{ "/assets/images/image-3.png" | relative_url }})
+![Illustration]({{ "/assets/images/posts/image-3.png" | relative_url }})
 
 The Toronto Climate Observatory (TCO) is an emerging interdisciplinary initiative hosted at the University of Toronto. 
 
@@ -189,5 +189,5 @@ area, our research spans many geographies, bringing valuable lessons home. We ar
 
 ---
 
-![Logo Bl 2 Logo]({{ "/assets/images/posts/posts/Logo_BL_2.png" | relative_url }})
+![Logo Bl 2 Logo]({{ "/assets/images/posts/Logo_BL_2.png" | relative_url }})
 
