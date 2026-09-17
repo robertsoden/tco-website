@@ -1,8 +1,8 @@
 ---
-name: LILLY FLAWN
+name: Lilly Flawn
 title: Master of Environment and Sustainability Graduate
 category: alumni
-order: 300
+order: 303
 image: /assets/images/team/lilly-flawn.png
 email: ""
 website: ""

@@ -1,8 +1,8 @@
 ---
-name: MICKELL ALS
+name: Mickell Als
 title: Ph.D. Student, Computer Science
 category: graduate
-order: 102
+order: 105
 image: /assets/images/cropped-mickell_als-Mickell-Als-scaled-1.webp
 email: ""
 website: https://www.linkedin.com/in/mickell-als

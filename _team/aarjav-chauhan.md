@@ -2,7 +2,7 @@
 name: Aarjav Chauhan
 title: Ph.D. Student, Computer Science
 category: graduate
-order: 103
+order: 100
 image: /assets/images/team/aarjav-chauhan.jpeg
 email: ""
 website: ""

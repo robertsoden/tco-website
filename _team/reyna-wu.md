@@ -2,7 +2,7 @@
 name: Reyna Wu
 title: Ph.D. Student, Computer Science
 category: graduate
-order: 108
+order: 107
 image: /assets/images/team/reyna-wu.jpg
 email: ""
 website: ""

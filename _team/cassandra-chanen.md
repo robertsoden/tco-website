@@ -1,5 +1,5 @@
 ---
-name: CASSANDRA CHANEN
+name: Cassandra Chanen
 title: Masters of Environment and Sustainability Student
 category: research-assistant
 order: 200

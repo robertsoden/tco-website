@@ -14,11 +14,10 @@ layout: default
         <a href="{{ '/team' | relative_url }}" class="back-link">← Back to Team</a>
         
         <div class="member-header">
-            {% if page.image %}
+            {% if page.image and page.image != "" %}{% assign page_img = page.image %}{% else %}{% assign page_img = "/assets/images/team/placeholder.png" %}{% endif %}
             <div class="member-photo">
-                <img src="{{ page.image | relative_url }}" alt="{{ page.name }}">
+                <img src="{{ page_img | relative_url }}" alt="{{ page.name }}">
             </div>
-            {% endif %}
             
             <div class="member-details">
                 <h1>{{ page.name }}</h1>

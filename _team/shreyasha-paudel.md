@@ -2,7 +2,7 @@
 name: Shreyasha Paudel
 title: Ph.D. Student, Computer Science
 category: graduate
-order: 107
+order: 108
 image: /assets/images/team/shreyasha-paudel.jpeg
 email: ""
 website: ""

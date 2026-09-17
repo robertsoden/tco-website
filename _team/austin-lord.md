@@ -1,8 +1,8 @@
 ---
-name: AUSTIN LORD
+name: Austin Lord
 title: Postdoctoral Research Fellow, School of the Environment
 category: alumni
-order: 304
+order: 301
 image: /assets/images/team/austin-lord.png
 email: ""
 website: ""

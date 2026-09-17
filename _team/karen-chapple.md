@@ -1,8 +1,8 @@
 ---
 name: Karen Chapple
 title: ""
-category: faculty
-order: 5
+category: faculty-partners
+order: 12
 image: /assets/images/team/karen-chapple.jpg
 email: ""
 website: ""

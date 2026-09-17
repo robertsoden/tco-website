@@ -49,3 +49,6 @@ exclude:
   - README.md
   - CLAUDE.md
   - .vm-gems/
+
+# Disable the github-pages default theme (Primer); the site ships its own CSS
+theme: null

@@ -1,8 +1,8 @@
 ---
 name: Samar Sabie
 title: ""
-category: faculty
-order: 3
+category: faculty-partners
+order: 17
 image: /assets/images/team/samar-sabie.jpg
 email: ""
 website: ""

@@ -1,8 +1,8 @@
 ---
-name: NADiM MOTTU
+name: Nadim Mottu
 title: Undergraduate Student, Computer Science and Mathematics
-category: research-assistant
-order: 203
+category: alumni
+order: 304
 image: /assets/images/team/nadim-mottu.jpeg
 email: ""
 website: ""

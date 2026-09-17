@@ -7,11 +7,10 @@
 <div class="team-list">
     {% for member in team_members %}
     <div class="team-member-item">
-        {% if member.image %}
+        {% if member.image and member.image != "" %}{% assign member_img = member.image %}{% else %}{% assign member_img = "/assets/images/team/placeholder.png" %}{% endif %}
         <div class="member-image">
-            <img src="{{ member.image | relative_url }}" alt="{{ member.name }}">
+            <img src="{{ member_img | relative_url }}" alt="{{ member.name }}">
         </div>
-        {% endif %}
         <div class="member-info">
             <h3>{{ member.name }}</h3>
             <div class="member-bio">

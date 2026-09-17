@@ -1,8 +1,8 @@
 ---
 name: Fanny Chevalier
 title: ""
-category: faculty
-order: 7
+category: faculty-partners
+order: 10
 image: /assets/images/team/fanny-chevalier.jpg
 email: ""
 website: ""

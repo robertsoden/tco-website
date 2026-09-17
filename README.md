@@ -138,7 +138,7 @@ Create a new file in `_team/` with a descriptive filename:
 ---
 name: Full Name
 title: Position Title
-category: faculty  # Options: faculty, graduate, research-assistant, alumni
+category: faculty-partners  # Options: faculty-directors, faculty-partners, graduate, research-assistant, alumni
 order: 1  # Display order within category
 image: /assets/images/team/filename.jpg
 email: email@domain.com

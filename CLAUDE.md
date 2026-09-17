@@ -80,7 +80,7 @@ The site uses Jekyll collections for structured content:
 1. **Team Members** (`_team/` collection)
    - Outputs individual pages at `/team/:name/`
    - Uses `team-member` layout
-   - Front matter fields: name, title, category (faculty/graduate/research-assistant/alumni), order, image, email, website, research_interests, bio
+   - Front matter fields: name, title, category (faculty-directors/faculty-partners/graduate/research-assistant/alumni), order, image, email, website, research_interests, bio
 
 2. **Projects** (`_projects/` collection)
    - Outputs individual pages at `/projects/:name/`
@@ -193,7 +193,7 @@ Enable GitHub Pages in repository Settings > Pages > Build and deployment > Sour
    ---
    name: Full Name
    title: Position Title
-   category: faculty  # or graduate, research-assistant, alumni
+   category: faculty-partners  # or faculty-directors, graduate, research-assistant, alumni
    order: 1
    image: /assets/images/team/photo.jpg
    email: email@domain.com

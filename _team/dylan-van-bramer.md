@@ -2,7 +2,7 @@
 name: Dylan Van Bramer
 title: Ph.D. Student, Computer Science
 category: graduate
-order: 109
+order: 101
 image: /assets/images/team/dylan-van-bramer.jpg
 email: ""
 website: ""
