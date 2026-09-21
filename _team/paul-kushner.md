@@ -2,7 +2,7 @@
 name: Paul Kushner
 title: Professor, Physics
 category: faculty-partners
-order: 16
+order: 15
 image: /assets/images/team/paul-kushner.jpg
 email: ""
 website: "https://www.environment.utoronto.ca/people/directories/all-faculty/paul-kushner"

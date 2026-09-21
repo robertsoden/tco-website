@@ -1,6 +1,6 @@
 {% assign team_category = include.category %}
 {% assign team_title = include.title %}
-{% assign team_members = site.team | where: "category", team_category | sort: "order" %}
+{% assign team_members = site.team | where: "category", team_category | where_exp: "m", "m.hidden != true" | sort: "order" %}
 
 {% if team_members.size > 0 %}
 <h2>{{ team_title }}</h2>

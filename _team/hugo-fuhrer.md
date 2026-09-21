@@ -1,6 +1,7 @@
 ---
 name: Hugo Fuhrer
 title: Research Assistant
+hidden: true
 category: research-assistant
 order: 202
 image: ""

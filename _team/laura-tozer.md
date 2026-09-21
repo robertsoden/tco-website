@@ -2,7 +2,7 @@
 name: Laura Tozer
 title: ""
 category: faculty-partners
-order: 13
+order: 12
 image: /assets/images/team/laura-tozer.jpg
 email: ""
 website: ""

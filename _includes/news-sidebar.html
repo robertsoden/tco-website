@@ -20,19 +20,14 @@
     {% endif %}
 </div>
 
-<h2>Publications</h2>
-<div class="publications-list">
-    {% assign publications = site.posts | where_exp: "post", "post.categories contains 'publication'" | sort: "date" | reverse %}
-    {% if publications.size > 0 %}
-        {% for pub in publications %}
-        <article class="publication-item">
-            <h4><a href="{{ pub.url | relative_url }}">{{ pub.title }}</a></h4>
-            {% if pub.excerpt %}
-            <p class="pub-excerpt">{{ pub.excerpt | strip_html | truncatewords: 30 }}</p>
-            {% endif %}
-        </article>
-        {% endfor %}
-    {% else %}
-        <p>No publications yet.</p>
-    {% endif %}
-</div>
+<h2>News by project</h2>
+<ul class="project-filter-list">
+    {% for proj in site.projects %}
+        {% assign tagged = site.posts | where_exp: "p", "p.projects contains proj.slug" %}
+        {% if tagged.size > 0 %}
+        <li><a href="{{ proj.url | relative_url }}"{% if page.slug == proj.slug %} class="active"{% endif %}>{{ proj.title }}</a> <span class="count">({{ tagged.size }})</span></li>
+        {% endif %}
+    {% endfor %}
+</ul>
+
+{% include publications-sidebar.html %}

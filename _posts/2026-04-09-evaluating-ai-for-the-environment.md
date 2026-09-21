@@ -6,6 +6,7 @@ author: Toronto Climate Observatory
 categories: [news, linkedin]
 excerpt: "With partners Earth Genome and Development Seed, TCO researchers have been studying how environmental organizations develop and evaluate LLM-based tools. A new blog series shares initial findings."
 image: /assets/images/news/2026-04-09-evaluating-ai-for-the-environment.jpg
+projects: [evaluating-ai]
 ---
 
 In collaboration with our partners at Earth Genome and Development Seed, researchers at the Toronto Climate Observatory have been researching the development and evaluation of LLM-based tools at environmental organizations. We will be publishing a series of blog posts with some of our initial findings from interviews with team members and tech developers across the field.

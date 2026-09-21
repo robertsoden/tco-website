@@ -6,6 +6,7 @@ author: Toronto Climate Observatory
 categories: [news, linkedin]
 excerpt: "Join TCO and Climate Resilient Communities to share your experiences navigating extreme heat and co-design more equitable, community-centred heat information tools."
 image: /assets/images/news/2026-02-11-reimagining-heat-information-workshop.jpg
+projects: [counter-mapping-heat]
 ---
 
 We are hosting a Reimagining Heat Information in Toronto workshop with Climate Resilient Communities at the Centre for Social Innovation (192 Spadina Ave.), with dinner provided. Join us to share your experiences navigating extreme heat, reflect on existing heat alerts and maps, and co-design more equitable, community-centred heat information tools. If you're interested in extreme heat and open to discussion and collaborative design, we'd love to have you join us.

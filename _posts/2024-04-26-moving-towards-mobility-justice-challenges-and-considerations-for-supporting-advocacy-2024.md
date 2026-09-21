@@ -4,16 +4,10 @@ title: "Moving Towards Mobility Justice: Challenges and Considerations for Suppo
 date: 2024-04-26 03:07:47
 author: rayan
 categories: [publication]
-excerpt: "
-Taneea S Agrawaal, Samar Sabie, Robert Soden
-
-
-
-Proceedings of the ACM on Human-Computer Interaction,&nbsp;Volume&nbsp;8,&nbsp;Issue&nbsp;CSCW1
-
-
-
-ht..."
+excerpt: "Taneea S Agrawaal, Samar Sabie, Robert Soden. Proceedings of the ACM on Human-Computer Interaction, Volume 8, Issue CSCW1."
+authors: "Taneea S Agrawaal, Samar Sabie, Robert Soden"
+venue: "Proceedings of the ACM on Human-Computer Interaction, Volume 8, Issue CSCW1"
+doi: "10.1145/3637373"
 ---
 
 Taneea S Agrawaal, Samar Sabie, Robert Soden

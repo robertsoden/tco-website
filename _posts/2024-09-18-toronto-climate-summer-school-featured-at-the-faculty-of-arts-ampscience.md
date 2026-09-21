@@ -14,6 +14,7 @@ excerpt: "
 
 
 The first-ever Toronto Climate Summer School (TCSS) has been featured on the University of Toronto's Arts &amp; Science website"
+projects: [tcss]
 ---
 
 ![Inaugural Toronto Climate Summer School Shows Students That Climate]({{ "/assets/images/posts/Inaugural-Toronto-Climate-Summer-School-shows-students-that-climate.png" | relative_url }})

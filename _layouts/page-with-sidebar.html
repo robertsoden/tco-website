@@ -16,11 +16,17 @@ layout: default
     <div class="container">
         <div class="content-with-sidebar">
             <main class="main-column">
-                {{ content }}
+                {% if page.prose %}<div class="page-prose">{{ content }}</div>{% else %}{{ content }}{% endif %}
             </main>
 
             <aside class="sidebar">
-                {% include news-sidebar.html %}
+                {% if page.sidebar == "publications" %}
+                    {% include publications-sidebar.html %}
+                {% elsif page.sidebar == "connect" %}
+                    {% include connect-sidebar.html %}
+                {% else %}
+                    {% include news-sidebar.html %}
+                {% endif %}
             </aside>
         </div>
     </div>

@@ -1,8 +1,8 @@
 ---
 name: Harshit Gujral
 title: Ph.D. Student, Computer Science
-category: graduate
-order: 103
+category: alumni
+order: 304
 image: /assets/images/cropped-20230625_002312-EDIT-1-1-Harshit-Gujral.webp
 email: ""
 website: ""

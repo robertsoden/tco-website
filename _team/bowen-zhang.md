@@ -2,7 +2,7 @@
 name: Bowen Zhang
 title: PhD Student, Computer Science
 category: alumni
-order: 302
+order: 303
 image: /assets/images/team/bowen-zhang.png
 email: ""
 website: ""

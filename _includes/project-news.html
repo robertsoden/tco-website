@@ -1,0 +1,9 @@
+{%- comment -%}
+Usage inside a list item on Our Work: {% include project-news.html project="bay-street" %}
+Links to the filtered news page for the project when at least one post is tagged with it.
+{%- endcomment -%}
+{%- assign related = site.posts | where_exp: "p", "p.projects contains include.project" -%}
+{%- if related.size > 0 -%}
+{%- assign proj = site.projects | where: "slug", include.project | first -%}
+ <a class="project-news" href="{{ proj.url | relative_url }}">News →</a>
+{%- endif -%}

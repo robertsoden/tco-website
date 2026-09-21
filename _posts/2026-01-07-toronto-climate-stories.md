@@ -5,6 +5,7 @@ date: 2026-01-07
 author: Toronto Climate Observatory
 categories: [news, linkedin]
 excerpt: "In the run-up to this year's local elections, TCO and partners are developing data visualization and storytelling pieces that capture Toronto's unique relationship to climate change – and we want to hear your stories."
+projects: [climate-stories]
 ---
 
 In the run-up to local elections this year, researchers at the Toronto Climate Observatory and some of our partners will be developing data visualization and storytelling pieces that capture Toronto's unique relationship to climate change.

@@ -6,6 +6,7 @@ author: Toronto Climate Observatory
 categories: [news, linkedin]
 excerpt: "📢 Impact Spotlight: TCO's Bay Street Climate Report spurs new City Council motion on addressing the financial industry's carbon footprint! On March 26 and 27, 2025, the Toronto City Council, led by"
 image: /assets/images/news/city-council-motion.jpg
+projects: [bay-street]
 ---
 
 📢 Impact Spotlight: TCO's Bay Street Climate Report spurs new City Council motion on addressing the financial industry's carbon footprint!
@@ -14,10 +15,6 @@ On March 26 and 27, 2025, the Toronto City Council, led by Councillor Paula Flet
 
 Read about the motion here: <https://secure.toronto.ca/council/agenda-item.do?item=2025.MM28.37>
 
-Check out the TCO's Bay Street Climate Report here: /assets/files/BayStreetClimateReport_Oct2024.pdf
-
-
 ## Related Links
 
 - <https://secure.toronto.ca/council/agenda-item.do?item=2025.MM28.37>
-- /assets/files/BayStreetClimateReport_Oct2024.pdf

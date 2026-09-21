@@ -1,6 +1,7 @@
 ---
 name: Waanmathi Vishnu
 title: Research Assistant
+hidden: true
 category: research-assistant
 order: 205
 image: ""

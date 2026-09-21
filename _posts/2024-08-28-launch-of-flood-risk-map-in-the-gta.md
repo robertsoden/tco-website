@@ -6,6 +6,7 @@ author: rayan
 categories: [uncategorized]
 excerpt: "
 Flood risk data in the GTA is often inaccessible or outdated, leaving most residents, urban planners, municipalities and government agencies without ..."
+projects: [flood-data-equity]
 ---
 
 Flood risk data in the GTA is often inaccessible or outdated, leaving most residents, urban planners, municipalities and government agencies without the information needed to take preventive measures.

@@ -2,6 +2,7 @@
 layout: page
 title: Our Team
 permalink: /team/
+wide: true
 ---
 
 {% include team-section.html category="faculty-directors" title="FACULTY DIRECTORS" %}

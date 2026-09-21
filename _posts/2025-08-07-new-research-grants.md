@@ -6,6 +6,7 @@ author: Toronto Climate Observatory
 categories: [news, linkedin]
 excerpt: "🚨 New Research Incoming @ TCO! 📚 We're excited to announce two new research grants that the TCO has recently been awarded! These grants will allow us to deepen our work at the intersection of flooding"
 image: /assets/images/news/soc-grant.jpg
+projects: [flood-data-equity, hazard-reconnaissance]
 ---
 
 🚨 New Research Incoming @ TCO! 📚

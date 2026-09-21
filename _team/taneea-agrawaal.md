@@ -2,7 +2,7 @@
 name: Taneea S Agrawaal
 title: Ph.D. Student, Computer Science
 category: graduate
-order: 110
+order: 111
 image: /assets/images/team/taneea-agrawaal.png
 email: ""
 website: ""

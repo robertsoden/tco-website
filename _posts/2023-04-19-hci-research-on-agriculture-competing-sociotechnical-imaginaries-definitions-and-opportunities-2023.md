@@ -4,16 +4,10 @@ title: "HCI Research on Agriculture: Competing Sociotechnical Imaginaries, Defin
 date: 2023-04-19 03:12:27
 author: rayan
 categories: [publication]
-excerpt: "
-Olivia Doggett, Kelly Bronson, Robert Soden
-
-
-
-CHI '23: Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems
-
-
-
-https://doi.o..."
+excerpt: "Olivia Doggett, Kelly Bronson, Robert Soden. CHI '23: Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems."
+authors: "Olivia Doggett, Kelly Bronson, Robert Soden"
+venue: "CHI '23: Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems"
+doi: "10.1145/3544548.3581081"
 ---
 
 Olivia Doggett, Kelly Bronson, Robert Soden

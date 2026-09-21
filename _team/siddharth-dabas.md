@@ -2,7 +2,7 @@
 name: Siddharth Dabas
 title: Master of Environment and Sustainability Student
 category: graduate
-order: 109
+order: 110
 image: /assets/images/team/siddharth-dabas.jpg
 email: ""
 website: "https://siddharthdabas.com/"

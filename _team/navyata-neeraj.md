@@ -2,7 +2,7 @@
 name: Navyata Neeraj
 title: Master of Environment and Sustainability Student
 category: alumni
-order: 306
+order: 309
 image: /assets/images/cropped-IMG_4920-Navyata-Neeraj.webp
 email: ""
 website: https://www.linkedin.com/in/navyata-neeraj

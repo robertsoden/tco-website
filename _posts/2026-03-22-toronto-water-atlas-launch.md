@@ -6,6 +6,7 @@ author: Toronto Climate Observatory
 categories: [news, linkedin]
 excerpt: "The Toronto Water Atlas – nine maps in different mediums, narratives, and forms – launched with an exhibition at Massey College, and a design research paper documenting the Atlas has been accepted to CHI 2026."
 image: /assets/images/news/2026-03-22-toronto-water-atlas-launch.jpg
+projects: [water-atlas]
 ---
 
 We're thrilled to announce the launch of the Toronto Water Atlas. Last month we had the joy of organizing the Water Atlas exhibition at Massey College, and it was a truly special moment for everyone involved.

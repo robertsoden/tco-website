@@ -7,6 +7,10 @@
     <meta name="description" content="{{ page.description | default: site.description }}">
     <link rel="stylesheet" href="{{ '/assets/css/tco.css' | relative_url }}">
     {% seo %}
+    {% unless page.image %}
+    <meta property="og:image" content="{{ '/assets/images/hero/toronto-cityscape.jpg' | absolute_url }}">
+    <meta name="twitter:card" content="summary_large_image">
+    {% endunless %}
 </head>
 <body class="{% if page.url == '/' %}home{% elsif page.url contains '/team' %}team-page{% else %}page{% endif %}">
     {% include header.html %}

@@ -4,14 +4,10 @@ title: "What's the Rush?: Alternative Values in Navigation Technologies for Urba
 date: 2024-03-11 03:06:54
 author: rayan
 categories: [publication]
-excerpt: "
-Taneea S Agrawaal, Aarjav Chauhan, Carolina Nobre, Robert Soden
-
-
-
-CHI '24: Proceedings of the CHI Conference on Human Factors in Computing Systems
-
-..."
+excerpt: "Taneea S Agrawaal, Aarjav Chauhan, Carolina Nobre, Robert Soden. CHI '24: Proceedings of the CHI Conference on Human Factors in Computing Systems."
+authors: "Taneea S Agrawaal, Aarjav Chauhan, Carolina Nobre, Robert Soden"
+venue: "CHI '24: Proceedings of the CHI Conference on Human Factors in Computing Systems"
+doi: "10.1145/3613904.3642470"
 ---
 
 Taneea S Agrawaal, Aarjav Chauhan, Carolina Nobre, Robert Soden

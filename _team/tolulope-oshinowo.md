@@ -2,7 +2,7 @@
 name: Tolulope Oshinowo
 title: Fulbright Canada Research Fellow, Princeton University
 category: alumni
-order: 309
+order: 312
 image: /assets/images/team/tolulope-oshinowo.jpg
 email: ""
 website: ""

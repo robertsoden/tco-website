@@ -6,6 +6,7 @@ author: Toronto Climate Observatory
 categories: [news, linkedin]
 excerpt: "🔎 Event Recap: The Looming LNG Glut – Market Assessment & Risks"
 image: /assets/images/news/2025-11-19-event-recap-the-looming-lng-glut-market-assessment-risks-thi.jpg
+projects: [bay-street]
 ---
 
 🔎 Event Recap: The Looming LNG Glut – Market Assessment & Risks
@@ -28,9 +29,9 @@ Falling spot prices and weaker margins raise tough questions: Who is exposed? Wh
 
 This session highlighted the need for granular, realistic analysis when assessing new LNG infrastructure in a rapidly changing energy landscape. A big thank you to our speakers and co-hosts for this compelling, data-rich conversation!
 
-In case you missed it, watch the webinar recording here: <https://lnkd.in/gdrgrxYr>
+In case you missed it, watch the webinar recording here: <https://www.youtube.com/watch?v=OivNxX8ffdc>
 
 
 ## Related Links
 
-- <https://lnkd.in/gdrgrxYr>
+- <https://www.youtube.com/watch?v=OivNxX8ffdc>

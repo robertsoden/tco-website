@@ -2,7 +2,7 @@
 name: Jen Liu
 title: Postdoctoral Fellow, Computer Science
 category: graduate
-order: 104
+order: 103
 image: /assets/images/team/jen-liu.jpg
 email: ""
 website: ""

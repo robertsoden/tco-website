@@ -6,6 +6,7 @@ author: rayan
 categories: [uncategorized]
 excerpt: "
 A great first day at the 2024 Beatrice and Arthur Minden Symposium on the Environment: Ontario Climate Risk Workshop.The Symposium brought together e..."
+projects: [climate-risk-workshop]
 ---
 
 A great first day at the 2024 Beatrice and Arthur Minden Symposium on the Environment: Ontario Climate Risk Workshop.
