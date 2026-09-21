@@ -125,21 +125,7 @@ permalink: /subscribe/
 
 
         <div style="padding: 8px 0;">
-          <div class="sib-captcha sib-form-block">
-            <div class="form__entry entry_block">
-              <div class="form__label-row">
-                <script>
-                  function handleCaptchaResponse() {
-                    var event = new Event('captchaChange');
-                    document.getElementById('sib-captcha').dispatchEvent(event);
-                  }
-                </script>
-                <div class="g-recaptcha sib-visible-recaptcha" id="sib-captcha" data-sitekey="6LcCpsctAAAAAC-wq0RksNWolyhOwFetiKYGWO_y" data-callback="handleCaptchaResponse" style="direction:ltr"></div>
-              </div>
-              <label class="entry__error entry__error--primary" style="font-family:Helvetica, sans-serif; font-size:16px; text-align:left; color:#661d1d; background-color:#ffeded; border-color:#ff4949; border-radius:3px;"></label>
-            </div>
-          </div>
-        </div>
+          <div class="g-recaptcha" data-sitekey="6LcCpsctAAAAAC-wq0RksNWolyhOwFetiKYGWO_y" data-callback="invisibleCaptchaCallback" data-size="invisible" onclick="executeCaptcha"></div>
 
         <input type="text" name="email_address_check" value="" class="input--hidden">
         <input type="hidden" name="locale" value="en">
