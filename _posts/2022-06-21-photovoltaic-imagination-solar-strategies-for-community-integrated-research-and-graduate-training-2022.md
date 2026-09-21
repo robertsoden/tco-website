@@ -4,8 +4,10 @@ title: "Photovoltaic Imagination: Solar Strategies for Community Integrated Rese
 date: 2022-06-21 03:14:55
 author: rayan
 categories: [publication]
-excerpt: "
-Robert Soden, Matt Ratto, G"
+excerpt: "Robert Soden, Matt Ratto, G. Arno Verhoeven, and Bart Simon. Eighth Workshop on Computing within Limits 2022."
+authors: "Robert Soden, Matt Ratto, G. Arno Verhoeven, and Bart Simon"
+venue: "Eighth Workshop on Computing within Limits 2022"
+doi: "10.21428/bf6fb269.7b608a0d"
 ---
 
 *Robert Soden, Matt Ratto, G. Arno Verhoeven, and Bart Simon*

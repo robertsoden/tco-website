@@ -4,28 +4,10 @@ title: "Autonomy, Affect, and Reframing: Unpacking the Data Practices of Grassro
 date: 2024-06-30 14:51:00
 author: rayan
 categories: [publication]
-excerpt: "
-Lillian Flawn;&nbsp;Robert Soden
-
-
-
-2024-07 |&nbsp;Conference paper
-
-
-
-DOI:&nbsp;10.1145/3643834.3661585
-
-
-
-
-
-
-
-Abstract
-
-
-
-Though not often consider..."
+excerpt: "Lillian Flawn; Robert Soden. DIS '24: Proceedings of the 2024 ACM Designing Interactive Systems Conference."
+authors: "Lillian Flawn; Robert Soden"
+venue: "DIS '24: Proceedings of the 2024 ACM Designing Interactive Systems Conference"
+doi: "10.1145/3643834.3661585"
 ---
 
 ***Lillian Flawn; Robert Soden***

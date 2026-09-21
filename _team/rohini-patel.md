@@ -2,7 +2,7 @@
 name: Rohini Patel
 title: PhD Student, History
 category: alumni
-order: 301
+order: 310
 image: /assets/images/cropped-rohini_patel.webp
 email: ""
 website: ""

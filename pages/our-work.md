@@ -1,5 +1,7 @@
 ---
-layout: page
+layout: page-with-sidebar
+sidebar: publications
+prose: true
 title: "Our Work"
 permalink: /our-work/
 redirect_from:
@@ -7,50 +9,35 @@ redirect_from:
   - /about/research-clusters/
 ---
 
-## REIMAGINING URBAN CLIMATE DATA SYSTEMS
+## Reimagining urban climate data systems
 
-*Research for Advocacy and Action*
+Toronto produces a great deal of climate data, but much of it does not reflect the experiences of the communities most affected by climate change, or does not reach them in a form they can use. Projects in this area examine the climate information that already exists in the region, identify where it falls short, and work with partners to improve it – sometimes by producing new information, and sometimes by changing how existing information is shared and used.
 
-At TCO, we work to transform how climate data is produced, shared, and used in Toronto. Too often, traditional datasets overlook the lived realities of the communities most impacted by climate change, leaving critical gaps in our ability to plan and respond equitably.
+- **Bay Street Climate Monitor** – Our 2024 report found that eighteen Toronto banks, pension funds, and asset managers financed emissions nearly twice Canada's national total. The findings prompted a City Council motion in 2025 and led to continuing work on climate finance in Canada. {% include project-news.html project="bay-street" %}
+- **Flood Data Equity** – A framework and workshop process that helps municipal staff, conservation authorities, and community groups evaluate together how flood information in the GTA is produced, shared, and used, and set goals for improving it. {% include project-news.html project="flood-data-equity" %}
+- **Ontario Flood History** – Records of past floods underpin how flood risk is modelled, mapped, and planned for. This project uses historical newspapers and archives to build a longer inventory of floods across Ontario and to document the gaps in the record. {% include project-news.html project="flood-history" %}
 
-Our work addresses these gaps by assessing the availability, quality, and usability of climate information across the GTA and identifying where new forms of data are urgently needed. This means looking to the broader social and political dimensions of climate knowledge, particularly examining who collects data, who has access to it, whose experiences are represented, and which voices are excluded.
+## Building just data infrastructures
 
-It includes, for example, [producing new information](/assets/files/BayStreetClimateReport_Oct2024.pdf) that spotlights the systemic architectures and incentives that facilitate disproportionate and outsized amounts of carbon emissions from particular sectors; [building data infrastructures](https://schoolofcities.github.io/flood-data-equity) that ensure equity is central to flood resilience planning; or designing municipal frameworks that make monitoring and evaluation more transparent, participatory, and accountable. It means examining how forces like climate migration, displacement, and housing precarity are already reshaping the city, and what kinds of information are needed to prepare for these changes. Importantly, this work also strives to acknowledge colonial histories of exclusion in data and create space for Indigenous and community-led approaches, expanding what counts as climate knowledge and ensuring it can inform just and place-based adaptation.
+Equitable climate action necessitates building new data and information infrastructures. Projects in this area are working towards the development of open and collaborative platforms and tools for producing climate data, evaluating the infrastructures that already exist, and creating collective capacities to gather and engage with the information that communities across the GTA need.
 
-We approach this through human-centered and participatory design, combining technical analysis with community-informed perspectives. By doing so, we not only uncover where existing systems fall short but also co-create new infrastructures that prioritize transparency, accountability, and justice. Ultimately, reimagining climate data systems means moving beyond numbers alone to build knowledge frameworks that are responsive to Toronto's diverse communities, capable of directing resources where they are most needed, and aligned with a vision of equitable and place-based climate action.
+- **Marble** – Accessible, cloud-based tools for analyzing large climate and Earth-observation datasets, designed for a broad range of users rather than for specialists alone. {% include project-news.html project="marble" %}
+- **Toronto Hazard Reconnaissance** – A pilot team for the GTA, funded through the University of Toronto's XSeed program with the Faculty of Applied Science & Engineering, developing protocols with community partners to document how floods and other hazards affect underserved communities, including impacts on health, work, and schooling that conventional damage assessments leave out. {% include project-news.html project="hazard-reconnaissance" %}
+- **Evaluating AI for the Environment** – With Earth Genome and Development Seed, an interview study of how environmental organizations are building and evaluating AI tools in practice, published as an ongoing series. {% include project-news.html project="evaluating-ai" %}
 
----
+## Public engagement, co-creation, and citizen science
 
-## BUILDING JUST DATA INFRASTRUCTURES
+Communities living with climate change already know a great deal about it. Our participatory projects work with residents, artists, and organizers to document local experiences of climate change and to bring them into conversation with official data. Often the relationships and skills built along the way matter as much as the maps and datasets produced.
 
-*Bridging the technical and the social*
+- **Toronto Water Atlas** – A collection of maps engaging the region's relationships to water, made over a year of workshops with artists, scientists, and community members. Launched in 2026 with an exhibition at Massey College. {% include project-news.html project="water-atlas" %}
+- **Counter-Mapping Urban Heat** – Workshops in which residents and frontline workers compare the City's heat alerts and heat maps with their own experiences of extreme heat, and co-design more equitable, community-centred heat information. {% include project-news.html project="counter-mapping-heat" %}
 
-Equitable climate action depends not only on the data we collect and information we produce, but also on the infrastructures that store, process, and make that data usable. At TCO, we work to strengthen the systems behind climate data in the GTA so that resources and investments flow to where they are most urgently needed.
+## Communication, education, and collaboration
 
-This means building infrastructures that are not only technically robust but also socially just – bridges between complex climate information and the communities, governments, and organizations who need it for action on the ground. Our work includes advancing platforms that provide [accessible, cloud-based tools](https://marbleclimate.com/about.html) for analyzing large climate and satellite datasets, ensuring they meet the diverse needs of users rather than reinforcing technical or institutional silos.
+Much of our work is convening. Through a summer school, a data summit, workshops, and a growing network of partners, we bring together students, city staff, community organizers, and artists to develop shared understandings of climate change in the region.
 
-It also involves, for example, developing mechanisms to rapidly collect and share post-disaster data on the physical, social, and economic impacts in vulnerable communities – information that is often overlooked in traditional monitoring systems but essential for equitable recovery and resilience planning. By combining technical innovation with ethical governance and participatory design, we help create data infrastructures that are transparent, inclusive, and aligned with the principles of climate justice. In doing so, we hope to transform data systems from barriers into enablers of place-based adaptation across Toronto.
+- **Toronto Climate Data Summit** – A February 2026 gathering of researchers, practitioners, artists, and community groups working on climate and data across Southern Ontario. {% include project-news.html project="data-summit" %}
+- **Ontario Climate Risk Workshop** – A two-day workshop under the 2024 Minden Symposium that brought together over 100 participants from across sectors, with a 2025 report setting out Ontario's priority climate risks and research needs. {% include project-news.html project="climate-risk-workshop" %}
+- **Toronto Climate Summer School** – A six-week, full-credit undergraduate course each May and June, open to students from any program, with research projects supervised by faculty and community partners. {% include project-news.html project="tcss" %}
 
----
-
-## PUBLIC ENGAGEMENT, CO-CREATION, AND CITIZEN SCIENCE
-
-*Making climate knowledge participatory*
-
-We believe that everyone – particularly communities on the frontlines of climate change – should be able to shape how climate information is produced and shared. Through community engagement, participatory platforms, and citizen science tools, our goal is to enable local stakeholders to co-produce critical climate knowledge, contribute data on local climate impacts, and participate in decision-making on how this data is presented, shared, and used.
-
-Our work aims to ground climate knowledge in place. This includes, for example, participatory mapping processes for heat vulnerability as uniquely shaped by the Toronto urban metropolis – a justice-based approach that moves beyond conventional heat maps and their quantitative bias, and instead emphasizes the social, cultural, and lived dimensions of vulnerability. Another example of this is our [Toronto Water Atlas](https://torontowateratlas.github.io) – a critical, collaborative re-imagining of communities' relationships with Greater Toronto and Hamilton Area's (GTHA) waterways.
-
-Our focus with this pillar is on participatory approaches that prioritize storytelling, community engagement and situated voices, local knowledge, relationship-building, and co-creation, centering the lived experiences of Toronto communities most impacted by varied climate risks.
-
-We also translate complex climate data into actionable insights for adaptation planning and work to democratize data access for local climate action. Through these efforts, we aim to redefine what counts as climate knowledge, decentralize how it is collected and used, and build community capacity for resilience on the ground.
-
----
-
-## COMMUNICATION, EDUCATION, AND COLLABORATION
-
-*Building networks for long-term impact*
-
-The TCO is a hub for learning, collaboration, and capacity-building. Our annual [Toronto Climate Summer School](/tcss/), workshops, and conferences hold space for researchers, governments, students, and civil society to imagine the region's climate future together. Under the banner of the 2024 Beatrice and Arthur Minden Symposium on the Environment, for example, we brought together a diversity of engaged stakeholders – researchers, Indigenous representatives, government staff, students, and non-profits, amongst others – to host the [Ontario Climate Risk Workshop](https://uwspace.uwaterloo.ca/items/67099036-1bed-4134-b5c7-04f75ed9a0ab). This two-day gathering provided space for stakeholders from across disciplines to develop shared, holistic understandings of climate risk and differential vulnerabilities across Ontario, and to co-develop shared agendas for research and action in addressing these risks and building climate resilience.
-
-We also focus on improving communications around climate data and information to democratize access. This includes making complex data meaningful for those who need them, such as through innovative, novel data visualizations that can make this information accessible and usable for local stakeholders to design responsive and equitable climate solutions.
+For the latest from these projects, see [News]({{ "/news/" | relative_url }}). To work with us, see [Connect]({{ "/connect/" | relative_url }}).

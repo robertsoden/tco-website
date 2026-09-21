@@ -6,6 +6,7 @@ author: Toronto Climate Observatory
 categories: [news, linkedin]
 excerpt: "📣 Project Spotlight: Reimagining our relationship with water through the Toronto Water Atlas"
 image: /assets/images/news/2025-09-20-project-spotlight-reimagining-our-relationship-with-water-th.jpg
+projects: [water-atlas]
 ---
 
 📣 Project Spotlight: Reimagining our relationship with water through the Toronto Water Atlas 

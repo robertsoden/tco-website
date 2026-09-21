@@ -1,8 +1,8 @@
 ---
-name: RAYAN AWAD ALIM
+name: Rayan Awad Alim
 title: Computer Science, Bioinformatics and Statistics Student
 category: graduate
-order: 101
+order: 107
 image: /assets/images/cropped-cropped-IMG_4471-Rayan-scaled-1.webp
 email: ""
 website: ""

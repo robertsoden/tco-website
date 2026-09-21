@@ -15,3 +15,4 @@ node_modules/
 # Sandbox-VM Jekyll gems (not part of the site)
 .vm-gems/
 .claude/
+preview.command

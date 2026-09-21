@@ -1,8 +1,8 @@
 ---
-name: SOPHIA JIT
+name: Sophia Jit
 title: MSc Student, Computer Science
 category: alumni
-order: 305
+order: 311
 image: /assets/images/team/sophia-jit.jpg
 email: ""
 website: ""

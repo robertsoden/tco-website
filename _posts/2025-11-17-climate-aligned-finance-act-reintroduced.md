@@ -6,6 +6,7 @@ author: Toronto Climate Observatory
 categories: [news, linkedin]
 excerpt: "Two weeks ago, the Climate Aligned Finance Act (CAFA) was reintroduced into the Senate by Senator Rosa Galvez. Through a number of legislative proposals, CAFA seeks to limit both the risks that financ"
 image: /assets/images/news/2025-11-18-two-weeks-ago-the-climate-aligned-finance-act-cafa-was-reint.jpg
+projects: [bay-street]
 ---
 
 Two weeks ago, the Climate Aligned Finance Act (CAFA) was reintroduced into the Senate by Senator Rosa Galvez. Through a number of legislative proposals, CAFA seeks to limit both the risks that financial institutions pose to the climate, and the risks climate change poses to Canada's financial system.
@@ -26,14 +27,10 @@ Our work at the Toronto Climate Observatory has shown that voluntary commitments
 
 For more information, read this summary from Environmental Defence Canada: <https://environmentaldefence.ca/2025/11/03/long-live-the-climate-aligned-finance-act/> 
 
-Watch this interview with Senator Rosa Galvez: <https://lnkd.in/esP78eyX> 
+Watch this interview with Senator Rosa Galvez: <https://www.youtube.com/watch?v=mQpD1W5Yujo> 
 
 Learn how this relates to the 2025 Federal Budget from Shift Action: <https://www.shiftaction.ca/news/2025/11/05/climate-finance-experts-react-budget-2025> 
-
-Read our 2024 Bay St. Climate Report: /baystreetclimatemonitor/
-
 
 ## Related Links
 
 - <https://environmentaldefence.ca/2025/11/03/long-live-the-climate-aligned-finance-act/>
-- /baystreetclimatemonitor/

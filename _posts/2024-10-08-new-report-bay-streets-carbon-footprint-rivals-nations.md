@@ -7,6 +7,7 @@ categories: [report]
 excerpt: "
 
 Eighteen Toronto banks, pensions and asset managers responsible for financing emissions that are almost 2x Canada’s total emissions, nearly 100x Ci..."
+projects: [bay-street]
 ---
 
 > ##### Eighteen Toronto banks, pensions and asset managers responsible for financing emissions that are almost 2x Canada's total emissions, nearly 100x City of Toronto's emissions.
@@ -15,7 +16,7 @@ Eighteen Toronto banks, pensions and asset managers responsible for financing em
 
 ---
 
-**(Toronto, October 8, 2024) **– Toronto’s top financial institutions financed over $1.43 trillion CAD ($1.1 trillion USD) in fossil fuel companies in 2022, contributing to at least 1.44 billion tonnes of CO2 emissions- nearly twice the total emissions of Canada, and nearly 100 times the total emissions of the City of Toronto, according to a [new report](/baystreetclimatemonitor/) from the [Toronto Climate Observatory](/), a research hub based at the University of Toronto (U of T).
+**(Toronto, October 8, 2024) **– Toronto’s top financial institutions financed over $1.43 trillion CAD ($1.1 trillion USD) in fossil fuel companies in 2022, contributing to at least 1.44 billion tonnes of CO2 emissions- nearly twice the total emissions of Canada, and nearly 100 times the total emissions of the City of Toronto, according to a new report from the [Toronto Climate Observatory](/), a research hub based at the University of Toronto (U of T).
 
 As the financial world gathers in Toronto for the [Principles for Responsible Investment](https://www.unpri.org/news-and-events/upcoming-events/pri-in-person-2024) conference, this report casts a spotlight on the city’s financial sector and its outsized role in driving the global climate crisis.
 
@@ -46,8 +47,6 @@ Regulation of the financial system is imperative to address the climate crisis a
 - **Toronto’s Leadership Opportunity:** The City of Toronto should take an active role in advocating for climate aligned policies at the federal and provincial levels, ensuring that financed emissions from Toronto-based financial institutions are transparently reported and that Climate Transition Plans are mandated. The City of Toronto should join initiatives like C40 Divest Invest Accelerator to ensure alignment of its own funds with its net zero goals and use spaces like the G20 and COP29/30 to advocate for greater ambition by financial institutions headquartered in the city.  To lead by example, Toronto should integrate financed emissions into its carbon budget by calculating and disclosing emissions from investments and loans made by local Financial Institutions. 
 
 As the largest financial hub in Canada and one of the world's most influential cities, Toronto holds the power to improve climate accountability on a global scale.
-
-[Read The Bay Street Climate Report](/baystreetclimatemonitor/)
 
 ---
 

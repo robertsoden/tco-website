@@ -24,6 +24,9 @@ collections:
   team:
     output: true
     permalink: /team/:name/
+  projects:
+    output: true
+    permalink: /news/project/:name/
 
 # Default front matter
 defaults:
@@ -37,6 +40,11 @@ defaults:
       type: "team"
     values:
       layout: "team-member"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project-news"
 
 # Exclude from processing
 exclude:
@@ -49,3 +57,7 @@ exclude:
   - README.md
   - CLAUDE.md
   - .vm-gems/
+  - preview.command
+
+# Disable the github-pages default theme (Primer); the site ships its own CSS
+theme: null

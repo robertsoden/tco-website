@@ -1,7 +1,7 @@
 ---
 name: Robert Soden
 title: Assistant Professor, Department of Computer Science & School of the Environment
-category: faculty
+category: faculty-directors
 order: 1
 image: /assets/images/team/robert-soden.jpg
 email: soden@cs.toronto.edu

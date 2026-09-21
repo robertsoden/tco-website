@@ -1,0 +1,11 @@
+<h2>Recent Publications</h2>
+<div class="publications-list">
+    {% assign publications = site.posts | where_exp: "post", "post.categories contains 'publication'" %}
+    {% for pub in publications limit: 5 %}
+    <article class="publication-item">
+        {% assign yr = pub.date | date: "%Y" %}{% assign suffix = " (" | append: yr | append: ")" %}<h4><a href="{{ pub.url | relative_url }}">{{ pub.title | replace: suffix, "" }}</a></h4>
+        {% if pub.authors %}<p class="pub-excerpt">{{ pub.authors }}</p>{% endif %}
+    </article>
+    {% endfor %}
+    <p class="sidebar-more"><a href="{{ '/publications/' | relative_url }}">All publications →</a></p>
+</div>

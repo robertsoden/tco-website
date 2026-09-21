@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<section class="page-header" style="background-image: url('{{ '/assets/images/hero/toronto-cityscape.jpg' | relative_url }}');">
+    <div class="page-header-overlay"></div>
+    <div class="container">
+        <h1>News: {{ page.title }}</h1>
+    </div>
+</section>
+
+<section class="page-content">
+    <div class="container">
+        <div class="content-with-sidebar">
+            <main class="main-column">
+                <p class="news-filter-note">Showing news about <strong>{{ page.title }}</strong>. <a href="{{ '/news/' | relative_url }}">All news →</a></p>
+                {% include news-list.html project=page.slug %}
+            </main>
+
+            <aside class="sidebar">
+                {% include news-sidebar.html %}
+            </aside>
+        </div>
+    </div>
+</section>

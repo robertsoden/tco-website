@@ -1,7 +1,7 @@
 ---
 name: Steve Easterbrook
 title: ""
-category: faculty
+category: faculty-directors
 order: 2
 image: /assets/images/team/steve-easterbrook.jpg
 email: ""

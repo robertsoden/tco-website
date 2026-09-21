@@ -1,8 +1,8 @@
 ---
 name: Michael Classens
 title: ""
-category: faculty
-order: 6
+category: faculty-partners
+order: 13
 image: /assets/images/team/michael-classens.jpg
 email: ""
 website: ""

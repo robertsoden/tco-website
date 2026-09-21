@@ -5,6 +5,7 @@ date: 2026-01-15
 author: Toronto Climate Observatory
 categories: [news, linkedin]
 excerpt: "TCO is hosting the Toronto Climate Data Summit, February 18–20, 2026, at the University of Toronto, and is looking for people to present their work on climate and data in Southern Ontario."
+projects: [data-summit]
 ---
 
 We're hosting the Toronto Climate Data Summit from February 18 to 20, 2026, at the University of Toronto (St. George campus), and we're looking for people interested in presenting their work on climate and data in Southern Ontario.

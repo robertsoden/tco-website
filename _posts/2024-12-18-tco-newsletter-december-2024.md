@@ -8,17 +8,7 @@ image: /assets/images/posts/image-10.png
 excerpt: "
 In the spotlight🔎
 
-
-
-
-
-
-
-
-
 Ontario Climate RiskWorkshop
-
-
 
 The 2024 Beatrice and Arthur Minden Symposium on the Environment focused on Climate Risk i..."
 ---
@@ -39,8 +29,6 @@ The 2024 Beatrice and Arthur Minden Symposium on the Environment focused on Clim
 
 A new report by the TCO casts a spotlight on the city’s financial sector and its outsized role in driving the global climate crisis.
 
-[Read More](/assets/files/BayStreetClimateReport_Oct2024.pdf)
-
 ![Inaugural Toronto Climate Summer School Shows Students That Climate]({{ "/assets/images/posts/Inaugural-Toronto-Climate-Summer-School-shows-students-that-climate.png" | relative_url }})
 
 **Toronto Climate SummerSchool**
@@ -60,8 +48,6 @@ The TCO invites faculty and undergraduate students to apply for an intensive,pla
 **Tololupe Oshinowo, Allegra Nesbitt-Jerman, and Robert Soden**
 
 According to a new report from the Toronto Climate Observatory, eighteen Toronto banks, pensions and asset managers are responsible for financing emissions that are almost 2x Canada’s emissions, and nearly 100x City of Toronto’s emissions. Toronto’s top financial institutions financed over$1.43 trillion CAD ($1.1 trillion USD)in fossil fuel companies in 2022, contributing to at least 1.44 billion tonnes of CO2 emissions—nearly twice the total emissions of Canada, and nearly 100 times the total emissions of City of Toronto. 
-
-**[Read the full report →](/assets/files/BayStreetClimateReport_Oct2024.pdf)**
 
 **[Read key highlights →](https://www.linkedin.com/posts/toronto-climate-observatory_bay-street-climate-report-activity-7249388154233712643-VvP3?utm_source=share&utm_medium=member_desktop)**
 

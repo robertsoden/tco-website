@@ -2,7 +2,7 @@
 name: Hana Darling-Wolf
 title: Master's Student, Computer Science
 category: graduate
-order: 104
+order: 102
 image: /assets/images/cropped-hana4-Hana-Darling-Wolf.webp
 email: ""
 website: ""

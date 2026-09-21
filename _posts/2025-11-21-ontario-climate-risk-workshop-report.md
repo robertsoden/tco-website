@@ -6,6 +6,7 @@ author: Toronto Climate Observatory
 categories: [news, linkedin]
 excerpt: "The Ontario Climate Risk Workshop Report collects briefing notes from nearly two dozen experts on current research and initiatives related to climate risk in Southern Ontario."
 image: /assets/images/posts/ocrw.jpeg
+projects: [climate-risk-workshop]
 ---
 
 Last week we launched the Ontario Climate Risk Workshop Report, a collection of briefing notes that describe current research and initiatives related to climate risk in Southern Ontario. With contributions from nearly two dozen experts, the report serves as the proceedings from the first Ontario Climate Risk Workshop.
