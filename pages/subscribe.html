@@ -82,7 +82,7 @@ permalink: /subscribe/
 
     <div>
     <div id="sib-container" class="sib-container--large sib-container--vertical" style="text-align:center; background-color:rgba(255,255,255,1); max-width:540px; border-radius:3px; border-width:1px; border-color:#C0CCD9; border-style:solid; direction:ltr">
-      <form id="sib-form" method="POST" action="https://1cf202ee.sibforms.com/serve/MUIFAEZ7Y2FmkUCCj8p_oAdxl5MOVLd5V6frKgSLy05YGkIlbGJxxzmJt_vCt1WfdE42hQtruxPmALZcKq6D4TgIpNkG98hhaK4oiLmkjrYNuqPVnCtKngQXGEQbsC3PHoqwimmJBx634t0nzfJ7HbTAhZ0yiowdPpcu8jEpMO9TxmImSHYVLfVyutRxgM3duRf-B6vCj7Bm15Ga" data-type="subscription">
+      <form id="sib-form" method="POST" action="https://8483c1d4.sibforms.com/serve/MUIFACHD6dQE7iG4Qm5RKJpGNEwWNrNcPuj8qTrvhGyF-JrGJGXv-C40Sb1VcCw7cFTGIh5HpYYpHCNKEOSKqDKxUde5l3gPuV5ukSIK_c_MtvqEpgzo3h1ucH8v760mK1s53Y7z2ixffDG7VGtWmM3vJVnpl7DtyJXaejcgCJQocQTkwcWkd0OxJeQnFk0C4vq0BCEt_TwQgU66BA==" data-type="subscription">
         <div style="padding: 8px 0;">
           <div class="sib-form-block" style="font-size:32px; text-align:left; font-weight:700; font-family:Helvetica, sans-serif; color:#3C4858; background-color:transparent; text-align:left">
             <p>TCO Newsletter
@@ -125,8 +125,21 @@ permalink: /subscribe/
 
 
         <div style="padding: 8px 0;">
-          <div class="g-recaptcha-v3" data-sitekey="6Ld415kqAAAAAIJsftBFII3s59ZXIaU8PFqc-JD5" style="display: none">
-
+          <div class="sib-captcha sib-form-block">
+            <div class="form__entry entry_block">
+              <div class="form__label-row">
+                <script>
+                  function handleCaptchaResponse() {
+                    var event = new Event('captchaChange');
+                    document.getElementById('sib-captcha').dispatchEvent(event);
+                  }
+                </script>
+                <div class="g-recaptcha sib-visible-recaptcha" id="sib-captcha" data-sitekey="6LcCpsctAAAAAC-wq0RksNWolyhOwFetiKYGWO_y" data-callback="handleCaptchaResponse" style="direction:ltr"></div>
+              </div>
+              <label class="entry__error entry__error--primary" style="font-family:Helvetica, sans-serif; font-size:16px; text-align:left; color:#661d1d; background-color:#ffeded; border-color:#ff4949; border-radius:3px;"></label>
+            </div>
+          </div>
+        </div>
 
         <input type="text" name="email_address_check" value="" class="input--hidden">
         <input type="hidden" name="locale" value="en">
@@ -158,7 +171,7 @@ permalink: /subscribe/
 
 <script defer src="https://sibforms.com/forms/end-form/build/main.js"></script>
 
-<script src="https://www.google.com/recaptcha/api.js?render=6Ld415kqAAAAAIJsftBFII3s59ZXIaU8PFqc-JD5&hl=en" async defer></script>
+<script src="https://www.google.com/recaptcha/api.js?hl=en"></script>
 
 <!-- END - We recommend to place the above code in footer or bottom of your website html  -->
 <!-- End Brevo Form -->

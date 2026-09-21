@@ -79,12 +79,12 @@ title: Home
             </div>
 
             <div id="sib-container" class="sib-container--large sib-container--vertical" style="text-align:center; background-color:rgba(255,255,255,1); max-width:540px; border-radius:3px; border-width:1px; border-color:#C0CCD9; border-style:solid; direction:ltr; margin: 0 auto;">
-              <form id="sib-form" method="POST" action="https://1cf202ee.sibforms.com/serve/MUIFAEZ7Y2FmkUCCj8p_oAdxl5MOVLd5V6frKgSLy05YGkIlbGJxxzmJt_vCt1WfdE42hQtruxPmALZcKq6D4TgIpNkG98hhaK4oiLmkjrYNuqPVnCtKngQXGEQbsC3PHoqwimmJBx634t0nzfJ7HbTAhZ0yiowdPpcu8jEpMO9TxmImSHYVLfVyutRxgM3duRf-B6vCj7Bm15Ga" data-type="subscription">
+              <form id="sib-form" method="POST" action="https://8483c1d4.sibforms.com/serve/MUIFACHD6dQE7iG4Qm5RKJpGNEwWNrNcPuj8qTrvhGyF-JrGJGXv-C40Sb1VcCw7cFTGIh5HpYYpHCNKEOSKqDKxUde5l3gPuV5ukSIK_c_MtvqEpgzo3h1ucH8v760mK1s53Y7z2ixffDG7VGtWmM3vJVnpl7DtyJXaejcgCJQocQTkwcWkd0OxJeQnFk0C4vq0BCEt_TwQgU66BA==" data-type="subscription">
                 <div style="padding: 8px 0;">
                   <div class="sib-input sib-form-block">
                     <div class="form__entry entry_block">
                       <div class="form__label-row">
-                        <label class="entry__label" style="font-weight: 700; text-align:left; font-size:16px; font-family:Helvetica, sans-serif; color:#3c4858;" for="EMAIL" data-required="*">Enter your email address</label>
+                        <label class="entry__label" style="font-weight: 700; text-align:left; font-size:16px; font-family:Helvetica, sans-serif; color:#3c4858;" for="EMAIL" data-required="*">Enter your email address to subscribe</label>
                         <div class="entry__field">
                           <input class="input" type="text" id="EMAIL" name="EMAIL" autocomplete="off" placeholder="EMAIL" data-required="true" required />
                         </div>
@@ -105,7 +105,20 @@ title: Home
                 </div>
 
                 <div style="padding: 8px 0;">
-                  <div class="g-recaptcha-v3" data-sitekey="6Ld415kqAAAAAIJsftBFII3s59ZXIaU8PFqc-JD5" style="display: none"></div>
+                  <div class="sib-captcha sib-form-block">
+                    <div class="form__entry entry_block">
+                      <div class="form__label-row">
+                        <script>
+                          function handleCaptchaResponse() {
+                            var event = new Event('captchaChange');
+                            document.getElementById('sib-captcha').dispatchEvent(event);
+                          }
+                        </script>
+                        <div class="g-recaptcha sib-visible-recaptcha" id="sib-captcha" data-sitekey="6LcCpsctAAAAAC-wq0RksNWolyhOwFetiKYGWO_y" data-callback="handleCaptchaResponse" style="direction:ltr"></div>
+                      </div>
+                      <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:Helvetica, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;"></label>
+                    </div>
+                  </div>
                 </div>
 
                 <input type="text" name="email_address_check" value="" class="input--hidden">
@@ -130,7 +143,7 @@ title: Home
           var AUTOHIDE = Boolean(0);
         </script>
         <script defer src="https://sibforms.com/forms/end-form/build/main.js"></script>
-        <script src="https://www.google.com/recaptcha/api.js?render=6Ld415kqAAAAAIJsftBFII3s59ZXIaU8PFqc-JD5&hl=en" async defer></script>
+        <script src="https://www.google.com/recaptcha/api.js?hl=en"></script>
         <!-- End Brevo Form -->
     </div>
 </section>
