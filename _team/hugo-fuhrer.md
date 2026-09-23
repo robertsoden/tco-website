@@ -1,10 +1,9 @@
 ---
 name: Hugo Fuhrer
 title: Research Assistant
-hidden: true
 category: research-assistant
 order: 202
-image: ""
+image: /assets/images/team/hugo-fuhrer.jpg
 email: ""
 website: ""
 research_interests: "Flood history, climate data"
